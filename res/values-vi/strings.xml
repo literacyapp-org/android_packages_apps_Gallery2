@@ -21,67 +21,67 @@
     <string name="details_ms" msgid="940634969189855292">"%1$02d:%2$02d"</string>
     <string name="details_hms" msgid="3215779248094151255">"%1$d:%2$02d:%3$02d"</string>
     <string name="movie_view_label" msgid="3526526872644898229">"Trình phát video"</string>
-    <string name="loading_video" msgid="4013492720121891585">"Đang tải video..."</string>
-    <string name="loading_image" msgid="1200894415793838191">"Đang tải ảnh…"</string>
-    <string name="loading_account" msgid="928195413034552034">"Đang tải tài khoản…"</string>
+    <string name="loading_video" msgid="4013492720121891585">"�?ang tải video..."</string>
+    <string name="loading_image" msgid="1200894415793838191">"�?ang tải ảnh…"</string>
+    <string name="loading_account" msgid="928195413034552034">"�?ang tải tài khoản…"</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Tiếp tục video"</string>
     <string name="resume_playing_message" msgid="5184414518126703481">"Tiếp tục phát từ %s ?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Tiếp tục phát"</string>
-    <string name="loading" msgid="7038208555304563571">"Đang tải…"</string>
+    <string name="loading" msgid="7038208555304563571">"�?ang tải…"</string>
     <string name="fail_to_load" msgid="8394392853646664505">"Không thể tải"</string>
     <string name="fail_to_load_image" msgid="6155388718549782425">"Không thể tải hình ảnh"</string>
-    <string name="no_thumbnail" msgid="284723185546429750">"Không có hình thu nhỏ"</string>
+    <string name="no_thumbnail" msgid="284723185546429750">"Không có hình thu nh�?"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"Bắt đầu lại"</string>
     <string name="crop_save_text" msgid="152200178986698300">"OK"</string>
     <string name="ok" msgid="5296833083983263293">"OK"</string>
     <string name="multiface_crop_help" msgid="2554690102655855657">"Chạm vào một khuôn  mặt để bắt đầu."</string>
-    <string name="saving_image" msgid="7270334453636349407">"Đang lưu ảnh…"</string>
-    <string name="filtershow_saving_image" msgid="6659463980581993016">"Đang lưu ảnh vào <xliff:g id="ALBUM_NAME">%1$s</xliff:g> …"</string>
+    <string name="saving_image" msgid="7270334453636349407">"�?ang lưu ảnh…"</string>
+    <string name="filtershow_saving_image" msgid="6659463980581993016">"�?ang lưu ảnh vào <xliff:g id="ALBUM_NAME">%1$s</xliff:g> …"</string>
     <string name="save_error" msgid="6857408774183654970">"Không thể lưu hình ảnh được cắt."</string>
     <string name="crop_label" msgid="521114301871349328">"Cắt ảnh"</string>
     <string name="trim_label" msgid="274203231381209979">"Cắt ngắn video"</string>
-    <string name="select_image" msgid="7841406150484742140">"Chọn ảnh"</string>
-    <string name="select_video" msgid="4859510992798615076">"Chọn video"</string>
-    <string name="select_item" msgid="2816923896202086390">"Chọn mục"</string>
-    <string name="select_album" msgid="1557063764849434077">"Chọn album"</string>
-    <string name="select_group" msgid="6744208543323307114">"Chọn nhóm"</string>
-    <string name="set_image" msgid="2331476809308010401">"Đặt ảnh làm"</string>
-    <string name="set_wallpaper" msgid="8491121226190175017">"Đặt hình nền"</string>
-    <string name="wallpaper" msgid="140165383777262070">"Đang đặt hình nền..."</string>
-    <string name="camera_setas_wallpaper" msgid="797463183863414289">"Hình nền"</string>
+    <string name="select_image" msgid="7841406150484742140">"Ch�?n ảnh"</string>
+    <string name="select_video" msgid="4859510992798615076">"Ch�?n video"</string>
+    <string name="select_item" msgid="2816923896202086390">"Ch�?n mục"</string>
+    <string name="select_album" msgid="1557063764849434077">"Ch�?n album"</string>
+    <string name="select_group" msgid="6744208543323307114">"Ch�?n nhóm"</string>
+    <string name="set_image" msgid="2331476809308010401">"�?ặt ảnh làm"</string>
+    <string name="set_wallpaper" msgid="8491121226190175017">"�?ặt hình n�?n"</string>
+    <string name="wallpaper" msgid="140165383777262070">"�?ang đặt hình n�?n..."</string>
+    <string name="camera_setas_wallpaper" msgid="797463183863414289">"Hình n�?n"</string>
     <string name="delete" msgid="2839695998251824487">"Xóa"</string>
   <plurals name="delete_selection">
-    <item quantity="one" msgid="6453379735401083732">"Xóa mục đã chọn?"</item>
-    <item quantity="other" msgid="5874316486520635333">"Xóa các mục đã chọn?"</item>
+    <item quantity="one" msgid="6453379735401083732">"Xóa mục đã ch�?n?"</item>
+    <item quantity="other" msgid="5874316486520635333">"Xóa các mục đã ch�?n?"</item>
   </plurals>
     <string name="confirm" msgid="8646870096527848520">"Xác nhận"</string>
     <string name="cancel" msgid="3637516880917356226">"Hủy"</string>
     <string name="share" msgid="3619042788254195341">"Chia sẻ"</string>
     <string name="share_panorama" msgid="2569029972820978718">"Chia sẻ ảnh toàn cảnh"</string>
     <string name="share_as_photo" msgid="8959225188897026149">"Chia sẻ dưới dạng ảnh"</string>
-    <string name="deleted" msgid="6795433049119073871">"Đã xóa"</string>
-    <string name="undo" msgid="2930873956446586313">"HOÀN TÁC"</string>
-    <string name="select_all" msgid="3403283025220282175">"Chọn tất cả"</string>
-    <string name="deselect_all" msgid="5758897506061723684">"Bỏ chọn tất cả"</string>
+    <string name="deleted" msgid="6795433049119073871">"�?ã xóa"</string>
+    <string name="undo" msgid="2930873956446586313">"HOÀN T�?C"</string>
+    <string name="select_all" msgid="3403283025220282175">"Ch�?n tất cả"</string>
+    <string name="deselect_all" msgid="5758897506061723684">"B�? ch�?n tất cả"</string>
     <string name="slideshow" msgid="4355906903247112975">"Trình chiếu"</string>
     <string name="details" msgid="8415120088556445230">"Chi tiết"</string>
     <string name="details_title" msgid="2611396603977441273">"%1$d trong tổng số %2$d mục:"</string>
-    <string name="close" msgid="5585646033158453043">"Đóng"</string>
+    <string name="close" msgid="5585646033158453043">"�?óng"</string>
     <string name="switch_to_camera" msgid="7280111806675169992">"Chuyển sang máy ảnh"</string>
   <plurals name="number_of_items_selected">
-    <item quantity="zero" msgid="2142579311530586258">"%1$d mục được chọn"</item>
-    <item quantity="one" msgid="2478365152745637768">"%1$d mục được chọn"</item>
-    <item quantity="other" msgid="754722656147810487">"%1$d mục được chọn"</item>
+    <item quantity="zero" msgid="2142579311530586258">"%1$d mục được ch�?n"</item>
+    <item quantity="one" msgid="2478365152745637768">"%1$d mục được ch�?n"</item>
+    <item quantity="other" msgid="754722656147810487">"%1$d mục được ch�?n"</item>
   </plurals>
   <plurals name="number_of_albums_selected">
-    <item quantity="zero" msgid="749292746814788132">"%1$d album được chọn"</item>
-    <item quantity="one" msgid="6184377003099987825">"%1$d album được chọn"</item>
-    <item quantity="other" msgid="53105607141906130">"%1$d album được chọn"</item>
+    <item quantity="zero" msgid="749292746814788132">"%1$d album được ch�?n"</item>
+    <item quantity="one" msgid="6184377003099987825">"%1$d album được ch�?n"</item>
+    <item quantity="other" msgid="53105607141906130">"%1$d album được ch�?n"</item>
   </plurals>
   <plurals name="number_of_groups_selected">
-    <item quantity="zero" msgid="3466388370310869238">"%1$d nhóm được chọn"</item>
-    <item quantity="one" msgid="5030162638216034260">"%1$d nhóm được chọn"</item>
-    <item quantity="other" msgid="3512041363942842738">"%1$d nhóm được chọn"</item>
+    <item quantity="zero" msgid="3466388370310869238">"%1$d nhóm được ch�?n"</item>
+    <item quantity="one" msgid="5030162638216034260">"%1$d nhóm được ch�?n"</item>
+    <item quantity="other" msgid="3512041363942842738">"%1$d nhóm được ch�?n"</item>
   </plurals>
     <string name="show_on_map" msgid="6157544221201750980">"Hiển thị trên bản đồ"</string>
     <string name="rotate_left" msgid="5888273317282539839">"Xoay trái"</string>
@@ -89,18 +89,18 @@
     <string name="no_such_item" msgid="5315144556325243400">"Không thể tìm thấy mục."</string>
     <string name="edit" msgid="1502273844748580847">"Chỉnh sửa"</string>
     <string name="simple_edit" msgid="2792835918347498211">"Chỉnh sửa đơn giản"</string>
-    <string name="process_caching_requests" msgid="8722939570307386071">"Đang xử lý yêu cầu lưu vào bộ nhớ cache"</string>
+    <string name="process_caching_requests" msgid="8722939570307386071">"�?ang xử lý yêu cầu lưu vào bộ nhớ cache"</string>
     <string name="caching_label" msgid="4521059045896269095">"Lưu cache..."</string>
     <string name="crop_action" msgid="3427470284074377001">"Cắt"</string>
     <string name="trim_action" msgid="703098114452883524">"Cắt"</string>
     <string name="mute_action" msgid="5296241754753306251">"Ẩn"</string>
-    <string name="set_as" msgid="3636764710790507868">"Đặt làm"</string>
+    <string name="set_as" msgid="3636764710790507868">"�?ặt làm"</string>
     <string name="video_mute_err" msgid="6392457611270600908">"Không thể ẩn video."</string>
     <string name="video_err" msgid="7003051631792271009">"Không thể phát video."</string>
     <string name="group_by_location" msgid="316641628989023253">"Theo vị trí"</string>
-    <string name="group_by_time" msgid="9046168567717963573">"Theo thời gian"</string>
+    <string name="group_by_time" msgid="9046168567717963573">"Theo th�?i gian"</string>
     <string name="group_by_tags" msgid="3568731317210676160">"Theo thẻ"</string>
-    <string name="group_by_faces" msgid="1566351636227274906">"Theo người"</string>
+    <string name="group_by_faces" msgid="1566351636227274906">"Theo ngư�?i"</string>
     <string name="group_by_album" msgid="1532818636053818958">"Theo album"</string>
     <string name="group_by_size" msgid="153766174950394155">"Theo kích thước"</string>
     <string name="untagged" msgid="7281481064509590402">"Không được gắn thẻ"</string>
@@ -112,7 +112,7 @@
     <string name="show_all" msgid="6963292714584735149">"Hình ảnh &amp; video"</string>
     <string name="appwidget_title" msgid="6410561146863700411">"Thư viện ảnh"</string>
     <string name="appwidget_empty_text" msgid="1228925628357366957">"Không có ảnh."</string>
-    <string name="crop_saved" msgid="1595985909779105158">"Đã lưu hình ảnh được cắt vào <xliff:g id="FOLDER_NAME">%s</xliff:g>."</string>
+    <string name="crop_saved" msgid="1595985909779105158">"�?ã lưu hình ảnh được cắt vào <xliff:g id="FOLDER_NAME">%s</xliff:g>."</string>
     <string name="no_albums_alert" msgid="4111744447491690896">"Không có album nào."</string>
     <string name="empty_album" msgid="4542880442593595494">"O có hình ảnh/video nào."</string>
     <string name="picasa_posts" msgid="1497721615718760613">"Bài đăng"</string>
@@ -120,15 +120,15 @@
     <string name="sync_picasa_albums" msgid="8522572542111169872">"Làm mới"</string>
     <string name="done" msgid="217672440064436595">"Xong"</string>
     <string name="sequence_in_set" msgid="7235465319919457488">"%1$d/%2$d mục:"</string>
-    <string name="title" msgid="7622928349908052569">"Tiêu đề"</string>
+    <string name="title" msgid="7622928349908052569">"Tiêu đ�?"</string>
     <string name="description" msgid="3016729318096557520">"Mô tả"</string>
-    <string name="time" msgid="1367953006052876956">"Thời gian"</string>
+    <string name="time" msgid="1367953006052876956">"Th�?i gian"</string>
     <string name="location" msgid="3432705876921618314">"Vị trí"</string>
-    <string name="path" msgid="4725740395885105824">"Đường dẫn"</string>
-    <string name="width" msgid="9215847239714321097">"Chiều rộng"</string>
-    <string name="height" msgid="3648885449443787772">"Chiều cao"</string>
+    <string name="path" msgid="4725740395885105824">"�?ư�?ng dẫn"</string>
+    <string name="width" msgid="9215847239714321097">"Chi�?u rộng"</string>
+    <string name="height" msgid="3648885449443787772">"Chi�?u cao"</string>
     <string name="orientation" msgid="4958327983165245513">"Hướng"</string>
-    <string name="duration" msgid="8160058911218541616">"Thời lượng"</string>
+    <string name="duration" msgid="8160058911218541616">"Th�?i lượng"</string>
     <string name="mimetype" msgid="8024168704337990470">"Loại MIME"</string>
     <string name="file_size" msgid="8486169301588318915">"Kích thước tệp"</string>
     <string name="maker" msgid="7921835498034236197">"Trình tạo"</string>
@@ -137,7 +137,7 @@
     <string name="aperture" msgid="5920657630303915195">"Khẩu độ"</string>
     <string name="focal_length" msgid="1291383769749877010">"Tiêu cự"</string>
     <string name="white_balance" msgid="1582509289994216078">"Cân bằng trắng"</string>
-    <string name="exposure_time" msgid="3990163680281058826">"Thời gian phơi sáng"</string>
+    <string name="exposure_time" msgid="3990163680281058826">"Th�?i gian phơi sáng"</string>
     <string name="iso" msgid="5028296664327335940">"ISO"</string>
     <string name="unit_mm" msgid="1125768433254329136">"mm"</string>
     <string name="manual" msgid="6608905477477607865">"Thủ công"</string>
@@ -150,14 +150,14 @@
     <string name="ffx_instant" msgid="726968618715691987">"Instant"</string>
     <string name="ffx_bleach" msgid="8946700451603478453">"Làm phai màu"</string>
     <string name="ffx_blue_crush" msgid="6034283412305561226">"Màu xanh dương"</string>
-    <string name="ffx_bw_contrast" msgid="517988490066217206">"Đen/trắng"</string>
+    <string name="ffx_bw_contrast" msgid="517988490066217206">"�?en/trắng"</string>
     <string name="ffx_punch" msgid="1343475517872562639">"Hơi vàng"</string>
     <string name="ffx_x_process" msgid="4779398678661811765">"Quá trình X"</string>
     <string name="ffx_washout" msgid="4594160692176642735">"Latte"</string>
     <string name="ffx_washout_color" msgid="8034075742195795219">"Litho"</string>
   <plurals name="make_albums_available_offline">
-    <item quantity="one" msgid="2171596356101611086">"Đặt album khả dụng ở chế độ ngoại tuyến."</item>
-    <item quantity="other" msgid="4948604338155959389">"Đặt album khả dụng ở chế độ ngoại tuyến."</item>
+    <item quantity="one" msgid="2171596356101611086">"�?ặt album khả dụng ở chế độ ngoại tuyến."</item>
+    <item quantity="other" msgid="4948604338155959389">"�?ặt album khả dụng ở chế độ ngoại tuyến."</item>
   </plurals>
     <string name="try_to_set_local_album_available_offline" msgid="2184754031896160755">"Mục này được lưu cục bộ và khả dụng ngoại tuyến."</string>
     <string name="set_label_all_albums" msgid="4581863582996336783">"Tất cả album"</string>
@@ -171,13 +171,13 @@
     <string name="Import" msgid="3985447518557474672">"Nhập"</string>
     <string name="import_complete" msgid="3875040287486199999">"Nhập xong"</string>
     <string name="import_fail" msgid="8497942380703298808">"Nhập không thành công"</string>
-    <string name="camera_connected" msgid="916021826223448591">"Đã kết nối máy ảnh."</string>
-    <string name="camera_disconnected" msgid="2100559901676329496">"Đã ngắt kết nối máy ảnh."</string>
+    <string name="camera_connected" msgid="916021826223448591">"�?ã kết nối máy ảnh."</string>
+    <string name="camera_disconnected" msgid="2100559901676329496">"�?ã ngắt kết nối máy ảnh."</string>
     <string name="click_import" msgid="6407959065464291972">"Chạm vào đây để nhập"</string>
-    <string name="widget_type_album" msgid="6013045393140135468">"Chọn album"</string>
+    <string name="widget_type_album" msgid="6013045393140135468">"Ch�?n album"</string>
     <string name="widget_type_shuffle" msgid="8594622705019763768">"Hiển thị ngẫu nhiên tất cả hình ảnh"</string>
-    <string name="widget_type_photo" msgid="6267065337367795355">"Chọn ảnh"</string>
-    <string name="widget_type" msgid="1364653978966343448">"Chọn hình ảnh"</string>
+    <string name="widget_type_photo" msgid="6267065337367795355">"Ch�?n ảnh"</string>
+    <string name="widget_type" msgid="1364653978966343448">"Ch�?n hình ảnh"</string>
     <string name="slideshow_dream_name" msgid="6915963319933437083">"Trình chiếu"</string>
     <string name="albums" msgid="7320787705180057947">"Album"</string>
     <string name="times" msgid="2023033894889499219">"Lần"</string>
@@ -190,7 +190,7 @@
     <string name="folder_camera" msgid="4714658994809533480">"Máy ảnh"</string>
     <string name="folder_download" msgid="7186215137642323932">"Tải xuống"</string>
     <string name="folder_edited_online_photos" msgid="6278215510236800181">"Ảnh trực tuyến đã chỉnh sửa"</string>
-    <string name="folder_imported" msgid="2773581395524747099">"Đã nhập"</string>
+    <string name="folder_imported" msgid="2773581395524747099">"�?ã nhập"</string>
     <string name="folder_screenshot" msgid="7200396565864213450">"Ảnh chụp màn hình"</string>
     <string name="help" msgid="7368960711153618354">"Trợ giúp"</string>
     <string name="no_external_storage_title" msgid="2408933644249734569">"Không có bộ nhớ nào"</string>
@@ -198,22 +198,22 @@
     <string name="switch_photo_filmstrip" msgid="8227883354281661548">"Chế độ xem cuộn phim"</string>
     <string name="switch_photo_grid" msgid="3681299459107925725">"Chế độ xem lưới"</string>
     <string name="switch_photo_fullscreen" msgid="8360489096099127071">"Xem toàn màn hình"</string>
-    <string name="trimming" msgid="9122385768369143997">"Đang cắt ngắn"</string>
-    <string name="muting" msgid="5094925919589915324">"Đang ẩn"</string>
-    <string name="please_wait" msgid="7296066089146487366">"Vui lòng chờ"</string>
-    <string name="save_into" msgid="9155488424829609229">"Đang lưu video vào <xliff:g id="ALBUM_NAME">%1$s</xliff:g> …"</string>
+    <string name="trimming" msgid="9122385768369143997">"�?ang cắt ngắn"</string>
+    <string name="muting" msgid="5094925919589915324">"�?ang ẩn"</string>
+    <string name="please_wait" msgid="7296066089146487366">"Vui lòng ch�?"</string>
+    <string name="save_into" msgid="9155488424829609229">"�?ang lưu video vào <xliff:g id="ALBUM_NAME">%1$s</xliff:g> …"</string>
     <string name="trim_too_short" msgid="751593965620665326">"Không thể cắt ngắn : video đích quá ngắn"</string>
     <string name="pano_progress_text" msgid="1586851614586678464">"Hiển thị ảnh toàn cảnh"</string>
     <string name="save" msgid="613976532235060516">"Lưu"</string>
-    <string name="ingest_scanning" msgid="1062957108473988971">"Đang quét nội dung..."</string>
+    <string name="ingest_scanning" msgid="1062957108473988971">"�?ang quét nội dung..."</string>
   <plurals name="ingest_number_of_items_scanned">
     <item quantity="zero" msgid="2623289390474007396">"%1$d mục được quét"</item>
     <item quantity="one" msgid="4340019444460561648">"%1$d mục được quét"</item>
     <item quantity="other" msgid="3138021473860555499">"%1$d mục được quét"</item>
   </plurals>
-    <string name="ingest_sorting" msgid="1028652103472581918">"Đang sắp xếp..."</string>
-    <string name="ingest_scanning_done" msgid="8911916277034483430">"Đã quét xong"</string>
-    <string name="ingest_importing" msgid="7456633398378527611">"Đang nhập..."</string>
+    <string name="ingest_sorting" msgid="1028652103472581918">"�?ang sắp xếp..."</string>
+    <string name="ingest_scanning_done" msgid="8911916277034483430">"�?ã quét xong"</string>
+    <string name="ingest_importing" msgid="7456633398378527611">"�?ang nhập..."</string>
     <string name="ingest_empty_device" msgid="2010470482779872622">"Không có nội dung nào để nhập vào thiết bị này."</string>
     <string name="ingest_no_device" msgid="3054128223131382122">"Không có thiết bị MTP nào được kết nối"</string>
     <string name="camera_error_title" msgid="6484667504938477337">"Lỗi máy ảnh"</string>
@@ -221,21 +221,21 @@
     <string name="camera_disabled" msgid="8923911090533439312">"Máy ảnh đã bị tắt do chính sách bảo mật."</string>
     <string name="camera_label" msgid="6346560772074764302">"Máy ảnh"</string>
     <string name="wait" msgid="8600187532323801552">"Vui lòng đợi..."</string>
-    <string name="no_storage" product="nosdcard" msgid="7335975356349008814">"Kết nối bộ nhớ USB trước khi sử dụng máy ảnh."</string>
+
     <string name="no_storage" product="default" msgid="5137703033746873624">"Lắp thẻ SD trước khi sử dụng máy ảnh."</string>
-    <string name="preparing_sd" product="nosdcard" msgid="6104019983528341353">"Đang chuẩn bị bộ nhớ USB…"</string>
-    <string name="preparing_sd" product="default" msgid="2914969119574812666">"Đang chuẩn bị thẻ SD…"</string>
-    <string name="access_sd_fail" product="nosdcard" msgid="8147993984037859354">"Không thể truy cập bộ nhớ USB."</string>
+
+    <string name="preparing_sd" product="default" msgid="2914969119574812666">"�?ang chuẩn bị thẻ SD…"</string>
+
     <string name="access_sd_fail" product="default" msgid="1584968646870054352">"Không thể truy cập thẻ SD."</string>
     <string name="review_cancel" msgid="8188009385853399254">"HUỶ"</string>
     <string name="review_ok" msgid="1156261588693116433">"XONG"</string>
-    <string name="time_lapse_title" msgid="4360632427760662691">"Đang ghi âm khoảng thời gian"</string>
-    <string name="pref_camera_id_title" msgid="4040791582294635851">"Chọn máy ảnh"</string>
+    <string name="time_lapse_title" msgid="4360632427760662691">"�?ang ghi âm khoảng th�?i gian"</string>
+    <string name="pref_camera_id_title" msgid="4040791582294635851">"Ch�?n máy ảnh"</string>
     <string name="pref_camera_id_entry_back" msgid="5142699735103692485">"Quay lại"</string>
     <string name="pref_camera_id_entry_front" msgid="5668958706828733669">"Trước"</string>
     <string name="pref_camera_recordlocation_title" msgid="371208839215448917">"Vị trí lưu trữ"</string>
-    <string name="pref_camera_location_label" msgid="2254270920298609161">"VỊ TRÍ"</string>
-    <string name="pref_camera_timer_title" msgid="3105232208281893389">"Đồng hồ đếm ngược"</string>
+    <string name="pref_camera_location_label" msgid="2254270920298609161">"VỊ TR�?"</string>
+    <string name="pref_camera_timer_title" msgid="3105232208281893389">"�?ồng hồ đếm ngược"</string>
   <plurals name="pref_camera_timer_entry">
     <item quantity="one" msgid="1654523400981245448">"1 giây"</item>
     <item quantity="other" msgid="6455381617076792481">"%d giây"</item>
@@ -248,7 +248,7 @@
     <string name="pref_video_quality_title" msgid="8245379279801096922">"Chất lượng video"</string>
     <string name="pref_video_quality_entry_high" msgid="8664038216234805914">"Cao"</string>
     <string name="pref_video_quality_entry_low" msgid="7258507152393173784">"Thấp"</string>
-    <string name="pref_video_time_lapse_frame_interval_title" msgid="6245716906744079302">"Chế độ thời gian trôi"</string>
+    <string name="pref_video_time_lapse_frame_interval_title" msgid="6245716906744079302">"Chế độ th�?i gian trôi"</string>
     <string name="pref_camera_settings_category" msgid="2576236450859613120">"Cài đặt máy ảnh"</string>
     <string name="pref_camcorder_settings_category" msgid="460313486231965141">"Cài đặt máy quay video"</string>
     <string name="pref_camera_picturesize_title" msgid="4333724936665883006">"Kích thước ảnh"</string>
@@ -267,27 +267,27 @@
     <string name="pref_camera_focusmode_entry_auto" msgid="7374820710300362457">"Tự động"</string>
     <string name="pref_camera_focusmode_entry_infinity" msgid="3413922419264967552">"Vô cùng"</string>
     <string name="pref_camera_focusmode_entry_macro" msgid="4424489110551866161">"Macro"</string>
-    <string name="pref_camera_focusmode_label_auto" msgid="8547956917516317183">"TỰ ĐỘNG"</string>
+    <string name="pref_camera_focusmode_label_auto" msgid="8547956917516317183">"TỰ �?ỘNG"</string>
     <string name="pref_camera_focusmode_label_infinity" msgid="4272904160062531778">"VÔ CỰC"</string>
     <string name="pref_camera_focusmode_label_macro" msgid="8749317592620908054">"MACRO"</string>
     <string name="pref_camera_flashmode_title" msgid="2287362477238791017">"Chế độ flash"</string>
-    <string name="pref_camera_flashmode_label" msgid="7546741624882856171">"CHẾ ĐỘ FLASH"</string>
+    <string name="pref_camera_flashmode_label" msgid="7546741624882856171">"CHẾ �?Ộ FLASH"</string>
     <string name="pref_camera_flashmode_entry_auto" msgid="7288383434237457709">"Tự động"</string>
     <string name="pref_camera_flashmode_entry_on" msgid="5330043918845197616">"Bật"</string>
     <string name="pref_camera_flashmode_entry_off" msgid="867242186958805761">"Tắt"</string>
-    <string name="pref_camera_flashmode_label_auto" msgid="8854671890619026197">"FLASH TỰ ĐỘNG"</string>
+    <string name="pref_camera_flashmode_label_auto" msgid="8854671890619026197">"FLASH TỰ �?ỘNG"</string>
     <string name="pref_camera_flashmode_label_on" msgid="7347504762794840140">"BẬT FLASH"</string>
     <string name="pref_camera_flashmode_label_off" msgid="3541596735596053416">"TẮT FLASH"</string>
     <string name="pref_camera_whitebalance_title" msgid="677420930596673340">"Cân bằng trắng"</string>
     <string name="pref_camera_whitebalance_label" msgid="7467403405883190920">"CÂN BẰNG TRẮNG"</string>
     <string name="pref_camera_whitebalance_entry_auto" msgid="6580665476983469293">"Tự động"</string>
-    <string name="pref_camera_whitebalance_entry_incandescent" msgid="8856667786449549938">"Ánh sáng nóng"</string>
-    <string name="pref_camera_whitebalance_entry_daylight" msgid="2534757270149561027">"Ánh sáng ban ngày"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent" msgid="8856667786449549938">"�?nh sáng nóng"</string>
+    <string name="pref_camera_whitebalance_entry_daylight" msgid="2534757270149561027">"�?nh sáng ban ngày"</string>
     <string name="pref_camera_whitebalance_entry_fluorescent" msgid="2435332872847454032">"Huỳnh quang"</string>
-    <string name="pref_camera_whitebalance_entry_cloudy" msgid="3531996716997959326">"Nhiều mây"</string>
-    <string name="pref_camera_whitebalance_label_auto" msgid="1479694362310491429">"TỰ ĐỘNG"</string>
-    <string name="pref_camera_whitebalance_label_incandescent" msgid="7427628260209908900">"ÁNH SÁNG NÓNG"</string>
-    <string name="pref_camera_whitebalance_label_daylight" msgid="1859710806141461399">"ÁNH SÁNG BAN NGÀY"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy" msgid="3531996716997959326">"Nhi�?u mây"</string>
+    <string name="pref_camera_whitebalance_label_auto" msgid="1479694362310491429">"TỰ �?ỘNG"</string>
+    <string name="pref_camera_whitebalance_label_incandescent" msgid="7427628260209908900">"�?NH S�?NG NÓNG"</string>
+    <string name="pref_camera_whitebalance_label_daylight" msgid="1859710806141461399">"�?NH S�?NG BAN NGÀY"</string>
     <string name="pref_camera_whitebalance_label_fluorescent" msgid="5173251749161337707">"HUỲNH QUANG"</string>
     <string name="pref_camera_whitebalance_label_cloudy" msgid="8230173517179285320">"NHIỀU MÂY"</string>
     <string name="pref_camera_scenemode_title" msgid="1420535844292504016">"Chế độ chụp cảnh"</string>
@@ -298,52 +298,52 @@
     <string name="pref_camera_scenemode_entry_sunset" msgid="181661154611507212">"Hoàng hôn"</string>
     <string name="pref_camera_scenemode_entry_party" msgid="907053529286788253">"Bữa tiệc"</string>
     <string name="pref_camera_scenemode_label_auto" msgid="4475096836397300237">"KHÔNG CÓ"</string>
-    <string name="pref_camera_scenemode_label_action" msgid="964748409622151496">"TÁC VỤ"</string>
-    <string name="pref_camera_scenemode_label_night" msgid="1269871886845854574">"ĐÊM"</string>
+    <string name="pref_camera_scenemode_label_action" msgid="964748409622151496">"T�?C VỤ"</string>
+    <string name="pref_camera_scenemode_label_night" msgid="1269871886845854574">"�?ÊM"</string>
     <string name="pref_camera_scenemode_label_sunset" msgid="2802732082948866877">"HOÀNG HÔN"</string>
     <string name="pref_camera_scenemode_label_party" msgid="1409459091844374828">"BỮA TIỆC"</string>
-    <string name="pref_camera_countdown_label" msgid="7592784692450586126">"ĐỒNG HỒ ĐẾM NGƯỢC"</string>
-    <string name="pref_camera_countdown_label_off" msgid="4987856883590176585">"TẮT BỘ TÍNH GIỜ"</string>
+    <string name="pref_camera_countdown_label" msgid="7592784692450586126">"�?ỒNG HỒ �?ẾM NGƯỢC"</string>
+    <string name="pref_camera_countdown_label_off" msgid="4987856883590176585">"TẮT BỘ T�?NH GIỜ"</string>
     <string name="pref_camera_countdown_label_one" msgid="1101814103087928898">"1 GIÂY"</string>
     <string name="pref_camera_countdown_label_three" msgid="1047399297342955649">"3 GIÂY"</string>
     <string name="pref_camera_countdown_label_ten" msgid="6274681535347260279">"10 GIÂY"</string>
     <string name="pref_camera_countdown_label_fifteen" msgid="4544824246687597089">"15 GIÂY"</string>
-    <string name="not_selectable_in_scene_mode" msgid="2970291701448555126">"Không thể chọn trong chế độ cảnh."</string>
+    <string name="not_selectable_in_scene_mode" msgid="2970291701448555126">"Không thể ch�?n trong chế độ cảnh."</string>
     <string name="pref_exposure_title" msgid="1229093066434614811">"Phơi sáng"</string>
-    <string name="pref_exposure_label" msgid="552624394642497940">"ĐỘ PHƠI SÁNG"</string>
+    <string name="pref_exposure_label" msgid="552624394642497940">"�?Ộ PHƠI S�?NG"</string>
     <!-- no translation found for pref_camera_hdr_default (1336869406134365882) -->
     <skip />
     <string name="pref_camera_hdr_label" msgid="7217211253357027510">"HDR"</string>
-    <string name="pref_camera_id_label_back" msgid="8745553500400332333">"MÁY ẢNH MẶT TRƯỚC"</string>
-    <string name="pref_camera_id_label_front" msgid="8699439330056996709">"MÁY ẢNH MẶT SAU"</string>
+    <string name="pref_camera_id_label_back" msgid="8745553500400332333">"M�?Y ẢNH MẶT TRƯỚC"</string>
+    <string name="pref_camera_id_label_front" msgid="8699439330056996709">"M�?Y ẢNH MẶT SAU"</string>
     <string name="dialog_ok" msgid="6263301364153382152">"OK"</string>
-    <string name="spaceIsLow_content" product="nosdcard" msgid="4401325203349203177">"Bộ nhớ USB của bạn sắp hết dung lượng. Thay đổi cài đặt chất lượng hoặc xóa một số ảnh hoặc tệp khác."</string>
+
     <string name="spaceIsLow_content" product="default" msgid="1732882643101247179">"Thẻ SD của bạn sắp hết dung lượng. Thay đổi cài đặt chất lượng hoặc xóa một số ảnh hoặc tệp khác."</string>
-    <string name="video_reach_size_limit" msgid="6179877322015552390">"Đã đạt tới giới hạn kích thước."</string>
+    <string name="video_reach_size_limit" msgid="6179877322015552390">"�?ã đạt tới giới hạn kích thước."</string>
     <string name="pano_too_fast_prompt" msgid="2823839093291374709">"Quá nhanh"</string>
-    <string name="pano_dialog_prepare_preview" msgid="4788441554128083543">"Đang tạo xem trước toàn cảnh"</string>
+    <string name="pano_dialog_prepare_preview" msgid="4788441554128083543">"�?ang tạo xem trước toàn cảnh"</string>
     <string name="pano_dialog_panorama_failed" msgid="2155692796549642116">"Không thể lưu toàn cảnh."</string>
     <string name="pano_dialog_title" msgid="5755531234434437697">"Toàn cảnh"</string>
-    <string name="pano_capture_indication" msgid="8248825828264374507">"Đang chụp toàn cảnh"</string>
-    <string name="pano_dialog_waiting_previous" msgid="7800325815031423516">"Đang đợi ảnh toàn cảnh trước đó"</string>
-    <string name="pano_review_saving_indication_str" msgid="2054886016665130188">"Đang lưu…"</string>
-    <string name="pano_review_rendering" msgid="2887552964129301902">"Đang hiển thị ảnh toàn cảnh"</string>
+    <string name="pano_capture_indication" msgid="8248825828264374507">"�?ang chụp toàn cảnh"</string>
+    <string name="pano_dialog_waiting_previous" msgid="7800325815031423516">"�?ang đợi ảnh toàn cảnh trước đó"</string>
+    <string name="pano_review_saving_indication_str" msgid="2054886016665130188">"�?ang lưu…"</string>
+    <string name="pano_review_rendering" msgid="2887552964129301902">"�?ang hiển thị ảnh toàn cảnh"</string>
     <string name="tap_to_focus" msgid="8863427645591903760">"Chạm để lấy tiêu cự."</string>
     <string name="pref_video_effect_title" msgid="8243182968457289488">"Hiệu ứng"</string>
-    <string name="effect_none" msgid="3601545724573307541">"Bỏ chọn tất cả"</string>
+    <string name="effect_none" msgid="3601545724573307541">"B�? ch�?n tất cả"</string>
     <string name="effect_goofy_face_squeeze" msgid="1207235692524289171">"Xoa"</string>
-    <string name="effect_goofy_face_big_eyes" msgid="3945182409691408412">"Đôi mắt to"</string>
+    <string name="effect_goofy_face_big_eyes" msgid="3945182409691408412">"�?ôi mắt to"</string>
     <string name="effect_goofy_face_big_mouth" msgid="7528748779754643144">"Miệng lớn"</string>
-    <string name="effect_goofy_face_small_mouth" msgid="3848209817806932565">"Miệng nhỏ"</string>
+    <string name="effect_goofy_face_small_mouth" msgid="3848209817806932565">"Miệng nh�?"</string>
     <string name="effect_goofy_face_big_nose" msgid="5180533098740577137">"Mũi to"</string>
-    <string name="effect_goofy_face_small_eyes" msgid="1070355596290331271">"Đôi mắt nhỏ"</string>
+    <string name="effect_goofy_face_small_eyes" msgid="1070355596290331271">"�?ôi mắt nh�?"</string>
     <string name="effect_backdropper_space" msgid="7935661090723068402">"Trong không gian"</string>
     <string name="effect_backdropper_sunset" msgid="45198943771777870">"Hoàng hôn"</string>
     <string name="effect_backdropper_gallery" msgid="959158844620991906">"Video của bạn"</string>
-    <string name="bg_replacement_message" msgid="9184270738916564608">"Dừng thiết bị của bạn.\nThoát khỏi chế độ xem trong giây lát."</string>
+    <string name="bg_replacement_message" msgid="9184270738916564608">"Dừng thiết bị của bạn.\nThoát kh�?i chế độ xem trong giây lát."</string>
     <string name="video_snapshot_hint" msgid="18833576851372483">"Chạm để chụp ảnh trong khi quay."</string>
-    <string name="video_recording_started" msgid="4132915454417193503">"Đã bắt đầu quay video."</string>
-    <string name="video_recording_stopped" msgid="5086919511555808580">"Đã dừng quay video."</string>
+    <string name="video_recording_started" msgid="4132915454417193503">"�?ã bắt đầu quay video."</string>
+    <string name="video_recording_stopped" msgid="5086919511555808580">"�?ã dừng quay video."</string>
     <string name="disable_video_snapshot_hint" msgid="4957723267826476079">"Chụp nhanh video bị vô hiệu khi các hiệu ứng đặc biệt được bật."</string>
     <string name="clear_effects" msgid="5485339175014139481">"Xóa hiệu ứng"</string>
     <string name="effect_silly_faces" msgid="8107732405347155777">"MẶT XẤU"</string>
@@ -352,10 +352,10 @@
     <string name="accessibility_menu_button" msgid="7140794046259897328">"Nút trình đơn"</string>
     <string name="accessibility_review_thumbnail" msgid="8961275263537513017">"Ảnh gần đây nhất"</string>
     <string name="accessibility_camera_picker" msgid="8807945470215734566">"Chuyển đổi giữa máy ảnh trước và sau"</string>
-    <string name="accessibility_mode_picker" msgid="3278002189966833100">"Bộ chọn chế độ máy ảnh, video hoặc toàn cảnh"</string>
+    <string name="accessibility_mode_picker" msgid="3278002189966833100">"Bộ ch�?n chế độ máy ảnh, video hoặc toàn cảnh"</string>
     <string name="accessibility_second_level_indicators" msgid="3855951632917627620">"Kiểm soát cài đặt khác"</string>
-    <string name="accessibility_back_to_first_level" msgid="5234411571109877131">"Đóng kiểm soát cài đặt"</string>
-    <string name="accessibility_zoom_control" msgid="1339909363226825709">"Điều khiển thu phóng"</string>
+    <string name="accessibility_back_to_first_level" msgid="5234411571109877131">"�?óng kiểm soát cài đặt"</string>
+    <string name="accessibility_zoom_control" msgid="1339909363226825709">"�?i�?u khiển thu phóng"</string>
     <string name="accessibility_decrement" msgid="1411194318538035666">"Giảm %1$s"</string>
     <string name="accessibility_increment" msgid="8447850530444401135">"Tăng %1$s"</string>
     <string name="accessibility_check_box" msgid="7317447218256584181">"Hộp kiểm %1$s"</string>
@@ -365,12 +365,12 @@
     <string name="accessibility_switch_to_new_panorama" msgid="8116783308051524188">"Chuyển sang chế độ toàn cảnh mới"</string>
     <string name="accessibility_switch_to_refocus" msgid="4539294619557299903">"Chuyển sang Lấy nét lại"</string>
     <string name="accessibility_review_cancel" msgid="9070531914908644686">"Hủy bài đánh giá"</string>
-    <string name="accessibility_review_ok" msgid="7793302834271343168">"Đánh giá xong"</string>
+    <string name="accessibility_review_ok" msgid="7793302834271343168">"�?ánh giá xong"</string>
     <string name="accessibility_review_retake" msgid="659300290054705484">"Xem lại ảnh chụp lại"</string>
     <string name="accessibility_play_video" msgid="7596298365794810207">"Phát video"</string>
     <string name="accessibility_pause_video" msgid="6526344477133046653">"Tạm dừng video"</string>
     <string name="accessibility_reload_video" msgid="3250335917598607232">"Tải lại video"</string>
-    <string name="accessibility_time_bar" msgid="1414029843602604531">"Thanh thời gian của trình phát video"</string>
+    <string name="accessibility_time_bar" msgid="1414029843602604531">"Thanh th�?i gian của trình phát video"</string>
     <string name="capital_on" msgid="5491353494964003567">"BẬT"</string>
     <string name="capital_off" msgid="7231052688467970897">"TẮT"</string>
     <string name="pref_video_time_lapse_frame_interval_off" msgid="3490489191038309496">"Tắt"</string>
@@ -400,28 +400,28 @@
     <string name="pref_video_time_lapse_frame_interval_720000" msgid="8969801372893266408">"12 phút"</string>
     <string name="pref_video_time_lapse_frame_interval_900000" msgid="5803172407245902896">"15 phút"</string>
     <string name="pref_video_time_lapse_frame_interval_1440000" msgid="6286246349698492186">"24 phút"</string>
-    <string name="pref_video_time_lapse_frame_interval_1800000" msgid="5042628461448570758">"0,5 giờ"</string>
-    <string name="pref_video_time_lapse_frame_interval_3600000" msgid="6366071632666482636">"1 giờ"</string>
-    <string name="pref_video_time_lapse_frame_interval_5400000" msgid="536117788694519019">"1,5 giờ"</string>
-    <string name="pref_video_time_lapse_frame_interval_7200000" msgid="6846617415182608533">"2 giờ"</string>
-    <string name="pref_video_time_lapse_frame_interval_9000000" msgid="4242839574025261419">"2,5 giờ"</string>
-    <string name="pref_video_time_lapse_frame_interval_10800000" msgid="2766886102170605302">"3 giờ"</string>
-    <string name="pref_video_time_lapse_frame_interval_14400000" msgid="7497934659667867582">"4 giờ"</string>
-    <string name="pref_video_time_lapse_frame_interval_18000000" msgid="8783643014853837140">"5 giờ"</string>
-    <string name="pref_video_time_lapse_frame_interval_21600000" msgid="5005078879234015432">"6 giờ"</string>
-    <string name="pref_video_time_lapse_frame_interval_36000000" msgid="69942198321578519">"10 giờ"</string>
-    <string name="pref_video_time_lapse_frame_interval_43200000" msgid="285992046818504906">"12 giờ"</string>
-    <string name="pref_video_time_lapse_frame_interval_54000000" msgid="5740227373848829515">"15 giờ"</string>
-    <string name="pref_video_time_lapse_frame_interval_86400000" msgid="9040201678470052298">"24 giờ"</string>
+    <string name="pref_video_time_lapse_frame_interval_1800000" msgid="5042628461448570758">"0,5 gi�?"</string>
+    <string name="pref_video_time_lapse_frame_interval_3600000" msgid="6366071632666482636">"1 gi�?"</string>
+    <string name="pref_video_time_lapse_frame_interval_5400000" msgid="536117788694519019">"1,5 gi�?"</string>
+    <string name="pref_video_time_lapse_frame_interval_7200000" msgid="6846617415182608533">"2 gi�?"</string>
+    <string name="pref_video_time_lapse_frame_interval_9000000" msgid="4242839574025261419">"2,5 gi�?"</string>
+    <string name="pref_video_time_lapse_frame_interval_10800000" msgid="2766886102170605302">"3 gi�?"</string>
+    <string name="pref_video_time_lapse_frame_interval_14400000" msgid="7497934659667867582">"4 gi�?"</string>
+    <string name="pref_video_time_lapse_frame_interval_18000000" msgid="8783643014853837140">"5 gi�?"</string>
+    <string name="pref_video_time_lapse_frame_interval_21600000" msgid="5005078879234015432">"6 gi�?"</string>
+    <string name="pref_video_time_lapse_frame_interval_36000000" msgid="69942198321578519">"10 gi�?"</string>
+    <string name="pref_video_time_lapse_frame_interval_43200000" msgid="285992046818504906">"12 gi�?"</string>
+    <string name="pref_video_time_lapse_frame_interval_54000000" msgid="5740227373848829515">"15 gi�?"</string>
+    <string name="pref_video_time_lapse_frame_interval_86400000" msgid="9040201678470052298">"24 gi�?"</string>
     <string name="time_lapse_seconds" msgid="2105521458391118041">"giây"</string>
     <string name="time_lapse_minutes" msgid="7738520349259013762">"phút"</string>
-    <string name="time_lapse_hours" msgid="1776453661704997476">"giờ"</string>
+    <string name="time_lapse_hours" msgid="1776453661704997476">"gi�?"</string>
     <string name="time_lapse_interval_set" msgid="2486386210951700943">"Xong"</string>
-    <string name="set_time_interval" msgid="2970567717633813771">"Đặt khoảng thời gian"</string>
-    <string name="set_time_interval_help" msgid="6665849510484821483">"Tính năng thời gian trôi bị tắt. Bật tính năng này để đặt khoảng thời gian."</string>
-    <string name="set_timer_help" msgid="5007708849404589472">"Đồng hồ đếm ngược bị tắt. Bật đồng hồ để đếm ngược trước khi chụp ảnh."</string>
-    <string name="set_duration" msgid="5578035312407161304">"Đặt thời gian trong vài giây"</string>
-    <string name="count_down_title_text" msgid="4976386810910453266">"Đếm ngược để chụp ảnh"</string>
+    <string name="set_time_interval" msgid="2970567717633813771">"�?ặt khoảng th�?i gian"</string>
+    <string name="set_time_interval_help" msgid="6665849510484821483">"Tính năng th�?i gian trôi bị tắt. Bật tính năng này để đặt khoảng th�?i gian."</string>
+    <string name="set_timer_help" msgid="5007708849404589472">"�?ồng hồ đếm ngược bị tắt. Bật đồng hồ để đếm ngược trước khi chụp ảnh."</string>
+    <string name="set_duration" msgid="5578035312407161304">"�?ặt th�?i gian trong vài giây"</string>
+    <string name="count_down_title_text" msgid="4976386810910453266">"�?ếm ngược để chụp ảnh"</string>
     <string name="remember_location_title" msgid="9060472929006917810">"Nhớ vị trí chụp ảnh?"</string>
     <string name="remember_location_prompt" msgid="724592331305808098">"Gắn thẻ cho ảnh và video của bạn với những địa điểm mà ảnh đó được chụp và video đó được quay.\n\nCác ứng dụng khác có thể truy cập vào thông tin này cùng với các hình ảnh đã lưu của bạn."</string>
     <string name="remember_location_no" msgid="7541394381714894896">"Không, cảm ơn"</string>
@@ -430,8 +430,8 @@
     <string name="menu_search" msgid="7580008232297437190">"Tìm kiếm"</string>
     <string name="tab_photos" msgid="9110813680630313419">"Ảnh"</string>
     <string name="tab_albums" msgid="8079449907770685691">"Album"</string>
-    <string name="camera_menu_more_label" msgid="6868642182125198710">"TÙY CHỌN KHÁC"</string>
-    <string name="camera_menu_settings_label" msgid="875454962069404723">"CÀI ĐẶT"</string>
+    <string name="camera_menu_more_label" msgid="6868642182125198710">"TÙY CHỌN KH�?C"</string>
+    <string name="camera_menu_settings_label" msgid="875454962069404723">"CÀI �?ẶT"</string>
   <plurals name="number_of_photos">
     <item quantity="one" msgid="6949174783125614798">"%1$d ảnh"</item>
     <item quantity="other" msgid="3813306834113858135">"%1$d ảnh"</item>

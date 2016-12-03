@@ -314,14 +314,14 @@
   <string name="set_label_all_albums">Tolos álbumes</string>
   <!-- A label shown on the action bar. It indicates that the user is
          viewing albums stored locally on the device [CHAR LIMIT=20] -->
-  <string name="set_label_local_albums">Álbumes llocales</string>
+  <string name="set_label_local_albums">�?lbumes llocales</string>
   <!-- A label shown on the action bar. It indicates that the user is
          viewing MTP devices connected (like other digital cameras).
          [CHAR LIMIT=20] -->
   <string name="set_label_mtp_devices">Preseos MTP</string>
   <!-- A label shown on the action bar. It indicates that the user is
          viewing Picasa albums [CHAR LIMIT=20] -->
-  <string name="set_label_picasa_albums">Álbumes de Picasa</string>
+  <string name="set_label_picasa_albums">�?lbumes de Picasa</string>
   <!-- Label indicating the amount on free space on the device. The parameter
          is a string representation of the amount of free space, eg. "20MB".
          [CHAR LIMIT=20]
@@ -370,7 +370,7 @@
   <!-- Title of the Android Dreams slideshow screensaver. [CHAR LIMIT=20] -->
   <string name="slideshow_dream_name">Presentación</string>
   <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
-  <string name="albums">Álbumes</string>
+  <string name="albums">�?lbumes</string>
   <!-- Group by Times tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="times">Data</string>
   <!-- Group by Locations tab on Action Bar. [CHAR LIMIT=12] -->
@@ -461,15 +461,15 @@
   <!-- alert to the user to wait for some operation to complete -->
   <string name="wait">Por favor, espera...</string>
   <!-- alert to the user that USB storage must be available before using the camera [CHAR LIMIT=NONE] -->
-  <string name="no_storage" product="nosdcard">Pa poder usar la cámara, activa l\'almacenamientu USB.</string>
+
   <!-- alert to the user that an SD card must be installed before using the camera -->
   <string name="no_storage" product="default">Pa poder usar la cámara, inxerta una tarxeta SD.</string>
   <!-- alert to the user that the USB storage is being disk-checked [CHAR LIMIT=30] -->
-  <string name="preparing_sd" product="nosdcard">Tresnando almacenamientu USB…</string>
+
   <!-- alert to the user that the SD card is being disk-checked -->
   <string name="preparing_sd" product="default">Tresnando tarxeta SD…</string>
   <!-- alert to the user that the camera fails to read or write the USB storage. [CHAR LIMIT=NONE] -->
-  <string name="access_sd_fail" product="nosdcard">Nun pudo accedese al almacenamientu USB.</string>
+
   <!-- alert to the user that the camera fails to read or write the SD card. -->
   <string name="access_sd_fail" product="default">Nun pudo accedese a la tarxeta SD.</string>
   <!-- button in review mode indicating that the photo taking, video recording, and panorama saving session should be canceled [CHAR LIMIT=10] -->
@@ -552,7 +552,7 @@
   <string name="pref_camera_focusmode_entry_infinity">Infinitu</string>
   <string name="pref_camera_focusmode_entry_macro">Macro</string>
   <!-- Menu, focus mode labels [CHAR LIMIT=50] -->
-  <string name="pref_camera_focusmode_label_auto">AUTOMÁTICU</string>
+  <string name="pref_camera_focusmode_label_auto">AUTOM�?TICU</string>
   <string name="pref_camera_focusmode_label_infinity">INFINITU</string>
   <string name="pref_camera_focusmode_label_macro">MACRO</string>
   <!-- Default flash mode setting.-->
@@ -566,9 +566,9 @@
   <string name="pref_camera_flashmode_entry_on">Activáu</string>
   <string name="pref_camera_flashmode_entry_off">Desactiváu</string>
   <!-- Menu, flash mode labels [CHAR LIMIT=50] -->
-  <string name="pref_camera_flashmode_label_auto">FLASH AUTOMÁTICU</string>
-  <string name="pref_camera_flashmode_label_on">FLASH ACTIVÁU</string>
-  <string name="pref_camera_flashmode_label_off">FLASH DESACTIVÁU</string>
+  <string name="pref_camera_flashmode_label_auto">FLASH AUTOM�?TICU</string>
+  <string name="pref_camera_flashmode_label_on">FLASH ACTIV�?U</string>
+  <string name="pref_camera_flashmode_label_off">FLASH DESACTIV�?U</string>
   <!-- Default videocamera flash mode setting.-->
   <!-- Default white balance setting. -->
   <!-- Settings screen, white balance title -->
@@ -582,7 +582,7 @@
   <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescente</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Ñuble</string>
   <!-- Menu, White balance labels [CHAR LIMIT=50] -->
-  <string name="pref_camera_whitebalance_label_auto">AUTOMÁTICU</string>
+  <string name="pref_camera_whitebalance_label_auto">AUTOM�?TICU</string>
   <string name="pref_camera_whitebalance_label_incandescent">INCANDESCENTE</string>
   <string name="pref_camera_whitebalance_label_daylight">LLUZ NATURAL</string>
   <string name="pref_camera_whitebalance_label_fluorescent">FLUORESCENTE</string>
@@ -613,9 +613,9 @@
   <!-- Scene mode optimized for taking indoor low-lights pictures. [CHAR LIMIT=50] -->
   <string name="pref_camera_scenemode_label_party">FOLIXA</string>
   <!-- Settings menu countdown timer labels [CHAR LIMIT=50] -->
-  <string name="pref_camera_countdown_label">TEMPORIZADOR DE CUENTA ATRÁS</string>
+  <string name="pref_camera_countdown_label">TEMPORIZADOR DE CUENTA ATR�?S</string>
   <!-- Settings menu countdown timer off [CHAR LIMIT=50] -->
-  <string name="pref_camera_countdown_label_off">TEMPORIZADOR DESACTIVÁU</string>
+  <string name="pref_camera_countdown_label_off">TEMPORIZADOR DESACTIV�?U</string>
   <!-- Settings menu countdown timer 1 second [CHAR LIMIT=50] -->
   <string name="pref_camera_countdown_label_one">1 SEGUNDU</string>
   <!-- Settings menu countdown timer 3 seconds [CHAR LIMIT=50] -->
@@ -635,13 +635,13 @@
   <!-- HDR label ON [CHAR LIMIT=60] -->
   <string name="pref_camera_hdr_label">HDR</string>
   <!-- switch camera label back [CHAR LIMIT=60] -->
-  <string name="pref_camera_id_label_back">CÁMARA FRONTAL</string>
+  <string name="pref_camera_id_label_back">C�?MARA FRONTAL</string>
   <!-- switch camera label front [CHAR LIMIT=60] -->
-  <string name="pref_camera_id_label_front">CÁMARA TRASERA</string>
+  <string name="pref_camera_id_label_front">C�?MARA TRASERA</string>
   <!-- Dialog "OK" button. Dismisses dialog. -->
   <string name="dialog_ok">Aceutar</string>
   <!-- Low-memory dialog message [CHAR LIMT=NONE] -->
-  <string name="spaceIsLow_content" product="nosdcard">Nun hai espaciu nel almacenamientu USB. Cambia la configuración de calidá o desanicia dalgunes imáxenes o otros ficheros.</string>
+
   <!-- Low-memory dialog message [CHAR LIMIT=NONE] -->
   <string name="spaceIsLow_content" product="default">Nun hai espaciu na tarxeta SD. Cambia la configuración de calidá o desanicia dalgunes imáxenes o otros ficheros.</string>
   <!-- Camera format string for new image files. Passed to java.text.SimpleDateFormat. -->
@@ -755,7 +755,7 @@ CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">Barra de tiempu del reproductor de videu</string>
   <!-- TODO: remove the string as it is a work-around solution to bypass the default speak of the element type. -->
   <!-- Default text for a button that can be toggled on and off. -->
-  <string name="capital_on">SÍ</string>
+  <string name="capital_on">S�?</string>
   <!-- Default text for a button that can be toggled on and off. -->
   <string name="capital_off">NON</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
@@ -871,10 +871,10 @@ CHAR LIMIT = NONE] -->
   <!-- Title for the all photos tab [CHAR LIMIT=25] -->
   <string name="tab_photos">Semeyes</string>
   <!-- Title for the albums tab [CHAR LIMIT=25] -->
-  <string name="tab_albums">Álbumes</string>
+  <string name="tab_albums">�?lbumes</string>
   <!-- Camera menu labels -->
   <!-- more options label [CHAR LIMIT=50] -->
-  <string name="camera_menu_more_label">MÁS OPCIONES</string>
+  <string name="camera_menu_more_label">M�?S OPCIONES</string>
   <!-- settings label [CHAR LIMIT=50] -->
   <string name="camera_menu_settings_label">AXUSTES</string>
   <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->

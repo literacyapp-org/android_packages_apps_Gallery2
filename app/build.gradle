@@ -1,0 +1,88 @@
+apply plugin: 'com.android.application'
+
+def ndkSuffix = ''
+if (org.apache.tools.ant.taskdefs.condition.Os.isFamily(org.apache.tools.ant.taskdefs.condition.Os.FAMILY_WINDOWS)) {
+    ndkSuffix = '.cmd'
+}
+def ndkBuild = "${android.ndkDirectory}/ndk-build$ndkSuffix"
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "com.android.gallery3d"
+        renderscriptTargetApi 18
+        minSdkVersion 21
+        targetSdkVersion 23
+        versionCode 1000000
+        versionName "1.0.0"
+        renderscriptSupportModeEnabled true
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), '../proguard.flags'
+        }
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile '../AndroidManifest.xml'
+            java.srcDirs = ['../src', '../src_pd', '../gallerycommon/src']
+            renderscript.srcDirs = aidl.srcDirs = resources.srcDirs = java.srcDirs
+            res.srcDirs = ['../res']
+            jni.srcDirs = []
+            jniLibs.srcDirs = ['../libs']
+        }
+    }
+
+    task buildNative(type: Exec, description: 'Compile JNI source via NDK') {
+        commandLine "$ndkBuild",
+                '-C', file('../jni').absolutePath,
+                '-j', Runtime.runtime.availableProcessors(),
+                'all'
+        commandLine "$ndkBuild",
+                '-C', file('../jni_jpegstream').absolutePath,
+                '-j', Runtime.runtime.availableProcessors(),
+                'all'
+    }
+
+    task cleanNative(type: Exec, description: 'Clean JNI object files') {
+        commandLine "$ndkBuild",
+                '-C', file('../jni').absolutePath,
+                'clean'
+        commandLine "$ndkBuild",
+                '-C', file('../jni_jpegstream').absolutePath,
+                'clean'
+    }
+
+    clean.dependsOn 'cleanNative'
+
+    tasks.withType(JavaCompile) {
+        compileTask -> compileTask.dependsOn buildNative
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v13:23.3.0'
+    compile group: 'com.adobe.xmp', name: 'xmpcore', version: '5.1.2'
+    compile group: 'com.googlecode.mp4parser', name: 'isoparser', version: '1.0-RC-15'
+}
+
+task fixAosp << {
+    ant.replaceregexp(match: '^.*product="nosdcard".*$', replace: '', flags: 'g', byline: true) {
+        fileset(dir: '../res/', includes: 'values*/*.xml')
+    }
+    delete '../res/drawable/filtershow_state_button_background'
+}
+
+preBuild.dependsOn fixAosp

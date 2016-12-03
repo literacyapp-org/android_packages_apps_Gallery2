@@ -161,9 +161,9 @@
   </plurals>
     <string name="try_to_set_local_album_available_offline" msgid="2184754031896160755">"Este item está armazenado localmente e disponível off-line."</string>
     <string name="set_label_all_albums" msgid="4581863582996336783">"Todos os álbuns"</string>
-    <string name="set_label_local_albums" msgid="6698133661656266702">"Álbuns locais"</string>
+    <string name="set_label_local_albums" msgid="6698133661656266702">"�?lbuns locais"</string>
     <string name="set_label_mtp_devices" msgid="1283513183744896368">"Dispositivos MTP"</string>
-    <string name="set_label_picasa_albums" msgid="5356258354953935895">"Álbuns do Picasa"</string>
+    <string name="set_label_picasa_albums" msgid="5356258354953935895">"�?lbuns do Picasa"</string>
     <string name="free_space_format" msgid="8766337315709161215">"<xliff:g id="BYTES">%s</xliff:g> gratuito"</string>
     <string name="size_below" msgid="2074956730721942260">"<xliff:g id="SIZE">%1$s</xliff:g> ou menos"</string>
     <string name="size_above" msgid="5324398253474104087">"<xliff:g id="SIZE">%1$s</xliff:g> ou mais"</string>
@@ -179,7 +179,7 @@
     <string name="widget_type_photo" msgid="6267065337367795355">"Selecionar uma imagem"</string>
     <string name="widget_type" msgid="1364653978966343448">"Escolher imagens"</string>
     <string name="slideshow_dream_name" msgid="6915963319933437083">"Apresent. de slides"</string>
-    <string name="albums" msgid="7320787705180057947">"Álbuns"</string>
+    <string name="albums" msgid="7320787705180057947">"�?lbuns"</string>
     <string name="times" msgid="2023033894889499219">"Data e hora"</string>
     <string name="locations" msgid="6649297994083130305">"Locais"</string>
     <string name="people" msgid="4114003823747292747">"Pessoas"</string>
@@ -221,14 +221,14 @@
     <string name="camera_disabled" msgid="8923911090533439312">"A câmera foi desativada devido às políticas de segurança."</string>
     <string name="camera_label" msgid="6346560772074764302">"Câmera"</string>
     <string name="wait" msgid="8600187532323801552">"Aguarde..."</string>
-    <string name="no_storage" product="nosdcard" msgid="7335975356349008814">"Monte o armazenamento USB antes de usar a câmera."</string>
+
     <string name="no_storage" product="default" msgid="5137703033746873624">"Insira um cartão SD antes de usar a câmera."</string>
-    <string name="preparing_sd" product="nosdcard" msgid="6104019983528341353">"Preparando armazenamento USB…"</string>
+
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Preparando o cartão SD…"</string>
-    <string name="access_sd_fail" product="nosdcard" msgid="8147993984037859354">"Não foi possível acessar o armazenamento USB."</string>
+
     <string name="access_sd_fail" product="default" msgid="1584968646870054352">"Não foi possível acessar o cartão SD."</string>
     <string name="review_cancel" msgid="8188009385853399254">"CANCELAR"</string>
-    <string name="review_ok" msgid="1156261588693116433">"CONCLUÍDO"</string>
+    <string name="review_ok" msgid="1156261588693116433">"CONCLU�?DO"</string>
     <string name="time_lapse_title" msgid="4360632427760662691">"Gravação de lapso de tempo"</string>
     <string name="pref_camera_id_title" msgid="4040791582294635851">"Escolher câmera"</string>
     <string name="pref_camera_id_entry_back" msgid="5142699735103692485">"Traseira"</string>
@@ -317,7 +317,7 @@
     <string name="pref_camera_id_label_back" msgid="8745553500400332333">"CÂMERA FRONTAL"</string>
     <string name="pref_camera_id_label_front" msgid="8699439330056996709">"CÂMERA TRASEIRA"</string>
     <string name="dialog_ok" msgid="6263301364153382152">"OK"</string>
-    <string name="spaceIsLow_content" product="nosdcard" msgid="4401325203349203177">"Seu armazenamento USB está sem espaço. Altere a configuração de qualidade ou exclua algumas imagens ou outros arquivos."</string>
+
     <string name="spaceIsLow_content" product="default" msgid="1732882643101247179">"Seu cartão SD está sem espaço. Altere a configuração de qualidade ou exclua algumas imagens ou outros arquivos."</string>
     <string name="video_reach_size_limit" msgid="6179877322015552390">"Limite de tamanho atingido."</string>
     <string name="pano_too_fast_prompt" msgid="2823839093291374709">"Muito rápido"</string>
@@ -429,7 +429,7 @@
     <string name="menu_camera" msgid="3476709832879398998">"Câmera"</string>
     <string name="menu_search" msgid="7580008232297437190">"Pesquisar"</string>
     <string name="tab_photos" msgid="9110813680630313419">"Fotos"</string>
-    <string name="tab_albums" msgid="8079449907770685691">"Álbuns"</string>
+    <string name="tab_albums" msgid="8079449907770685691">"�?lbuns"</string>
     <string name="camera_menu_more_label" msgid="6868642182125198710">"MAIS OPÇÕES"</string>
     <string name="camera_menu_settings_label" msgid="875454962069404723">"CONFIGURAÇÕES"</string>
   <plurals name="number_of_photos">

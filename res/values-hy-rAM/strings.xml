@@ -20,24 +20,24 @@
     <string name="gadget_title" msgid="259405922673466798">"Նկարի շրջանակ"</string>
     <string name="details_ms" msgid="940634969189855292">"%1$02d:%2$02d"</string>
     <string name="details_hms" msgid="3215779248094151255">"%1$d:%2$02d:%3$02d"</string>
-    <string name="movie_view_label" msgid="3526526872644898229">"Տեսանվագարկիչ"</string>
-    <string name="loading_video" msgid="4013492720121891585">"Տեսանյութը բեռնվում է..."</string>
+    <string name="movie_view_label" msgid="3526526872644898229">"�?եսանվագարկիչ"</string>
+    <string name="loading_video" msgid="4013492720121891585">"�?եսանյութը բեռնվում է..."</string>
     <string name="loading_image" msgid="1200894415793838191">"Բեռնվում է պատկերը..."</string>
     <string name="loading_account" msgid="928195413034552034">"Հաշիվը բեռնվում է..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Վերսկսել տեսանյութը"</string>
-    <string name="resume_playing_message" msgid="5184414518126703481">"Վերսկսե՞լ նվագարկումը %s-ից"</string>
+    <string name="resume_playing_message" msgid="5184414518126703481">"Վերսկսե՞լ նվագարկումը %s-ի�?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Վերսկսել նվագարկումը"</string>
     <string name="loading" msgid="7038208555304563571">"Բեռնում..."</string>
-    <string name="fail_to_load" msgid="8394392853646664505">"Չհաջողվեց բեռնել"</string>
-    <string name="fail_to_load_image" msgid="6155388718549782425">"Չհաջողվեց բեռնել պատկերը"</string>
-    <string name="no_thumbnail" msgid="284723185546429750">"Առանց մանրապատկերի"</string>
-    <string name="resume_playing_restart" msgid="5471008499835769292">"Սկսել"</string>
+    <string name="fail_to_load" msgid="8394392853646664505">"Չհաջողվե�? բեռնել"</string>
+    <string name="fail_to_load_image" msgid="6155388718549782425">"Չհաջողվե�? բեռնել պատկերը"</string>
+    <string name="no_thumbnail" msgid="284723185546429750">"Առան�? մանրապատկերի"</string>
+    <string name="resume_playing_restart" msgid="5471008499835769292">"�?կսել"</string>
     <string name="crop_save_text" msgid="152200178986698300">"Լավ"</string>
     <string name="ok" msgid="5296833083983263293">"Լավ"</string>
-    <string name="multiface_crop_help" msgid="2554690102655855657">"Դիպչեք դեմքին՝ սկսելու համար:"</string>
+    <string name="multiface_crop_help" msgid="2554690102655855657">"Դիպչեք դեմքին�? սկսելու համար:"</string>
     <string name="saving_image" msgid="7270334453636349407">"Պատկերը պահվում է..."</string>
     <string name="filtershow_saving_image" msgid="6659463980581993016">"Նկարը պահվում է <xliff:g id="ALBUM_NAME">%1$s</xliff:g>-ում..."</string>
-    <string name="save_error" msgid="6857408774183654970">"Չհաջողվեց պահել եզրատված պատկերը:"</string>
+    <string name="save_error" msgid="6857408774183654970">"Չհաջողվե�? պահել եզրատված պատկերը:"</string>
     <string name="crop_label" msgid="521114301871349328">"Եզրատել նկարը"</string>
     <string name="trim_label" msgid="274203231381209979">"Կտրել տեսանյութը"</string>
     <string name="select_image" msgid="7841406150484742140">"Ընտրել լուսանկար"</string>
@@ -45,9 +45,9 @@
     <string name="select_item" msgid="2816923896202086390">"Ընտրել նյութ"</string>
     <string name="select_album" msgid="1557063764849434077">"Ընտրել ալբոմ"</string>
     <string name="select_group" msgid="6744208543323307114">"Ընտրել խումբ"</string>
-    <string name="set_image" msgid="2331476809308010401">"Սահմանել նկարը որպես"</string>
-    <string name="set_wallpaper" msgid="8491121226190175017">"Սահմանել պաստառ"</string>
-    <string name="wallpaper" msgid="140165383777262070">"Տեղադրում ենք պաստառը..."</string>
+    <string name="set_image" msgid="2331476809308010401">"�?ահմանել նկարը որպես"</string>
+    <string name="set_wallpaper" msgid="8491121226190175017">"�?ահմանել պաստառ"</string>
+    <string name="wallpaper" msgid="140165383777262070">"�?եղադրում ենք պաստառը..."</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Պաստառ"</string>
     <string name="delete" msgid="2839695998251824487">"Ջնջել"</string>
   <plurals name="delete_selection">
@@ -63,11 +63,11 @@
     <string name="undo" msgid="2930873956446586313">"Հետարկել"</string>
     <string name="select_all" msgid="3403283025220282175">"Ընտրել բոլորը"</string>
     <string name="deselect_all" msgid="5758897506061723684">"Ապանշել բոլորը"</string>
-    <string name="slideshow" msgid="4355906903247112975">"Ներկայացում"</string>
+    <string name="slideshow" msgid="4355906903247112975">"Ներկայա�?ում"</string>
     <string name="details" msgid="8415120088556445230">"Մանրամասներ"</string>
-    <string name="details_title" msgid="2611396603977441273">"%1$d of %2$d տարր՝"</string>
+    <string name="details_title" msgid="2611396603977441273">"%1$d of %2$d տարր�?"</string>
     <string name="close" msgid="5585646033158453043">"Փակել"</string>
-    <string name="switch_to_camera" msgid="7280111806675169992">"Փոխարկել դեպի ֆոտոխցիկ"</string>
+    <string name="switch_to_camera" msgid="7280111806675169992">"Փոխարկել դեպի ֆոտոխ�?իկ"</string>
   <plurals name="number_of_items_selected">
     <item quantity="zero" msgid="2142579311530586258">"%1$d ընտրված"</item>
     <item quantity="one" msgid="2478365152745637768">"%1$d ընտրված"</item>
@@ -83,30 +83,30 @@
     <item quantity="one" msgid="5030162638216034260">"%1$d ընտրված"</item>
     <item quantity="other" msgid="3512041363942842738">"%1$d ընտրված"</item>
   </plurals>
-    <string name="show_on_map" msgid="6157544221201750980">"Ցույց տալ քարտեզի վրա"</string>
+    <string name="show_on_map" msgid="6157544221201750980">"Ցույ�? տալ քարտեզի վրա"</string>
     <string name="rotate_left" msgid="5888273317282539839">"Պտտել ձախ"</string>
     <string name="rotate_right" msgid="6776325835923384839">"Պտտել աջ"</string>
     <string name="no_such_item" msgid="5315144556325243400">"Հնարավոր չէ գտնել տարրը:"</string>
     <string name="edit" msgid="1502273844748580847">"Խմբագրել"</string>
     <string name="simple_edit" msgid="2792835918347498211">"Պարզ խմբագրում"</string>
-    <string name="process_caching_requests" msgid="8722939570307386071">"Մշակվում են քեշավորման հարցումները"</string>
+    <string name="process_caching_requests" msgid="8722939570307386071">"Մշակվում են քեշավորման հար�?ումները"</string>
     <string name="caching_label" msgid="4521059045896269095">"Քեշավորում..."</string>
     <string name="crop_action" msgid="3427470284074377001">"Կտրել"</string>
     <string name="trim_action" msgid="703098114452883524">"Կտրել"</string>
-    <string name="mute_action" msgid="5296241754753306251">"Խլացնել"</string>
-    <string name="set_as" msgid="3636764710790507868">"Սահմանել որպես"</string>
-    <string name="video_mute_err" msgid="6392457611270600908">"Հնարավոր չէ համրեցնել տեսանյութը:"</string>
+    <string name="mute_action" msgid="5296241754753306251">"Խլա�?նել"</string>
+    <string name="set_as" msgid="3636764710790507868">"�?ահմանել որպես"</string>
+    <string name="video_mute_err" msgid="6392457611270600908">"Հնարավոր չէ համրե�?նել տեսանյութը:"</string>
     <string name="video_err" msgid="7003051631792271009">"Անհնար է նվագարկել տեսանյութը:"</string>
     <string name="group_by_location" msgid="316641628989023253">"Ըստ տեղանքի"</string>
     <string name="group_by_time" msgid="9046168567717963573">"Ըստ ժամանակի"</string>
     <string name="group_by_tags" msgid="3568731317210676160">"Ըստ պիտակների"</string>
-    <string name="group_by_faces" msgid="1566351636227274906">"Ըստ մարդկանց"</string>
+    <string name="group_by_faces" msgid="1566351636227274906">"Ըստ մարդկան�?"</string>
     <string name="group_by_album" msgid="1532818636053818958">"Ըստ ալբոմների"</string>
     <string name="group_by_size" msgid="153766174950394155">"Ըստ չափի"</string>
     <string name="untagged" msgid="7281481064509590402">"Չպիտակավորված"</string>
-    <string name="no_location" msgid="4043624857489331676">"Տեղանքներ չկան"</string>
-    <string name="no_connectivity" msgid="7164037617297293668">"Որոշ տեղանքներ անհնար է նույնականացնել՝ ցանցին միացման խնդիրների պատճառով:"</string>
-    <string name="sync_album_error" msgid="1020688062900977530">"Չհաջողվեց ներբեռնել լուսանկարները այս ալբոմի մեջ: Փորձեք ավելի ուշ:"</string>
+    <string name="no_location" msgid="4043624857489331676">"�?եղանքներ չկան"</string>
+    <string name="no_connectivity" msgid="7164037617297293668">"Որոշ տեղանքներ անհնար է նույնականա�?նել�? �?ան�?ին միա�?ման խնդիրների պատճառով:"</string>
+    <string name="sync_album_error" msgid="1020688062900977530">"Չհաջողվե�? ներբեռնել լուսանկարները այս ալբոմի մեջ: Փորձեք ավելի ուշ:"</string>
     <string name="show_images_only" msgid="7263218480867672653">"Միայն նկարները"</string>
     <string name="show_videos_only" msgid="3850394623678871697">"Միայն տեսանյութերը"</string>
     <string name="show_all" msgid="6963292714584735149">"Նկարներ և տեսանյութեր"</string>
@@ -116,92 +116,92 @@
     <string name="no_albums_alert" msgid="4111744447491690896">"Հասանելի ալբոմներ չկան:"</string>
     <string name="empty_album" msgid="4542880442593595494">"O նկարներ/տեսանյութեր հասանելի են:"</string>
     <string name="picasa_posts" msgid="1497721615718760613">"Գրառումներ"</string>
-    <string name="make_available_offline" msgid="5157950985488297112">"Հասանելի դարձնել անցանց"</string>
-    <string name="sync_picasa_albums" msgid="8522572542111169872">"Թարմացնել"</string>
+    <string name="make_available_offline" msgid="5157950985488297112">"Հասանելի դարձնել ան�?ան�?"</string>
+    <string name="sync_picasa_albums" msgid="8522572542111169872">"Թարմա�?նել"</string>
     <string name="done" msgid="217672440064436595">"Կատարված է"</string>
-    <string name="sequence_in_set" msgid="7235465319919457488">"նյութ %1$d` %2$d-ից"</string>
+    <string name="sequence_in_set" msgid="7235465319919457488">"նյութ %1$d` %2$d-ի�?"</string>
     <string name="title" msgid="7622928349908052569">"Վերնագիր"</string>
     <string name="description" msgid="3016729318096557520">"Նկարագրություն"</string>
     <string name="time" msgid="1367953006052876956">"Ժամանակը"</string>
-    <string name="location" msgid="3432705876921618314">"Տեղակայում"</string>
+    <string name="location" msgid="3432705876921618314">"�?եղակայում"</string>
     <string name="path" msgid="4725740395885105824">"Ուղի"</string>
     <string name="width" msgid="9215847239714321097">"Լայնությունը"</string>
     <string name="height" msgid="3648885449443787772">"Հասակ"</string>
     <string name="orientation" msgid="4958327983165245513">"Դիրքավորում"</string>
-    <string name="duration" msgid="8160058911218541616">"Տևողությունը"</string>
+    <string name="duration" msgid="8160058911218541616">"�?ևողությունը"</string>
     <string name="mimetype" msgid="8024168704337990470">"MIME-տեսակը"</string>
     <string name="file_size" msgid="8486169301588318915">"Ֆայլի չափը"</string>
-    <string name="maker" msgid="7921835498034236197">"Ստեղծող"</string>
+    <string name="maker" msgid="7921835498034236197">"�?տեղծող"</string>
     <string name="model" msgid="8240207064064337366">"Մոդել"</string>
     <string name="flash" msgid="2816779031261147723">"Լուսաթարթիչ"</string>
-    <string name="aperture" msgid="5920657630303915195">"Բացվածք"</string>
+    <string name="aperture" msgid="5920657630303915195">"Բա�?վածք"</string>
     <string name="focal_length" msgid="1291383769749877010">"Ֆոկուսի չափը"</string>
-    <string name="white_balance" msgid="1582509289994216078">"Սպիտակի կշիռ"</string>
+    <string name="white_balance" msgid="1582509289994216078">"�?պիտակի կշիռ"</string>
     <string name="exposure_time" msgid="3990163680281058826">"Լուսավորման ժամանակը"</string>
     <string name="iso" msgid="5028296664327335940">"ISO"</string>
     <string name="unit_mm" msgid="1125768433254329136">"մմ"</string>
-    <string name="manual" msgid="6608905477477607865">"Ձեռքով"</string>
+    <string name="manual" msgid="6608905477477607865">"�?եռքով"</string>
     <string name="auto" msgid="4296941368722892821">"Ինքնուրույն"</string>
-    <string name="flash_on" msgid="7891556231891837284">"Լուսաթարթիչը միացված է"</string>
-    <string name="flash_off" msgid="1445443413822680010">"Առանց լուսաթարթիչ"</string>
+    <string name="flash_on" msgid="7891556231891837284">"Լուսաթարթիչը միա�?ված է"</string>
+    <string name="flash_off" msgid="1445443413822680010">"Առան�? լուսաթարթիչ"</string>
     <string name="unknown" msgid="3506693015896912952">"Անհայտ"</string>
     <string name="ffx_original" msgid="372686331501281474">"Բնօրինակ"</string>
     <string name="ffx_vintage" msgid="8348759951363844780">"Հնորակ"</string>
     <string name="ffx_instant" msgid="726968618715691987">"Ակնթարթային"</string>
-    <string name="ffx_bleach" msgid="8946700451603478453">"Սպիտակեցնել"</string>
+    <string name="ffx_bleach" msgid="8946700451603478453">"�?պիտակե�?նել"</string>
     <string name="ffx_blue_crush" msgid="6034283412305561226">"Կապույտ"</string>
-    <string name="ffx_bw_contrast" msgid="517988490066217206">"Սև/Սպ"</string>
+    <string name="ffx_bw_contrast" msgid="517988490066217206">"�?և/�?պ"</string>
     <string name="ffx_punch" msgid="1343475517872562639">"Դեղնարկիչ"</string>
-    <string name="ffx_x_process" msgid="4779398678661811765">"X Գործընթաց"</string>
+    <string name="ffx_x_process" msgid="4779398678661811765">"X Գործընթա�?"</string>
     <string name="ffx_washout" msgid="4594160692176642735">"Լատտե"</string>
     <string name="ffx_washout_color" msgid="8034075742195795219">"Լիտոգրաֆ"</string>
   <plurals name="make_albums_available_offline">
-    <item quantity="one" msgid="2171596356101611086">"Ալբոմը հասանելի դարձնել անցանց:"</item>
-    <item quantity="other" msgid="4948604338155959389">"Ալբոմները հասանելի դարձնել անցանց:"</item>
+    <item quantity="one" msgid="2171596356101611086">"Ալբոմը հասանելի դարձնել ան�?ան�?:"</item>
+    <item quantity="other" msgid="4948604338155959389">"Ալբոմները հասանելի դարձնել ան�?ան�?:"</item>
   </plurals>
-    <string name="try_to_set_local_album_available_offline" msgid="2184754031896160755">"Նյութը պահվում է տեղում և հասանելի է անցանց:"</string>
+    <string name="try_to_set_local_album_available_offline" msgid="2184754031896160755">"Նյութը պահվում է տեղում և հասանելի է ան�?ան�?:"</string>
     <string name="set_label_all_albums" msgid="4581863582996336783">"Բոլոր ալբոմները"</string>
-    <string name="set_label_local_albums" msgid="6698133661656266702">"Տեղային ալբոմներ"</string>
+    <string name="set_label_local_albums" msgid="6698133661656266702">"�?եղային ալբոմներ"</string>
     <string name="set_label_mtp_devices" msgid="1283513183744896368">"MTP սարքեր"</string>
     <string name="set_label_picasa_albums" msgid="5356258354953935895">"Picasa ալբոմներ"</string>
     <string name="free_space_format" msgid="8766337315709161215">"<xliff:g id="BYTES">%s</xliff:g> ազատ"</string>
     <string name="size_below" msgid="2074956730721942260">"<xliff:g id="SIZE">%1$s</xliff:g> կամ փոքր"</string>
     <string name="size_above" msgid="5324398253474104087">"<xliff:g id="SIZE">%1$s</xliff:g> կամ ավելի մեծ"</string>
-    <string name="size_between" msgid="8779660840898917208">"<xliff:g id="MIN_SIZE">%1$s</xliff:g>-ից <xliff:g id="MAX_SIZE">%2$s</xliff:g>"</string>
+    <string name="size_between" msgid="8779660840898917208">"<xliff:g id="MIN_SIZE">%1$s</xliff:g>-ի�? <xliff:g id="MAX_SIZE">%2$s</xliff:g>"</string>
     <string name="Import" msgid="3985447518557474672">"Ներմուծել"</string>
     <string name="import_complete" msgid="3875040287486199999">"Ներմուծումն ավարտված է"</string>
     <string name="import_fail" msgid="8497942380703298808">"Ներմուծը չի հաջողվել"</string>
-    <string name="camera_connected" msgid="916021826223448591">"Ֆոտոխցիկը միացված է:"</string>
-    <string name="camera_disconnected" msgid="2100559901676329496">"Ֆոտոխցիկն անջատված է:"</string>
-    <string name="click_import" msgid="6407959065464291972">"Հպեք այստեղ՝ մուտքագրման համար"</string>
+    <string name="camera_connected" msgid="916021826223448591">"Ֆոտոխ�?իկը միա�?ված է:"</string>
+    <string name="camera_disconnected" msgid="2100559901676329496">"Ֆոտոխ�?իկն անջատված է:"</string>
+    <string name="click_import" msgid="6407959065464291972">"Հպեք այստեղ�? մուտքագրման համար"</string>
     <string name="widget_type_album" msgid="6013045393140135468">"Ընտրել ալբոմ"</string>
     <string name="widget_type_shuffle" msgid="8594622705019763768">"Խառնել բոլոր պատկերները"</string>
     <string name="widget_type_photo" msgid="6267065337367795355">"Ընտրել պատկեր"</string>
     <string name="widget_type" msgid="1364653978966343448">"Ընտրեք պատկերներ"</string>
-    <string name="slideshow_dream_name" msgid="6915963319933437083">"Ներկայացում"</string>
+    <string name="slideshow_dream_name" msgid="6915963319933437083">"Ներկայա�?ում"</string>
     <string name="albums" msgid="7320787705180057947">"Ալբոմներ"</string>
     <string name="times" msgid="2023033894889499219">"Ժամանակներ"</string>
-    <string name="locations" msgid="6649297994083130305">"Տեղանքներ"</string>
+    <string name="locations" msgid="6649297994083130305">"�?եղանքներ"</string>
     <string name="people" msgid="4114003823747292747">"Մարդիկ"</string>
     <string name="tags" msgid="5539648765482935955">"Պիտակներ"</string>
     <string name="group_by" msgid="4308299657902209357">"Խմբավորել"</string>
     <string name="settings" msgid="1534847740615665736">"Կարգավորումներ"</string>
-    <string name="add_account" msgid="4271217504968243974">"Ավելացնել հաշիվ"</string>
-    <string name="folder_camera" msgid="4714658994809533480">"Ֆոտոխցիկ"</string>
+    <string name="add_account" msgid="4271217504968243974">"Ավելա�?նել հաշիվ"</string>
+    <string name="folder_camera" msgid="4714658994809533480">"Ֆոտոխ�?իկ"</string>
     <string name="folder_download" msgid="7186215137642323932">"Ներբեռնել"</string>
-    <string name="folder_edited_online_photos" msgid="6278215510236800181">"Խմբագրված առցանց լուսանկարներ"</string>
+    <string name="folder_edited_online_photos" msgid="6278215510236800181">"Խմբագրված առ�?ան�? լուսանկարներ"</string>
     <string name="folder_imported" msgid="2773581395524747099">"Ներմուծված"</string>
     <string name="folder_screenshot" msgid="7200396565864213450">"Էկրանի հանույթ"</string>
     <string name="help" msgid="7368960711153618354">"Օգնություն"</string>
-    <string name="no_external_storage_title" msgid="2408933644249734569">"Պահոց չկա"</string>
-    <string name="no_external_storage" msgid="95726173164068417">"Արտաքին պահոց հասանելի չէ"</string>
+    <string name="no_external_storage_title" msgid="2408933644249734569">"Պահո�? չկա"</string>
+    <string name="no_external_storage" msgid="95726173164068417">"Արտաքին պահո�? հասանելի չէ"</string>
     <string name="switch_photo_filmstrip" msgid="8227883354281661548">"Կինոժապավենի տեսք"</string>
-    <string name="switch_photo_grid" msgid="3681299459107925725">"Ցանցային տեսք"</string>
+    <string name="switch_photo_grid" msgid="3681299459107925725">"Ցան�?ային տեսք"</string>
     <string name="switch_photo_fullscreen" msgid="8360489096099127071">"Լիաէկրան տեսք"</string>
     <string name="trimming" msgid="9122385768369143997">"Կտրում"</string>
-    <string name="muting" msgid="5094925919589915324">"Խլացում"</string>
+    <string name="muting" msgid="5094925919589915324">"Խլա�?ում"</string>
     <string name="please_wait" msgid="7296066089146487366">"Խնդրում ենք սպասել"</string>
-    <string name="save_into" msgid="9155488424829609229">"Տեսանյութը պահվում է <xliff:g id="ALBUM_NAME">%1$s</xliff:g>-ում ..."</string>
+    <string name="save_into" msgid="9155488424829609229">"�?եսանյութը պահվում է <xliff:g id="ALBUM_NAME">%1$s</xliff:g>-ում ..."</string>
     <string name="trim_too_short" msgid="751593965620665326">"Հնարավոր չէ եզրատել. թիրախային տեսանյութը շատ կարճ է"</string>
     <string name="pano_progress_text" msgid="1586851614586678464">"Կազմվում է համայնապատկեր"</string>
     <string name="save" msgid="613976532235060516">"Պահել"</string>
@@ -211,30 +211,30 @@
     <item quantity="one" msgid="4340019444460561648">"%1$d նյութ սկանավորվել է"</item>
     <item quantity="other" msgid="3138021473860555499">"%1$d տարր սկանավորվել են"</item>
   </plurals>
-    <string name="ingest_sorting" msgid="1028652103472581918">"Տեսակավորում..."</string>
-    <string name="ingest_scanning_done" msgid="8911916277034483430">"Սկանավորումն ավարտվեց"</string>
+    <string name="ingest_sorting" msgid="1028652103472581918">"�?եսակավորում..."</string>
+    <string name="ingest_scanning_done" msgid="8911916277034483430">"�?կանավորումն ավարտվե�?"</string>
     <string name="ingest_importing" msgid="7456633398378527611">"Ներմուծվում է..."</string>
     <string name="ingest_empty_device" msgid="2010470482779872622">"Այս սարքի մեջ ներմուծման համար հասանելի բովանդակություն չկա:"</string>
-    <string name="ingest_no_device" msgid="3054128223131382122">"Միացված MTP սարք չկա"</string>
-    <string name="camera_error_title" msgid="6484667504938477337">"Ֆոտոխցիկի սխալ"</string>
-    <string name="cannot_connect_camera" msgid="955440687597185163">"Հնարավոր չէ միանալ ֆոտոխցիկին:"</string>
-    <string name="camera_disabled" msgid="8923911090533439312">"Ֆոտոխցիկն անջատված է՝ անվտանգության քաղաքականության նկատառումներից ելնելով:"</string>
-    <string name="camera_label" msgid="6346560772074764302">"Ֆոտոխցիկ"</string>
+    <string name="ingest_no_device" msgid="3054128223131382122">"Միա�?ված MTP սարք չկա"</string>
+    <string name="camera_error_title" msgid="6484667504938477337">"Ֆոտոխ�?իկի սխալ"</string>
+    <string name="cannot_connect_camera" msgid="955440687597185163">"Հնարավոր չէ միանալ ֆոտոխ�?իկին:"</string>
+    <string name="camera_disabled" msgid="8923911090533439312">"Ֆոտոխ�?իկն անջատված է�? անվտանգության քաղաքականության նկատառումների�? ելնելով:"</string>
+    <string name="camera_label" msgid="6346560772074764302">"Ֆոտոխ�?իկ"</string>
     <string name="wait" msgid="8600187532323801552">"Խնդրում ենք սպասել..."</string>
-    <string name="no_storage" product="nosdcard" msgid="7335975356349008814">"Տեսախցիկն օգտագործելուց առաջ նրան միացրեք USB պահոց:"</string>
-    <string name="no_storage" product="default" msgid="5137703033746873624">"Տեսախցիկն օգտագործելուց առաջ տեղադրեք SD քարտ:"</string>
-    <string name="preparing_sd" product="nosdcard" msgid="6104019983528341353">"Պատրաստվում է USB պահոցը..."</string>
+
+    <string name="no_storage" product="default" msgid="5137703033746873624">"�?եսախ�?իկն օգտագործելու�? առաջ տեղադրեք SD քարտ:"</string>
+
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Պատրաստվում է SD քարտը..."</string>
-    <string name="access_sd_fail" product="nosdcard" msgid="8147993984037859354">"USB պահուստը հասանելի չէ:"</string>
+
     <string name="access_sd_fail" product="default" msgid="1584968646870054352">"SD քարտը հասանելի չէ:"</string>
     <string name="review_cancel" msgid="8188009385853399254">"Չեղարկել"</string>
     <string name="review_ok" msgid="1156261588693116433">"Կատարված է"</string>
     <string name="time_lapse_title" msgid="4360632427760662691">"Ժամանակի սպառումով տեսագրություն"</string>
-    <string name="pref_camera_id_title" msgid="4040791582294635851">"Ընտրել տեսախցիկը"</string>
+    <string name="pref_camera_id_title" msgid="4040791582294635851">"Ընտրել տեսախ�?իկը"</string>
     <string name="pref_camera_id_entry_back" msgid="5142699735103692485">"Հետ"</string>
-    <string name="pref_camera_id_entry_front" msgid="5668958706828733669">"Դիմացի"</string>
-    <string name="pref_camera_recordlocation_title" msgid="371208839215448917">"Պահոցի տեղադրությունը"</string>
-    <string name="pref_camera_location_label" msgid="2254270920298609161">"Տեղադրություն"</string>
+    <string name="pref_camera_id_entry_front" msgid="5668958706828733669">"Դիմա�?ի"</string>
+    <string name="pref_camera_recordlocation_title" msgid="371208839215448917">"Պահո�?ի տեղադրությունը"</string>
+    <string name="pref_camera_location_label" msgid="2254270920298609161">"�?եղադրություն"</string>
     <string name="pref_camera_timer_title" msgid="3105232208281893389">"Հետհաշվարկի չափիչ"</string>
   <plurals name="pref_camera_timer_entry">
     <item quantity="one" msgid="1654523400981245448">"1 վայրկյան"</item>
@@ -244,13 +244,13 @@
     <skip />
     <string name="pref_camera_timer_sound_title" msgid="2469008631966169105">"Հետհաշվարկի ազդ"</string>
     <string name="setting_off" msgid="4480039384202951946">"Անջատված է"</string>
-    <string name="setting_on" msgid="8602246224465348901">"Միացված է"</string>
-    <string name="pref_video_quality_title" msgid="8245379279801096922">"Տեսանյութի որակը"</string>
+    <string name="setting_on" msgid="8602246224465348901">"Միա�?ված է"</string>
+    <string name="pref_video_quality_title" msgid="8245379279801096922">"�?եսանյութի որակը"</string>
     <string name="pref_video_quality_entry_high" msgid="8664038216234805914">"Բարձր"</string>
     <string name="pref_video_quality_entry_low" msgid="7258507152393173784">"Ցածր"</string>
-    <string name="pref_video_time_lapse_frame_interval_title" msgid="6245716906744079302">"Ժամանակի լրացում"</string>
-    <string name="pref_camera_settings_category" msgid="2576236450859613120">"Տեսախցիկի կարգավորումներ"</string>
-    <string name="pref_camcorder_settings_category" msgid="460313486231965141">"Տեսախցիկի կարգավորումներ"</string>
+    <string name="pref_video_time_lapse_frame_interval_title" msgid="6245716906744079302">"Ժամանակի լրա�?ում"</string>
+    <string name="pref_camera_settings_category" msgid="2576236450859613120">"�?եսախ�?իկի կարգավորումներ"</string>
+    <string name="pref_camcorder_settings_category" msgid="460313486231965141">"�?եսախ�?իկի կարգավորումներ"</string>
     <string name="pref_camera_picturesize_title" msgid="4333724936665883006">"Նկարի չափը"</string>
     <string name="pref_camera_picturesize_entry_13mp" msgid="675309554194481780">"13Մ պիքսել"</string>
     <string name="pref_camera_picturesize_entry_8mp" msgid="259953780932849079">"8Մ պիքսել"</string>
@@ -263,7 +263,7 @@
     <string name="pref_camera_picturesize_entry_1mp" msgid="1669725616780375066">"1Մ պիքսել"</string>
     <string name="pref_camera_picturesize_entry_vga" msgid="806934254162981919">"VGA"</string>
     <string name="pref_camera_picturesize_entry_qvga" msgid="8576186463069770133">"QVGA"</string>
-    <string name="pref_camera_focusmode_title" msgid="2877248921829329127">"Կենտրոնացման ռեժիմ"</string>
+    <string name="pref_camera_focusmode_title" msgid="2877248921829329127">"Կենտրոնա�?ման ռեժիմ"</string>
     <string name="pref_camera_focusmode_entry_auto" msgid="7374820710300362457">"Ինքնուրույն"</string>
     <string name="pref_camera_focusmode_entry_infinity" msgid="3413922419264967552">"Անսահման"</string>
     <string name="pref_camera_focusmode_entry_macro" msgid="4424489110551866161">"Մակրո"</string>
@@ -273,24 +273,24 @@
     <string name="pref_camera_flashmode_title" msgid="2287362477238791017">"Լուսաթարթման ռեժիմ"</string>
     <string name="pref_camera_flashmode_label" msgid="7546741624882856171">"Լուսաթարթման ռեժիմ"</string>
     <string name="pref_camera_flashmode_entry_auto" msgid="7288383434237457709">"Ինքնուրույն"</string>
-    <string name="pref_camera_flashmode_entry_on" msgid="5330043918845197616">"Միացված է"</string>
+    <string name="pref_camera_flashmode_entry_on" msgid="5330043918845197616">"Միա�?ված է"</string>
     <string name="pref_camera_flashmode_entry_off" msgid="867242186958805761">"Անջատված է"</string>
     <string name="pref_camera_flashmode_label_auto" msgid="8854671890619026197">"Ավտոմատ լուսաթարթում"</string>
-    <string name="pref_camera_flashmode_label_on" msgid="7347504762794840140">"Լուսաթարթումը միացված է"</string>
+    <string name="pref_camera_flashmode_label_on" msgid="7347504762794840140">"Լուսաթարթումը միա�?ված է"</string>
     <string name="pref_camera_flashmode_label_off" msgid="3541596735596053416">"Լուսաթարթիչն անջատված է"</string>
-    <string name="pref_camera_whitebalance_title" msgid="677420930596673340">"Սպիտակի կշիռ"</string>
-    <string name="pref_camera_whitebalance_label" msgid="7467403405883190920">"Սպիտակի կշիռ"</string>
+    <string name="pref_camera_whitebalance_title" msgid="677420930596673340">"�?պիտակի կշիռ"</string>
+    <string name="pref_camera_whitebalance_label" msgid="7467403405883190920">"�?պիտակի կշիռ"</string>
     <string name="pref_camera_whitebalance_entry_auto" msgid="6580665476983469293">"Ինքնուրույն"</string>
-    <string name="pref_camera_whitebalance_entry_incandescent" msgid="8856667786449549938">"Բոցավառ"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent" msgid="8856667786449549938">"Բո�?ավառ"</string>
     <string name="pref_camera_whitebalance_entry_daylight" msgid="2534757270149561027">"Ցերեկային լույս"</string>
     <string name="pref_camera_whitebalance_entry_fluorescent" msgid="2435332872847454032">"Ցերեկային լուսավորություն"</string>
     <string name="pref_camera_whitebalance_entry_cloudy" msgid="3531996716997959326">"Ամպամած"</string>
     <string name="pref_camera_whitebalance_label_auto" msgid="1479694362310491429">"Ինքնուրույն"</string>
-    <string name="pref_camera_whitebalance_label_incandescent" msgid="7427628260209908900">"Շիկացած"</string>
+    <string name="pref_camera_whitebalance_label_incandescent" msgid="7427628260209908900">"Շիկա�?ած"</string>
     <string name="pref_camera_whitebalance_label_daylight" msgid="1859710806141461399">"Ցերեկային լույս"</string>
     <string name="pref_camera_whitebalance_label_fluorescent" msgid="5173251749161337707">"Ցերեկային լուսավորություն"</string>
     <string name="pref_camera_whitebalance_label_cloudy" msgid="8230173517179285320">"Ամպամած"</string>
-    <string name="pref_camera_scenemode_title" msgid="1420535844292504016">"Տեսարանային ռեժիմ"</string>
+    <string name="pref_camera_scenemode_title" msgid="1420535844292504016">"�?եսարանային ռեժիմ"</string>
     <string name="pref_camera_scenemode_entry_auto" msgid="7113995286836658648">"Ինքնուրույն"</string>
     <string name="pref_camera_scenemode_entry_hdr" msgid="2923388802899511784">"HDR"</string>
     <string name="pref_camera_scenemode_entry_action" msgid="616748587566110484">"Գործողություն"</string>
@@ -314,21 +314,21 @@
     <!-- no translation found for pref_camera_hdr_default (1336869406134365882) -->
     <skip />
     <string name="pref_camera_hdr_label" msgid="7217211253357027510">"HDR"</string>
-    <string name="pref_camera_id_label_back" msgid="8745553500400332333">"Առջևի տեսախցիկ"</string>
-    <string name="pref_camera_id_label_front" msgid="8699439330056996709">"Ետևի խցիկ"</string>
+    <string name="pref_camera_id_label_back" msgid="8745553500400332333">"Առջևի տեսախ�?իկ"</string>
+    <string name="pref_camera_id_label_front" msgid="8699439330056996709">"Ետևի խ�?իկ"</string>
     <string name="dialog_ok" msgid="6263301364153382152">"Լավ"</string>
-    <string name="spaceIsLow_content" product="nosdcard" msgid="4401325203349203177">"Ձեր USB պահոցի ազատ տարածքը սպառվում է: Փոխեք որակի կարգավորումները կամ ջնջեք որոշ նկարներ կամ ֆայլեր:"</string>
-    <string name="spaceIsLow_content" product="default" msgid="1732882643101247179">"Ձեր SD քարտի ազատ տարածքը սպառվում է: Փոխեք որակի կարգավորումները կամ ջնջեք որոշ նկարներ կամ ֆայլեր:"</string>
-    <string name="video_reach_size_limit" msgid="6179877322015552390">"Սահմանափակման չափը սպառված է:"</string>
+
+    <string name="spaceIsLow_content" product="default" msgid="1732882643101247179">"�?եր SD քարտի ազատ տարածքը սպառվում է: Փոխեք որակի կարգավորումները կամ ջնջեք որոշ նկարներ կամ ֆայլեր:"</string>
+    <string name="video_reach_size_limit" msgid="6179877322015552390">"�?ահմանափակման չափը սպառված է:"</string>
     <string name="pano_too_fast_prompt" msgid="2823839093291374709">"Շատ արագ"</string>
     <string name="pano_dialog_prepare_preview" msgid="4788441554128083543">"Պատրաստվում է համայնապատկեր"</string>
-    <string name="pano_dialog_panorama_failed" msgid="2155692796549642116">"Չհաջողվեց պահել համայնապատկերը:"</string>
+    <string name="pano_dialog_panorama_failed" msgid="2155692796549642116">"Չհաջողվե�? պահել համայնապատկերը:"</string>
     <string name="pano_dialog_title" msgid="5755531234434437697">"Համայնապատկեր"</string>
     <string name="pano_capture_indication" msgid="8248825828264374507">"Համայնապատկերի լուսանկարում"</string>
-    <string name="pano_dialog_waiting_previous" msgid="7800325815031423516">"Սպասում ենք նախորդ համայնապատկերին"</string>
+    <string name="pano_dialog_waiting_previous" msgid="7800325815031423516">"�?պասում ենք նախորդ համայնապատկերին"</string>
     <string name="pano_review_saving_indication_str" msgid="2054886016665130188">"Պահվում է..."</string>
     <string name="pano_review_rendering" msgid="2887552964129301902">"Կազմվում է համայնապատկեր"</string>
-    <string name="tap_to_focus" msgid="8863427645591903760">"Հպեք՝ կենտրոնացնելու համար:"</string>
+    <string name="tap_to_focus" msgid="8863427645591903760">"Հպեք�? կենտրոնա�?նելու համար:"</string>
     <string name="pref_video_effect_title" msgid="8243182968457289488">"Էֆեկտներ"</string>
     <string name="effect_none" msgid="3601545724573307541">"Ոչ մեկը"</string>
     <string name="effect_goofy_face_squeeze" msgid="1207235692524289171">"Ճզմում"</string>
@@ -337,41 +337,41 @@
     <string name="effect_goofy_face_small_mouth" msgid="3848209817806932565">"Փոքր բերան"</string>
     <string name="effect_goofy_face_big_nose" msgid="5180533098740577137">"Մեծ քիթ"</string>
     <string name="effect_goofy_face_small_eyes" msgid="1070355596290331271">"Փոքր աչքեր"</string>
-    <string name="effect_backdropper_space" msgid="7935661090723068402">"Տիեզերքում"</string>
+    <string name="effect_backdropper_space" msgid="7935661090723068402">"�?իեզերքում"</string>
     <string name="effect_backdropper_sunset" msgid="45198943771777870">"Մայրամուտ"</string>
-    <string name="effect_backdropper_gallery" msgid="959158844620991906">"Ձեր տեսանյութը"</string>
-    <string name="bg_replacement_message" msgid="9184270738916564608">"Ցած դրեք ձեր սարքը\nՄի պահ դուրս եկեք տեսադաշտից:"</string>
-    <string name="video_snapshot_hint" msgid="18833576851372483">"Դիպչեք՝ տեսագրության ընթացքում լուսանկարելու համար:"</string>
-    <string name="video_recording_started" msgid="4132915454417193503">"Տեսագրությունը սկսված է:"</string>
-    <string name="video_recording_stopped" msgid="5086919511555808580">"Տեսագրությունը դադարեցված է:"</string>
-    <string name="disable_video_snapshot_hint" msgid="4957723267826476079">"Տեսանյութի ճեպապատկերումն անջատված է, երբ առկա են հատուկ էֆեկտներ:"</string>
+    <string name="effect_backdropper_gallery" msgid="959158844620991906">"�?եր տեսանյութը"</string>
+    <string name="bg_replacement_message" msgid="9184270738916564608">"Ցած դրեք ձեր սարքը\nՄի պահ դուրս եկեք տեսադաշտի�?:"</string>
+    <string name="video_snapshot_hint" msgid="18833576851372483">"Դիպչեք�? տեսագրության ընթա�?քում լուսանկարելու համար:"</string>
+    <string name="video_recording_started" msgid="4132915454417193503">"�?եսագրությունը սկսված է:"</string>
+    <string name="video_recording_stopped" msgid="5086919511555808580">"�?եսագրությունը դադարե�?ված է:"</string>
+    <string name="disable_video_snapshot_hint" msgid="4957723267826476079">"�?եսանյութի ճեպապատկերումն անջատված է, երբ առկա են հատուկ էֆեկտներ:"</string>
     <string name="clear_effects" msgid="5485339175014139481">"Մաքրել էֆեկտները"</string>
     <string name="effect_silly_faces" msgid="8107732405347155777">"Հիմար դեմքեր"</string>
     <string name="effect_background" msgid="6579360207378171022">"Ետնատեսք"</string>
     <string name="accessibility_shutter_button" msgid="2664037763232556307">"Փականի կոճակ"</string>
-    <string name="accessibility_menu_button" msgid="7140794046259897328">"Ընտրացանկի կոճակ"</string>
+    <string name="accessibility_menu_button" msgid="7140794046259897328">"Ընտրա�?անկի կոճակ"</string>
     <string name="accessibility_review_thumbnail" msgid="8961275263537513017">"Ամենավերջին լուսանկարը"</string>
-    <string name="accessibility_camera_picker" msgid="8807945470215734566">"Առջևի ու ետևի տեսախցիկի փոխարկում"</string>
-    <string name="accessibility_mode_picker" msgid="3278002189966833100">"Ֆոտոխցիկի, տեսախցիկի կամ համայնապատկերի ընտրիչ"</string>
+    <string name="accessibility_camera_picker" msgid="8807945470215734566">"Առջևի ու ետևի տեսախ�?իկի փոխարկում"</string>
+    <string name="accessibility_mode_picker" msgid="3278002189966833100">"Ֆոտոխ�?իկի, տեսախ�?իկի կամ համայնապատկերի ընտրիչ"</string>
     <string name="accessibility_second_level_indicators" msgid="3855951632917627620">"Ավելի շատ կարգավորիչներ"</string>
     <string name="accessibility_back_to_first_level" msgid="5234411571109877131">"Փակել կարգավորիչները"</string>
-    <string name="accessibility_zoom_control" msgid="1339909363226825709">"Խոշորացման կարգավորիչ"</string>
+    <string name="accessibility_zoom_control" msgid="1339909363226825709">"Խոշորա�?ման կարգավորիչ"</string>
     <string name="accessibility_decrement" msgid="1411194318538035666">"Նվազում %1$s"</string>
-    <string name="accessibility_increment" msgid="8447850530444401135">"Մեծացնել %1$s"</string>
+    <string name="accessibility_increment" msgid="8447850530444401135">"Մեծա�?նել %1$s"</string>
     <string name="accessibility_check_box" msgid="7317447218256584181">"%1$s նշման վանդակ"</string>
     <string name="accessibility_switch_to_camera" msgid="5951340774212969461">"Փոխարկել դեպի լուսանկարը"</string>
     <string name="accessibility_switch_to_video" msgid="4991396355234561505">"Փոխարկել դեպի տեսանյութ"</string>
     <string name="accessibility_switch_to_panorama" msgid="604756878371875836">"Փոխարկել դեպի համայնապատկեր"</string>
     <string name="accessibility_switch_to_new_panorama" msgid="8116783308051524188">"Փոխարկել դեպի նոր համայնապատկեր"</string>
     <string name="accessibility_switch_to_refocus" msgid="4539294619557299903">"Փոխարկել կրկնաֆոկուսի ռեժիմի"</string>
-    <string name="accessibility_review_cancel" msgid="9070531914908644686">"Վերանայման դադարեցում"</string>
+    <string name="accessibility_review_cancel" msgid="9070531914908644686">"Վերանայման դադարե�?ում"</string>
     <string name="accessibility_review_ok" msgid="7793302834271343168">"Դիտարկումն արված է"</string>
     <string name="accessibility_review_retake" msgid="659300290054705484">"Վերանայման վերսկսում"</string>
     <string name="accessibility_play_video" msgid="7596298365794810207">"Նվագարկել տեսանյութը"</string>
-    <string name="accessibility_pause_video" msgid="6526344477133046653">"Դադարեցնել տեսանյութի դիտումը"</string>
+    <string name="accessibility_pause_video" msgid="6526344477133046653">"Դադարե�?նել տեսանյութի դիտումը"</string>
     <string name="accessibility_reload_video" msgid="3250335917598607232">"Վերաբեռնել տեսանյութը"</string>
-    <string name="accessibility_time_bar" msgid="1414029843602604531">"Տեսանվագարկիչի ժամագոտի"</string>
-    <string name="capital_on" msgid="5491353494964003567">"Միացված է"</string>
+    <string name="accessibility_time_bar" msgid="1414029843602604531">"�?եսանվագարկիչի ժամագոտի"</string>
+    <string name="capital_on" msgid="5491353494964003567">"Միա�?ված է"</string>
     <string name="capital_off" msgid="7231052688467970897">"Անջատված"</string>
     <string name="pref_video_time_lapse_frame_interval_off" msgid="3490489191038309496">"Անջատված"</string>
     <string name="pref_video_time_lapse_frame_interval_500" msgid="2949719376111679816">"0.5 վայրկյան"</string>
@@ -417,16 +417,16 @@
     <string name="time_lapse_minutes" msgid="7738520349259013762">"րոպե"</string>
     <string name="time_lapse_hours" msgid="1776453661704997476">"ժամ"</string>
     <string name="time_lapse_interval_set" msgid="2486386210951700943">"Կատարված է"</string>
-    <string name="set_time_interval" msgid="2970567717633813771">"Սահմանել ժամանակահատված"</string>
-    <string name="set_time_interval_help" msgid="6665849510484821483">"Ժամանակի սպառման հնարավորությունն անջատված է: Միացրեք այն՝ ժամանակամիջոց սահմանելու համար:"</string>
-    <string name="set_timer_help" msgid="5007708849404589472">"Հետհաշվարկի ժամաչափն անջատված է: Միացրեք այն՝ լուսանկարելուց առաջ հետհաշվարկի համար:"</string>
-    <string name="set_duration" msgid="5578035312407161304">"Սահմանել տևողությունը վայրկյաններով"</string>
+    <string name="set_time_interval" msgid="2970567717633813771">"�?ահմանել ժամանակահատված"</string>
+    <string name="set_time_interval_help" msgid="6665849510484821483">"Ժամանակի սպառման հնարավորությունն անջատված է: Միա�?րեք այն�? ժամանակամիջո�? սահմանելու համար:"</string>
+    <string name="set_timer_help" msgid="5007708849404589472">"Հետհաշվարկի ժամաչափն անջատված է: Միա�?րեք այն�? լուսանկարելու�? առաջ հետհաշվարկի համար:"</string>
+    <string name="set_duration" msgid="5578035312407161304">"�?ահմանել տևողությունը վայրկյաններով"</string>
     <string name="count_down_title_text" msgid="4976386810910453266">"Լուսանկարման հետհաշվարկ"</string>
     <string name="remember_location_title" msgid="9060472929006917810">"Հիշե՞լ լուսանկարների վայրերը"</string>
-    <string name="remember_location_prompt" msgid="724592331305808098">"Ձեր լուսանկարներում և տեսանյութերում նշեք, թե որտեղ են դրանք արվել:\n\n Այլ ծրագրերը կարող են օգտվել այդ տեղեկատվությունից՝ ձեր պահած նկարների հետ մեկտեղ:"</string>
+    <string name="remember_location_prompt" msgid="724592331305808098">"�?եր լուսանկարներում և տեսանյութերում նշեք, թե որտեղ են դրանք արվել:\n\n Այլ ծրագրերը կարող են օգտվել այդ տեղեկատվությունի�?�? ձեր պահած նկարների հետ մեկտեղ:"</string>
     <string name="remember_location_no" msgid="7541394381714894896">"Ոչ, շնորհակալություն"</string>
     <string name="remember_location_yes" msgid="862884269285964180">"Այո"</string>
-    <string name="menu_camera" msgid="3476709832879398998">"Ֆոտոխցիկ"</string>
+    <string name="menu_camera" msgid="3476709832879398998">"Ֆոտոխ�?իկ"</string>
     <string name="menu_search" msgid="7580008232297437190">"Որոնել"</string>
     <string name="tab_photos" msgid="9110813680630313419">"Լուսանկարներ"</string>
     <string name="tab_albums" msgid="8079449907770685691">"Ալբոմներ"</string>

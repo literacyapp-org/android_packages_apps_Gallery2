@@ -1,0 +1,27 @@
+script:
+  # By default Travis CI executes './gradlew build connectedCheck' if no 'script:' section found.
+  - ./gradlew build
+
+env:
+  global:
+    - NDK_VERSION=r10e
+
+sudo: false
+
+language: android
+
+jdk:
+  - oraclejdk8
+
+android:
+  components:
+    - tools
+    - build-tools-23.0.3
+    - android-23
+    - extra-android-m2repository
+
+before_install:
+  - wget http://dl.google.com/android/ndk/android-ndk-$NDK_VERSION-linux-x86_64.bin
+  
+#notifications:
+#  slack: literacyapp:HLjtHJdZ7DYJV2DlnDLrG6Gl

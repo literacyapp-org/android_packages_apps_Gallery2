@@ -27,7 +27,7 @@
   <string name="loading_image">سۈرەت يۈكلەۋاتىدۇ…</string>
   <!-- Message shown on the progress dialog to indicate we're loading the
             account info [CHAR LIMIT=30] -->
-  <string name="loading_account">ھېسابات يۈكلەۋاتىدۇ…</string>
+  <string name="loading_account">ھ�?سابات يۈكلەۋاتىدۇ…</string>
   <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">سىننى داۋاملاشتۇر</string>
   <!-- Movie View Start Playing dialog title -->
@@ -55,13 +55,13 @@
   <string name="ok">جەزملە</string>
   <!-- Button indicating that the cropped image should be reverted back to the original -->
   <!-- Hint that appears when cropping an image with more than one face -->
-  <string name="multiface_crop_help">چىرايدىن بىرسى چېكىلسە باشلايدۇ.</string>
+  <string name="multiface_crop_help">چىرايدىن بىرسى چ�?كىلسە باشلايدۇ.</string>
   <!-- Toast/alert that the image is being saved to the SD card -->
   <string name="saving_image">رەسىم ساقلاۋاتىدۇ…</string>
   <!-- Toast/alert that the image is being saved after editing in filtershow [CHAR LIMIT=40]-->
   <string name="filtershow_saving_image">رەسىمنى <xliff:g id="ALBUM_NAME">%1$s</xliff:g> غا ساقلاۋاتىدۇ…</string>
   <!-- Eorror toast message that the image cannot be saved [CHAR LIMIT=40]-->
-  <string name="save_error">كېسىلگەن سۈرەتنى ساقلىيالمايدۇ.</string>
+  <string name="save_error">ك�?سىلگەن سۈرەتنى ساقلىيالمايدۇ.</string>
   <!-- menu pick: crop the currently selected image [CHAR LIMIT=30]-->
   <string name="crop_label">رەسىم كەس</string>
   <!-- menu pick: trim the currently selected video [CHAR LIMIT=30]-->
@@ -99,7 +99,7 @@
   <!-- The label shown after an image is deleted [CHAR LIMIT=16] -->
   <string name="deleted">ئۆچۈرۈلدى</string>
   <!-- The label on the button which when clicked will undo a deletion of image [CHAR LIMIT=16]-->
-  <string name="undo">يېنىۋال</string>
+  <string name="undo">ي�?نىۋال</string>
   <!-- String indicating more actions are available -->
   <string name="select_all">ھەممىنى تاللا</string>
   <string name="deselect_all">ھەممىنى تاللىما</string>
@@ -108,7 +108,7 @@
   <string name="details_title">%2$d دىن %1$d تۈر:</string>
   <string name="close">ياپ</string>
   <!-- Title of a menu item to switch from Gallery to Camera app [CHAR LIMIT=30] -->
-  <string name="switch_to_camera">كامېراغا ئالماشتۇر</string>
+  <string name="switch_to_camera">كام�?راغا ئالماشتۇر</string>
   <!-- String indicating how many media item(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
@@ -184,7 +184,7 @@
   <!-- When grouping photos by peoples, the label used for photos that don't
         have people information in them [CHAR LIMIT=20]-->
   <!-- This toast message is shown when network connection is lost while doing clustering -->
-  <string name="no_connectivity">بەزى ئورۇنلارنى تور كاشىلىسى سەۋەبىدىن ئېنىقلىيالمىدى.</string>
+  <string name="no_connectivity">بەزى ئورۇنلارنى تور كاشىلىسى سەۋەبىدىن ئ�?نىقلىيالمىدى.</string>
   <!-- This toast message is shown when failed to load the album data. [CHAR LIMIT=NONE] -->
   <string name="sync_album_error">بۇ ئالبۇمدىكى سۈرەتلەرنى چۈشۈرەلمىدى. سەل تۇرۇپ قايتا سىناڭ.</string>
   <!-- The title of the menu item to let user choose the which portion of
@@ -203,7 +203,7 @@
   <string name="appwidget_empty_text">سۈرەت يوق.</string>
   <!-- Toast message shown when the cropped image has been saved in the
          %s folder (string: folder_download) [CHAR LIMIT=50]-->
-  <string name="crop_saved">كېسىلگەن سۈرەت <xliff:g id="FOLDER_NAME">%s</xliff:g> غا ساقلاندى.</string>
+  <string name="crop_saved">ك�?سىلگەن سۈرەت <xliff:g id="FOLDER_NAME">%s</xliff:g> غا ساقلاندى.</string>
   <!-- Toast message shown when there is no albums available [CHAR LIMIT=50]-->
   <string name="no_albums_alert">ئىشلەتكىلى بولىدىغان ئالبۇم يوق.</string>
   <!-- Toast message shown when we close the AlbumPage because it is empty
@@ -215,7 +215,7 @@
          some albums to be viewable offline [CHAR LIMIT=30] -->
   <string name="make_available_offline">تورسىز ئىشلەتكىلى بولىدۇ</string>
   <!-- A label of a menu item for user to sync the content [CHAR LIMIT=30] -->
-  <string name="sync_picasa_albums">يېڭىلا</string>
+  <string name="sync_picasa_albums">ي�?ڭىلا</string>
   <!-- A label on a button. The user clicks this button after he has
          finished selection. [CHAR LIMIT=15] -->
   <string name="done">تامام</string>
@@ -235,7 +235,7 @@
   <!-- Text indicating the width of a media item in details window [CHAR LIMIT=14] -->
   <string name="width">كەڭلىك</string>
   <!-- Text indicating the height of a media item in details window [CHAR LIMIT=14] -->
-  <string name="height">ئېگىزلىك</string>
+  <string name="height">ئ�?گىزلىك</string>
   <!-- Text indicating the orientation of a media item in details window [CHAR LIMIT=14] -->
   <string name="orientation">يۆنىلىش</string>
   <!-- Text indicating the duration of a video item in details window [CHAR LIMIT=14] -->
@@ -253,7 +253,7 @@
   <!-- Text indicating aperture of a media item in details window [CHAR LIMIT=14] -->
   <string name="aperture">نۇر گەردىشى</string>
   <!-- Text indicating the focal length of a media item in details window [CHAR LIMIT=14] -->
-  <string name="focal_length">فوكۇس ئارىلىقى</string>
+  <string name="focal_length">�?وكۇس ئارىلىقى</string>
   <!-- Text indicating the white balance of a media item in details window [CHAR LIMIT=14] -->
   <string name="white_balance">ئاق تەڭپۇڭلۇق</string>
   <!-- Text indicating the exposure time of a media item in details window [CHAR LIMIT=14] -->
@@ -289,7 +289,7 @@
          photography (makes colors bluish) (filtershow_fx_0006_x_process) [CHAR LIMIT=10] -->
   <string name="ffx_x_process">ئەكسى يۇيۇش</string>
   <!-- String for filter that makes image coffee-colored (filtershow_fx_0007_washout) [CHAR LIMIT=10] -->
-  <string name="ffx_washout">لاتتې قەھۋە</string>
+  <string name="ffx_washout">لاتت�? قەھۋە</string>
   <!-- String for filter that makes colors washed out and brownish
          (filtershow_fx_0008_washout_color) [CHAR LIMIT=10] -->
   <string name="ffx_washout_color">تاش باسما</string>
@@ -344,12 +344,12 @@
   <string name="import_complete">ئەكىرىش تامام</string>
   <string name="import_fail">ئەكىرەلمىدى</string>
   <!-- A toast indicating a camera is connected to the device [CHAR LIMIT=30]-->
-  <string name="camera_connected">كامېرا باغلاندى</string>
+  <string name="camera_connected">كام�?را باغلاندى</string>
   <!-- A toast indicating a camera is disconnected [CHAR LIMIT=30] -->
-  <string name="camera_disconnected">كامېرا ئۈزۈلدى</string>
+  <string name="camera_disconnected">كام�?را ئۈزۈلدى</string>
   <!-- A label shown on MTP albums thumbnail to instruct users to import
         [CHAR LIMIT=40] -->
-  <string name="click_import">بۇ جاي چېكىلسە ئەكىرىدۇ</string>
+  <string name="click_import">بۇ جاي چ�?كىلسە ئەكىرىدۇ</string>
   <!-- The label on the radio button for the widget type that shows the images randomly. [CHAR LIMIT=30]-->
   <string name="widget_type_album">بىر ئالبۇم تاللاڭ</string>
   <!-- The label on the radio button for the widget type that shows the images in an album. [CHAR LIMIT=30]-->
@@ -375,9 +375,9 @@
   <!-- The title of the menu item which enable the settings [CHAR LIMIT=20] -->
   <string name="settings">تەڭشەكلەر</string>
   <!-- The title of menu item where user can add a new account -->
-  <string name="add_account">ھېسابات قوش</string>
+  <string name="add_account">ھ�?سابات قوش</string>
   <!-- The label for the folder contains pictures taken by the camera. [CHAR LIMIT=20]-->
-  <string name="folder_camera">كامېرا</string>
+  <string name="folder_camera">كام�?را</string>
   <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">چۈشۈر</string>
   <!-- The label for the folder contains edited online pictures. [CHAR LIMIT=40]-->
@@ -386,21 +386,21 @@
          external camera. [CHAR LIMIT=20]-->
   <string name="folder_imported">ئەكىردى</string>
   <!-- The label for the folder contains screenshot images. [CHAR LIMIT=20]-->
-  <string name="folder_screenshot">ئېكراندىن تۇتۇلغان سۈرەت</string>
+  <string name="folder_screenshot">ئ�?كراندىن تۇتۇلغان سۈرەت</string>
   <!-- The title of the menu item which display online help in browser. [CHAR LIMIT=20]-->
   <string name="help">ياردەم</string>
   <!-- The tilte of a dialog showing there is no external storage. [CHAR LIMIT=20] -->
   <string name="no_external_storage_title">ساقلىغۇچ يوق</string>
   <!-- The message of a dialog showing there is no external storage. [CHAR LIMIT=none] -->
-  <string name="no_external_storage">ھېچقانداق سىرتقى ساقلىغۇچ يوق</string>
+  <string name="no_external_storage">ھ�?چقانداق سىرتقى ساقلىغۇچ يوق</string>
   <!-- Label for album filmstrip button -->
   <string name="switch_photo_filmstrip">تام تەسۋىر كۆرۈنۈش</string>
   <!-- Label for album grid button -->
-  <string name="switch_photo_grid">سېتكا كۆرۈنۈش</string>
+  <string name="switch_photo_grid">س�?تكا كۆرۈنۈش</string>
   <!-- Label for fullscreen button. [CHAR LIMIT=20] -->
-  <string name="switch_photo_fullscreen">پۈتۈن ئېكران كۆرۈنۈش</string>
+  <string name="switch_photo_fullscreen">پۈتۈن ئ�?كران كۆرۈنۈش</string>
   <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
-  <string name="trimming">كېسىۋاتىدۇ</string>
+  <string name="trimming">ك�?سىۋاتىدۇ</string>
   <!-- The tilte of a dialog showing muting in progress. [CHAR LIMIT=20] -->
   <string name="muting">ئۈنسىز قىلىۋاتىدۇ</string>
   <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
@@ -408,7 +408,7 @@
   <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">سىننى <xliff:g id="ALBUM_NAME">%1$s</xliff:g> غا ساقلاۋاتىدۇ…</string>
   <!-- Toast if the trimmed video is too short to trim. [CHAR LIMIT=80] -->
-  <string name="trim_too_short">كېسەلمەيدۇ: نىشان سىن بەك قىسقا\"</string>
+  <string name="trim_too_short">ك�?سەلمەيدۇ: نىشان سىن بەك قىسقا\"</string>
   <!-- Text to show with progress bar while stitching in Gallery -->
   <string name="pano_progress_text">پۈتۈن مەنزىرە سۈرەتنى رەڭلەۋاتىدۇ</string>
   <!-- The label on the button that will save an edited image -->
@@ -429,33 +429,33 @@
   <!--  Status message shown when content from an external camera is being imported -->
   <string name="ingest_importing">ئەكىرىۋاتىدۇ…</string>
   <!--  Status message shown when there is no content available to be imported -->
-  <string name="ingest_empty_device">بۇ ئۈسكۈنىدە ئەكىرگىلى بولىدىغان ھېچقانداق مەزمۇن يوق.</string>
+  <string name="ingest_empty_device">بۇ ئۈسكۈنىدە ئەكىرگىلى بولىدىغان ھ�?چقانداق مەزمۇن يوق.</string>
   <!--  Status message shown when there is no MTP device connected  -->
-  <string name="ingest_no_device">ھېچقانداق MTP ئۈسكۈنە باغلانمىدى</string>
+  <string name="ingest_no_device">ھ�?چقانداق MTP ئۈسكۈنە باغلانمىدى</string>
   <!-- Label for album grid button -->
   <!-- Label for fullscreen button. [CHAR LIMIT=20] -->
   <!-- Camera resources below -->
   <!-- General strings -->
   <!-- title for the dialog showing the error of camera hardware -->
-  <string name="camera_error_title">كامېرا خاتالىقى</string>
+  <string name="camera_error_title">كام�?را خاتالىقى</string>
   <!-- message for the dialog showing the error of camera hardware -->
-  <string name="cannot_connect_camera">كامېراغا باغلىنالمىدى</string>
+  <string name="cannot_connect_camera">كام�?راغا باغلىنالمىدى</string>
   <!-- message for the dialog showing the camera is disabled because of security policies. Camera cannot be used. -->
-  <string name="camera_disabled">بىخەتەرلىك تەدبىرى سەۋەبىدىن كامېرا چەكلەندى.</string>
+  <string name="camera_disabled">بىخەتەرلىك تەدبىرى سەۋەبىدىن كام�?را چەكلەندى.</string>
   <!-- label for the icon meaning 'show me all the images that were taken with the camera' -->
-  <string name="camera_label">كامېرا</string>
+  <string name="camera_label">كام�?را</string>
   <!-- alert to the user to wait for some operation to complete -->
   <string name="wait">سەل كۈتۈڭ…</string>
   <!-- alert to the user that USB storage must be available before using the camera [CHAR LIMIT=NONE] -->
-  <string name="no_storage" product="nosdcard">كامېرانى ئىشلىتىشتىن ئىلگىرى USB ساقلىغۇچنى ئېگەرلەڭ.</string>
+
   <!-- alert to the user that an SD card must be installed before using the camera -->
-  <string name="no_storage" product="default">كامېرا ئىشلىتىشتىن ئىلگىرى SD كارتا قىستۇرۇڭ.</string>
+  <string name="no_storage" product="default">كام�?را ئىشلىتىشتىن ئىلگىرى SD كارتا قىستۇرۇڭ.</string>
   <!-- alert to the user that the USB storage is being disk-checked [CHAR LIMIT=30] -->
-  <string name="preparing_sd" product="nosdcard">USB ساقلىغۇچنى تەييارلاۋاتىدۇ…</string>
+
   <!-- alert to the user that the SD card is being disk-checked -->
   <string name="preparing_sd" product="default">SD كارتا تەييارلاۋاتىدۇ…</string>
   <!-- alert to the user that the camera fails to read or write the USB storage. [CHAR LIMIT=NONE] -->
-  <string name="access_sd_fail" product="nosdcard">USB ساقلىغۇچنى زىيارەت قىلالمايدۇ.</string>
+
   <!-- alert to the user that the camera fails to read or write the SD card. -->
   <string name="access_sd_fail" product="default">SD كارتىنى زىيارەت قىلالمايدۇ.</string>
   <!-- button in review mode indicating that the photo taking, video recording, and panorama saving session should be canceled [CHAR LIMIT=10] -->
@@ -465,7 +465,7 @@
   <!-- A label that overlays on top of the preview frame to indicate the camcorder is in time lapse mode [CHAR LIMIT=35] -->
   <string name="time_lapse_title">ۋاقىت بەلگىلەپ خاتىرىلەش</string>
   <!-- Settings screen, camera selection dialog title. Users can select a camera from the phone (front-facing or back-facing). [CHAR LIMIT=20] -->
-  <string name="pref_camera_id_title">كامېرا تاللاڭ</string>
+  <string name="pref_camera_id_title">كام�?را تاللاڭ</string>
   <!-- In select camera setting, back facing camera. [CHAR LIMIT=14] -->
   <string name="pref_camera_id_entry_back">قايت</string>
   <!-- In select camera setting, front-facing camera. [CHAR LIMIT=14] -->
@@ -478,7 +478,7 @@
   <string name="pref_camera_timer_title">تەتۈر سانىغۇچ ۋاقىت خاتىرىلىگۈچ</string>
   <!-- Entry for countdown timer setting. e.g. 1 second, 10 seconds, etc. [CHAR LIMIT=30]-->
   <plurals name="pref_camera_timer_entry">
-    <item quantity="other">1 سېكۇنت</item>
+    <item quantity="other">1 س�?كۇنت</item>
   </plurals>
   <!-- Text followed by a checkbox to turn on/off sound effects during the countdown. [CHAR LIMIT = 16]-->
   <string name="pref_camera_timer_sound_title">تەتۈر ساناۋاتقاندا ئەسكەرتىش ئاۋازى چىقار</string>
@@ -502,33 +502,33 @@
     time lapse recording. Appears at top of the dialog. [CHAR LIMIT=30] -->
   <string name="pref_video_time_lapse_frame_interval_title">ۋاقىت بەلگىلەپ سۈرەت تارتىش</string>
   <!-- Settings screen, Camera setting category title -->
-  <string name="pref_camera_settings_category">كامېرا تەڭشەك</string>
+  <string name="pref_camera_settings_category">كام�?را تەڭشەك</string>
   <!-- Settings screen, Camcorder setting category title -->
   <string name="pref_camcorder_settings_category">سىنئالغۇ تەڭشەك</string>
   <!-- Settings screen, Picture size title -->
   <string name="pref_camera_picturesize_title">رەسىم چوڭلۇقى</string>
   <!-- Settings screen, dialog choice for 13 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_13mp">13 مىليون پىكسېل</string>
+  <string name="pref_camera_picturesize_entry_13mp">13 مىليون پىكس�?ل</string>
   <!-- Settings screen, dialog choice for 8 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_8mp">8 مىليون پىكسېل</string>
+  <string name="pref_camera_picturesize_entry_8mp">8 مىليون پىكس�?ل</string>
   <!-- Settings screen, dialog choice for 5 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_5mp">5 مىليون پىكسېل</string>
+  <string name="pref_camera_picturesize_entry_5mp">5 مىليون پىكس�?ل</string>
   <!-- Settings screen, dialog choice for 4 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_4mp">4 مىليون پىكسېل</string>
+  <string name="pref_camera_picturesize_entry_4mp">4 مىليون پىكس�?ل</string>
   <!-- Settings screen, dialog choice for 3 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_3mp">3 مىليون پىكسېل</string>
+  <string name="pref_camera_picturesize_entry_3mp">3 مىليون پىكس�?ل</string>
   <!-- Settings screen, dialog choice for 2 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_2mp">2 مىليون پىكسېل</string>
+  <string name="pref_camera_picturesize_entry_2mp">2 مىليون پىكس�?ل</string>
   <!-- Settings screen, dialog choice for 2 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_2mp_wide">2 مىليون پىكسېل (16:9)</string>
+  <string name="pref_camera_picturesize_entry_2mp_wide">2 مىليون پىكس�?ل (16:9)</string>
   <!-- Settings screen, dialog choice for 1.3 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_1_3mp">1،3 مىليون پىكسېل</string>
+  <string name="pref_camera_picturesize_entry_1_3mp">1،3 مىليون پىكس�?ل</string>
   <!-- Settings screen, dialog choice for 1 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_1mp">1 مىليون پىكسېل</string>
+  <string name="pref_camera_picturesize_entry_1mp">1 مىليون پىكس�?ل</string>
   <!-- Settings screen, dialog choice for VGA picture size [CHAR LIMIT=15] -->
   <!-- Settings screen, dialog choice for QVGA picture size [CHAR LIMIT=15] -->
   <!-- Settings screen, Focus mode title -->
-  <string name="pref_camera_focusmode_title">فوكۇس مودېلى</string>
+  <string name="pref_camera_focusmode_title">�?وكۇس مود�?لى</string>
   <!-- Settings screen, Focus mode dialog radio button choices -->
   <string name="pref_camera_focusmode_entry_auto">ئاپتوماتىك</string>
   <string name="pref_camera_focusmode_entry_infinity">چەكسىز</string>
@@ -578,9 +578,9 @@
   <!-- Scene mode that takes an image quickly with little motion blur. [CHAR LIMIT=16] -->
   <string name="pref_camera_scenemode_entry_action">مەشغۇلات</string>
   <!-- Scene mode that takes long exposures to capture night scenes without flash. [CHAR LIMIT=16] -->
-  <string name="pref_camera_scenemode_entry_night">كېچە</string>
+  <string name="pref_camera_scenemode_entry_night">ك�?چە</string>
   <!-- Scene mode optimized for taking images in the sunset. [CHAR LIMIT=16] -->
-  <string name="pref_camera_scenemode_entry_sunset">كۈن پېتىش</string>
+  <string name="pref_camera_scenemode_entry_sunset">كۈن پ�?تىش</string>
   <!-- Scene mode optimized for taking indoor low-lights pictures. [CHAR LIMIT=16] -->
   <string name="pref_camera_scenemode_entry_party">يىغىلىش</string>
   <!-- Settings menu, scene mode labels [CHAR LIMIT=50] -->
@@ -588,9 +588,9 @@
   <!-- Scene mode that takes an image quickly with little motion blur. [CHAR LIMIT=50] -->
   <string name="pref_camera_scenemode_label_action">مەشغۇلات</string>
   <!-- Scene mode that takes long exposures to capture night scenes without flash. [CHAR LIMIT=50] -->
-  <string name="pref_camera_scenemode_label_night">كېچە</string>
+  <string name="pref_camera_scenemode_label_night">ك�?چە</string>
   <!-- Scene mode optimized for taking images in the sunset. [CHAR LIMIT=50] -->
-  <string name="pref_camera_scenemode_label_sunset">كۈن پېتىش</string>
+  <string name="pref_camera_scenemode_label_sunset">كۈن پ�?تىش</string>
   <!-- Scene mode optimized for taking indoor low-lights pictures. [CHAR LIMIT=50] -->
   <string name="pref_camera_scenemode_label_party">يىغىلىش</string>
   <!-- Settings menu countdown timer labels [CHAR LIMIT=50] -->
@@ -598,13 +598,13 @@
   <!-- Settings menu countdown timer off [CHAR LIMIT=50] -->
   <string name="pref_camera_countdown_label_off">ۋاقىت خاتىرىلىگۈچ تاقاق</string>
   <!-- Settings menu countdown timer 1 second [CHAR LIMIT=50] -->
-  <string name="pref_camera_countdown_label_one">1 سېكۇنت</string>
+  <string name="pref_camera_countdown_label_one">1 س�?كۇنت</string>
   <!-- Settings menu countdown timer 3 seconds [CHAR LIMIT=50] -->
-  <string name="pref_camera_countdown_label_three">3 سېكۇنت</string>
+  <string name="pref_camera_countdown_label_three">3 س�?كۇنت</string>
   <!-- Settings menu countdown timer 10 seconds [CHAR LIMIT=50] -->
-  <string name="pref_camera_countdown_label_ten">10 سېكۇنت</string>
+  <string name="pref_camera_countdown_label_ten">10 س�?كۇنت</string>
   <!-- Settings menu countdown timer 15 seconds [CHAR LIMIT=50] -->
-  <string name="pref_camera_countdown_label_fifteen">15 سېكۇنت</string>
+  <string name="pref_camera_countdown_label_fifteen">15 س�?كۇنت</string>
   <!-- Toast after trying to select a setting that is not allowed to change in scene mode [CHAR LIMIT=NONE] -->
   <string name="not_selectable_in_scene_mode">تەڭشەكنى مەنزىرە ھالىتىدە تاللىغىلى بولمايدۇ.</string>
   <!-- Exposure settings in preference -->
@@ -614,22 +614,22 @@
   <!-- Default HDR entry value -->
   <!-- HDR label ON [CHAR LIMIT=60] -->
   <!-- switch camera label back [CHAR LIMIT=60] -->
-  <string name="pref_camera_id_label_back">ئالدى كامېرا</string>
+  <string name="pref_camera_id_label_back">ئالدى كام�?را</string>
   <!-- switch camera label front [CHAR LIMIT=60] -->
-  <string name="pref_camera_id_label_front">كەينى كامېرا</string>
+  <string name="pref_camera_id_label_front">كەينى كام�?را</string>
   <!-- Dialog "OK" button. Dismisses dialog. -->
   <string name="dialog_ok">جەزملە</string>
   <!-- Low-memory dialog message [CHAR LIMT=NONE] -->
-  <string name="spaceIsLow_content" product="nosdcard">USB ساقلىغۇچ بوشلۇقىڭىز توشاي دېدى. سۈپەت تەڭشەكنى ئۆزگەرتىڭ ياكى بەزى سۈرەتلەرنى ياكى باشقا ھۆججەتلەرنى ئۆچۈرۈڭ.</string>
+
   <!-- Low-memory dialog message [CHAR LIMIT=NONE] -->
-  <string name="spaceIsLow_content" product="default">SD كارتا بوشلۇقىڭىز توشاي دېدى. سۈپەت تەڭشەكنى ئۆزگەرتىڭ ياكى بەزى سۈرەتلەرنى ياكى باشقا ھۆججەتلەرنى ئۆچۈرۈڭ.</string>
+  <string name="spaceIsLow_content" product="default">SD كارتا بوشلۇقىڭىز توشاي د�?دى. سۈپەت تەڭشەكنى ئۆزگەرتىڭ ياكى بەزى سۈرەتلەرنى ياكى باشقا ھۆججەتلەرنى ئۆچۈرۈڭ.</string>
   <!-- Camera format string for new image files. Passed to java.text.SimpleDateFormat. -->
   <!-- Video Camera format string for new video files. Passed to java.text.SimpleDateFormat. -->
   <!-- Filename prefix for panorama output. -->
   <!-- The message shown when video record reaches size limit. -->
-  <string name="video_reach_size_limit">چوڭلۇق چېكىگە يەتتى.</string>
+  <string name="video_reach_size_limit">چوڭلۇق چ�?كىگە يەتتى.</string>
   <!-- The text shown when the panorama panning speed is to fast [CHAR LIMIT=12] -->
-  <string name="pano_too_fast_prompt">بەك تېز</string>
+  <string name="pano_too_fast_prompt">بەك ت�?ز</string>
   <!-- The text shown in the progress dialog when panorama preview is generating in the background [CHAR LIMIT=30] -->
   <string name="pano_dialog_prepare_preview">پۈتۈن مەنزىرە تەييارلاۋاتىدۇ</string>
   <!-- The text shown in the dialog when panorama saving failed [CHAR LIMIT=40] -->
@@ -645,7 +645,7 @@
   <!-- The text shown on the screen to indicate that the panorama is rendering [CHAR LIMIT=27] -->
   <string name="pano_review_rendering">پۈتۈن مەنزىرە سۈرەتنى رەڭلەۋاتىدۇ</string>
   <!-- Toast telling users tapping on the viewfinder will trigger autofocus [CHAR LIMIT=28] -->
-  <string name="tap_to_focus">چېكىسلە فوكۇس توغرىلايدۇ.</string>
+  <string name="tap_to_focus">چ�?كىسلە �?وكۇس توغرىلايدۇ.</string>
   <!-- Default effect setting that clears the effect. -->
   <!-- Title of video effect setting popup window -->
   <string name="pref_video_effect_title">ئالاھىدە ئۈنۈم</string>
@@ -656,9 +656,9 @@
   <!-- Effect setting item that makes eyes big. [CHAR LIMIT=14] -->
   <string name="effect_goofy_face_big_eyes">چوڭ كۆز</string>
   <!-- Effect setting item that makes mouth big. [CHAR LIMIT=14] -->
-  <string name="effect_goofy_face_big_mouth">چوڭ ئېغىز</string>
+  <string name="effect_goofy_face_big_mouth">چوڭ ئ�?غىز</string>
   <!-- Effect setting item that makes mouth small. [CHAR LIMIT=14] -->
-  <string name="effect_goofy_face_small_mouth">كىچىك ئېغىز</string>
+  <string name="effect_goofy_face_small_mouth">كىچىك ئ�?غىز</string>
   <!-- Effect setting item that makes nose big. [CHAR LIMIT=14] -->
   <string name="effect_goofy_face_big_nose">چوڭ بۇرۇن</string>
   <!-- Effect setting item that makes eyes small. [CHAR LIMIT=14] -->
@@ -666,17 +666,17 @@
   <!-- Effect setting item that replaces background with Android in Space. [CHAR LIMIT=14] -->
   <string name="effect_backdropper_space">ئالەم تەگلىكى</string>
   <!-- Effect setting item that replaces background with a sunset. [CHAR LIMIT=14] -->
-  <string name="effect_backdropper_sunset">كۈن پېتىش</string>
+  <string name="effect_backdropper_sunset">كۈن پ�?تىش</string>
   <!-- Effect setting item that replaces background with video from gallery. [CHAR LIMIT=14] -->
   <string name="effect_backdropper_gallery">سىنلىرىڭىز</string>
   <!-- Message displayed in overlay during background replacement training [CHAR LIMIT=180]-->
   <string name="bg_replacement_message">ئۈسكۈنىنى پەسكە قويۇڭ.\"\n\"كۆرۈنۈش ئالدىدىن بىر دەم ئايرىلىڭ.</string>
   <!-- Toast telling users tapping on the viewfinder will take a picture [CHAR LIMIT=54] -->
-  <string name="video_snapshot_hint">سىنغا ئېلىۋاتقاندا چېكىلسە بىر پارچە سۈرەت تارتىدۇ.</string>
+  <string name="video_snapshot_hint">سىنغا ئ�?لىۋاتقاندا چ�?كىلسە بىر پارچە سۈرەت تارتىدۇ.</string>
   <!-- Announcement telling users video recording has just started [CHAR LIMIT=NONE] -->
-  <string name="video_recording_started">سىنغا ئېلىش باشلاندى.</string>
+  <string name="video_recording_started">سىنغا ئ�?لىش باشلاندى.</string>
   <!-- Announcement telling users video recording has just stopped [CHAR LIMIT=NONE] -->
-  <string name="video_recording_stopped">سىنغا ئېلىش توختىدى.</string>
+  <string name="video_recording_stopped">سىنغا ئ�?لىش توختىدى.</string>
   <!-- Toast telling users video snapshot is disabled when the effects are on and a user tries to tap on the viewfinder [CHAR LIMIT=65] -->
   <string name="disable_video_snapshot_hint">ئالاھىدە ئۈنۈمنى قوزغاتقاندا سىندىن سۈرەت تۇتۇش چەكلىنىدۇ.</string>
   <!-- A button in effect setting popup to clear the effect. [CHAR LIMIT=26] -->
@@ -690,21 +690,21 @@
   <!-- The menu button. [CHAR LIMIT = NONE] -->
   <string name="accessibility_menu_button">تىزىملىك توپچا</string>
   <!-- The button to review the thumbnail. [CHAR LIMIT = NONE] -->
-  <string name="accessibility_review_thumbnail">يېقىنقى سۈرەت</string>
+  <string name="accessibility_review_thumbnail">ي�?قىنقى سۈرەت</string>
   <!-- The front/back camera switch. [CHAR LIMIT = NONE] -->
-  <string name="accessibility_camera_picker">ئالدى كەينى كامېرا ئالماشتۇرغۇچ</string>
+  <string name="accessibility_camera_picker">ئالدى كەينى كام�?را ئالماشتۇرغۇچ</string>
   <!-- The mode picker to switch between camera, video and panorama. [CHAR LIMIT = NONE] -->
-  <string name="accessibility_mode_picker">كامېرا، سىن ياكى پۈتۈن مەنزىرە تاللىغۇچ</string>
+  <string name="accessibility_mode_picker">كام�?را، سىن ياكى پۈتۈن مەنزىرە تاللىغۇچ</string>
   <!-- The button to switch to the second-level indicators of the camera settings. [CHAR LIMIT = NONE] -->
-  <string name="accessibility_second_level_indicators">تېخىمۇ كۆپ تەڭشەك تىزگىنلىرى</string>
+  <string name="accessibility_second_level_indicators">ت�?خىمۇ كۆپ تەڭشەك تىزگىنلىرى</string>
   <!-- The button to back to the first-level indicators of the camera settings. [CHAR LIMIT = NONE] -->
   <string name="accessibility_back_to_first_level">تەڭشەك تىزگىنىنى ياپ</string>
   <!-- The zoom control button. [CHAR LIMIT = NONE] -->
-  <string name="accessibility_zoom_control">يىراق يېقىن  تىزگىنى</string>
+  <string name="accessibility_zoom_control">يىراق ي�?قىن  تىزگىنى</string>
   <!-- The decrement button in camera preference such as exposure, picture size. [CHAR LIMIT = NONE] -->
   <string name="accessibility_decrement">%1$s نى يىراقلات</string>
   <!-- The increment button in camera preference such as exposure, picture size. [CHAR LIMIT = NONE] -->
-  <string name="accessibility_increment">%1$s نى يېقىنلات</string>
+  <string name="accessibility_increment">%1$s نى ي�?قىنلات</string>
   <!-- The check box in camera settings, such as store location. [CHAR LIMIT = NONE] -->
   <string name="accessibility_check_box">%1$s كۆپ تاللاش رامكىسى</string>
   <!-- The button to switch to Camera mode. [CHAR LIMIT = NONE] -->
@@ -714,9 +714,9 @@
   <!-- The button to switch to Panorama mode. [CHAR LIMIT = NONE] -->
   <string name="accessibility_switch_to_panorama">پۈتۈن مەنزىرىگە ئالماشتۇر</string>
   <!-- The button to switch to new Panorama mode. [CHAR LIMIT = NONE] -->
-  <string name="accessibility_switch_to_new_panorama">يېڭى پۈتۈن مەنزىرىگە ئالماشتۇر</string>
+  <string name="accessibility_switch_to_new_panorama">ي�?ڭى پۈتۈن مەنزىرىگە ئالماشتۇر</string>
   <!-- The button to switch to the Re-Focus mode. [CHAR LIMIT = NONE] -->
-  <string name="accessibility_switch_to_refocus">قايتا فوكۇسلاشقا ئالماشتۇر</string>
+  <string name="accessibility_switch_to_refocus">قايتا �?وكۇسلاشقا ئالماشتۇر</string>
   <!-- The button in review mode indicating that the photo taking, video recording, and panorama saving session should be canceled [CHAR LIMIT = NONE] -->
   <string name="accessibility_review_cancel">ئالدىن كۆزىتىشتىن ۋاز كەچ</string>
   <!-- The button in review mode indicating that the taken photo/video is OK to be attached/uploaded [CHAR LIMIT = NONE] -->
@@ -740,31 +740,31 @@ CHAR LIMIT = NONE] -->
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
   <string name="pref_video_time_lapse_frame_interval_off">تاقاق</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_500">0.5 سېكۇنت</string>
+  <string name="pref_video_time_lapse_frame_interval_500">0.5 س�?كۇنت</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_1000">1 سېكۇنت</string>
+  <string name="pref_video_time_lapse_frame_interval_1000">1 س�?كۇنت</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_1500">1.5 سېكۇنت</string>
+  <string name="pref_video_time_lapse_frame_interval_1500">1.5 س�?كۇنت</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_2000">2 سېكۇنت</string>
+  <string name="pref_video_time_lapse_frame_interval_2000">2 س�?كۇنت</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_2500">2.5 سېكۇنت</string>
+  <string name="pref_video_time_lapse_frame_interval_2500">2.5 س�?كۇنت</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_3000">3 سېكۇنت</string>
+  <string name="pref_video_time_lapse_frame_interval_3000">3 س�?كۇنت</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_4000">4 سېكۇنت</string>
+  <string name="pref_video_time_lapse_frame_interval_4000">4 س�?كۇنت</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_5000">5 سېكۇنت</string>
+  <string name="pref_video_time_lapse_frame_interval_5000">5 س�?كۇنت</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_6000">6 سېكۇنت</string>
+  <string name="pref_video_time_lapse_frame_interval_6000">6 س�?كۇنت</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_10000">10 سېكۇنت</string>
+  <string name="pref_video_time_lapse_frame_interval_10000">10 س�?كۇنت</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_12000">12 سېكۇنت</string>
+  <string name="pref_video_time_lapse_frame_interval_12000">12 س�?كۇنت</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_15000">15 سېكۇنت</string>
+  <string name="pref_video_time_lapse_frame_interval_15000">15 س�?كۇنت</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_24000">24 سېكۇنت</string>
+  <string name="pref_video_time_lapse_frame_interval_24000">24 س�?كۇنت</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
   <string name="pref_video_time_lapse_frame_interval_30000">0-5 مىنۇت</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
@@ -818,7 +818,7 @@ CHAR LIMIT = NONE] -->
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
   <string name="pref_video_time_lapse_frame_interval_86400000">24 سائەت</string>
   <!-- Seconds: a unit of time for time lapse intervals. [CHAR LIMIT = 20] -->
-  <string name="time_lapse_seconds">سېكۇنت</string>
+  <string name="time_lapse_seconds">س�?كۇنت</string>
   <!-- Minutes: a unit of time for time lapse intervals. [CHAR LIMIT = 20] -->
   <string name="time_lapse_minutes">مىنۇت</string>
   <!-- Hours: a unit of time for time lapse intervals. [CHAR LIMIT = 20] -->
@@ -828,11 +828,11 @@ CHAR LIMIT = NONE] -->
   <!-- Title in time interval picker for setting time interval. [CHAR LIMIT = 30]-->
   <string name="set_time_interval">\"ۋاقىت ئارىلىق تەڭشىكى\"</string>
   <!-- Help text that is shown when the time lapse feature is turned off. [CHAR LIMIT = 180]-->
-  <string name="set_time_interval_help">ۋاقىت كېچىكتۈرۈپ سۈرەت تارتىش ئىقتىدارى تاقالدى. ۋاقىت ئارىلىقى تەڭشىمەكچى بولغاندا، ئالدى بىلەن شۇ ئىقتىدارنى ئېچىڭ.</string>
+  <string name="set_time_interval_help">ۋاقىت ك�?چىكتۈرۈپ سۈرەت تارتىش ئىقتىدارى تاقالدى. ۋاقىت ئارىلىقى تەڭشىمەكچى بولغاندا، ئالدى بىلەن شۇ ئىقتىدارنى ئ�?چىڭ.</string>
   <!-- Help text that is shown when the countdown timer is turned off. [CHAR LIMIT = 180]-->
-  <string name="set_timer_help">تەتۈر ساناق ۋاقىت خاتىرىلىغۇچ تاقاق. سۈرەت تارتىشتىن ئىلگىرى تەتۈر ساناق ئۈچۈن، ئالدى بىلەن شۇ ئىقتىدارنى ئېچىڭ.</string>
+  <string name="set_timer_help">تەتۈر ساناق ۋاقىت خاتىرىلىغۇچ تاقاق. سۈرەت تارتىشتىن ئىلگىرى تەتۈر ساناق ئۈچۈن، ئالدى بىلەن شۇ ئىقتىدارنى ئ�?چىڭ.</string>
   <!-- Title in timer setting for setting the duration for the countdown timer. [CHAR LIMIT = 50]-->
-  <string name="set_duration">داۋاملىشىش ۋاقىت تەڭشىكى سېكۇنت</string>
+  <string name="set_duration">داۋاملىشىش ۋاقىت تەڭشىكى س�?كۇنت</string>
   <!-- On-screen hint during timer countdown for taking a photo. [CHAR LIMIT = 60]-->
   <string name="count_down_title_text">سۈرەت تارتىش تەتۈر ساناق ساناۋاتىدۇ</string>
   <!-- Title for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT = 50] -->
@@ -844,7 +844,7 @@ CHAR LIMIT = NONE] -->
   <!-- Positive answer for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT = 20] -->
   <string name="remember_location_yes">ھەئە</string>
   <!-- Menu item to launch the camera app [CHAR LIMIT=25] -->
-  <string name="menu_camera">كامېرا</string>
+  <string name="menu_camera">كام�?را</string>
   <!-- Menu item to search for photos [CHAR LIMIT=25] -->
   <string name="menu_search">ئىزدە</string>
   <!-- Title for the all photos tab [CHAR LIMIT=25] -->
@@ -853,7 +853,7 @@ CHAR LIMIT = NONE] -->
   <string name="tab_albums">سۈرەت توپلىمى</string>
   <!-- Camera menu labels -->
   <!-- more options label [CHAR LIMIT=50] -->
-  <string name="camera_menu_more_label">تېخىمۇ كۆپ تاللانما</string>
+  <string name="camera_menu_more_label">ت�?خىمۇ كۆپ تاللانما</string>
   <!-- settings label [CHAR LIMIT=50] -->
   <string name="camera_menu_settings_label">تەڭشەكلەر</string>
   <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->

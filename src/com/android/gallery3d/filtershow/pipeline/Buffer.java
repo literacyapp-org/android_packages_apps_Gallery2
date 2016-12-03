@@ -18,9 +18,9 @@ package com.android.gallery3d.filtershow.pipeline;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
-import android.renderscript.Allocation;
-import android.renderscript.RenderScript;
-import android.util.Log;
+import android.support.v8.renderscript.RenderScript;
+import android.support.v8.renderscript.Allocation;
+
 import com.android.gallery3d.filtershow.cache.BitmapCache;
 import com.android.gallery3d.filtershow.imageshow.MasterImage;
 

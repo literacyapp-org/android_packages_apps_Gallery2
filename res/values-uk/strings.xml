@@ -16,28 +16,28 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name" msgid="1928079047368929634">"Галерея"</string>
+    <string name="app_name" msgid="1928079047368929634">"Галере�?"</string>
     <string name="gadget_title" msgid="259405922673466798">"Фото-рамка"</string>
     <string name="details_ms" msgid="940634969189855292">"%1$02d:%2$02d"</string>
     <string name="details_hms" msgid="3215779248094151255">"%1$d:%2$02d:%3$02d"</string>
     <string name="movie_view_label" msgid="3526526872644898229">"Відеопрогравач"</string>
     <string name="loading_video" msgid="4013492720121891585">"Завантаж. відео…"</string>
     <string name="loading_image" msgid="1200894415793838191">"Завантаж. зображ…"</string>
-    <string name="loading_account" msgid="928195413034552034">"Завантаження облік. запису..."</string>
+    <string name="loading_account" msgid="928195413034552034">"Завантаженн�? облік. запи�?у..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Відновити відео"</string>
-    <string name="resume_playing_message" msgid="5184414518126703481">"Продовж. відтворення з %s ?"</string>
+    <string name="resume_playing_message" msgid="5184414518126703481">"Продовж. відтворенн�? з %s ?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Віднов. відтвор."</string>
     <string name="loading" msgid="7038208555304563571">"Завантаж…"</string>
-    <string name="fail_to_load" msgid="8394392853646664505">"Не вдалося завантажити"</string>
-    <string name="fail_to_load_image" msgid="6155388718549782425">"Не вдалося завантажити зображення"</string>
-    <string name="no_thumbnail" msgid="284723185546429750">"Немає ескізу"</string>
+    <string name="fail_to_load" msgid="8394392853646664505">"�?е вдало�?�? завантажити"</string>
+    <string name="fail_to_load_image" msgid="6155388718549782425">"�?е вдало�?�? завантажити зображенн�?"</string>
+    <string name="no_thumbnail" msgid="284723185546429750">"�?емає е�?кізу"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"Почати знову"</string>
     <string name="crop_save_text" msgid="152200178986698300">"OK"</string>
     <string name="ok" msgid="5296833083983263293">"ОК"</string>
-    <string name="multiface_crop_help" msgid="2554690102655855657">"Торкніться обличчя, щоб почати."</string>
-    <string name="saving_image" msgid="7270334453636349407">"Зберіг-ня фото…"</string>
-    <string name="filtershow_saving_image" msgid="6659463980581993016">"Зображення зберігається в альбом <xliff:g id="ALBUM_NAME">%1$s</xliff:g>..."</string>
-    <string name="save_error" msgid="6857408774183654970">"Не вдалося зберегти обрізане зображення."</string>
+    <string name="multiface_crop_help" msgid="2554690102655855657">"Торкніть�?�? обличч�?, щоб почати."</string>
+    <string name="saving_image" msgid="7270334453636349407">"Зберіг-н�? фото…"</string>
+    <string name="filtershow_saving_image" msgid="6659463980581993016">"Зображенн�? зберігаєть�?�? в альбом <xliff:g id="ALBUM_NAME">%1$s</xliff:g>..."</string>
+    <string name="save_error" msgid="6857408774183654970">"�?е вдало�?�? зберегти обрізане зображенн�?."</string>
     <string name="crop_label" msgid="521114301871349328">"Обрізати фото"</string>
     <string name="trim_label" msgid="274203231381209979">"Обрізати відео"</string>
     <string name="select_image" msgid="7841406150484742140">"Виберіть фото"</string>
@@ -45,9 +45,9 @@
     <string name="select_item" msgid="2816923896202086390">"Виберіть елемент"</string>
     <string name="select_album" msgid="1557063764849434077">"Виберіть альбом"</string>
     <string name="select_group" msgid="6744208543323307114">"Виберіть групу"</string>
-    <string name="set_image" msgid="2331476809308010401">"Устан. фото як"</string>
-    <string name="set_wallpaper" msgid="8491121226190175017">"Фонове зображення"</string>
-    <string name="wallpaper" msgid="140165383777262070">"Встановлення фонового малюнка..."</string>
+    <string name="set_image" msgid="2331476809308010401">"У�?тан. фото �?к"</string>
+    <string name="set_wallpaper" msgid="8491121226190175017">"Фонове зображенн�?"</string>
+    <string name="wallpaper" msgid="140165383777262070">"В�?тановленн�? фонового малюнка..."</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Фоновий мал."</string>
     <string name="delete" msgid="2839695998251824487">"Видалити"</string>
   <plurals name="delete_selection">
@@ -55,14 +55,14 @@
     <item quantity="other" msgid="5874316486520635333">"Видалити вибрані елементи?"</item>
   </plurals>
     <string name="confirm" msgid="8646870096527848520">"Підтвердити"</string>
-    <string name="cancel" msgid="3637516880917356226">"Скасувати"</string>
-    <string name="share" msgid="3619042788254195341">"Надісл."</string>
-    <string name="share_panorama" msgid="2569029972820978718">"Поділитися панорамою"</string>
-    <string name="share_as_photo" msgid="8959225188897026149">"Поділитися як фотографією"</string>
+    <string name="cancel" msgid="3637516880917356226">"Ска�?увати"</string>
+    <string name="share" msgid="3619042788254195341">"�?аді�?л."</string>
+    <string name="share_panorama" msgid="2569029972820978718">"Поділити�?�? панорамою"</string>
+    <string name="share_as_photo" msgid="8959225188897026149">"Поділити�?�? �?к фотографією"</string>
     <string name="deleted" msgid="6795433049119073871">"Видалено"</string>
-    <string name="undo" msgid="2930873956446586313">"ВІДМІНИТИ"</string>
-    <string name="select_all" msgid="3403283025220282175">"Вибрати всі"</string>
-    <string name="deselect_all" msgid="5758897506061723684">"Відмінити всі"</string>
+    <string name="undo" msgid="2930873956446586313">"ВІДМІ�?ИТИ"</string>
+    <string name="select_all" msgid="3403283025220282175">"Вибрати в�?і"</string>
+    <string name="deselect_all" msgid="5758897506061723684">"Відмінити в�?і"</string>
     <string name="slideshow" msgid="4355906903247112975">"Слайд-шоу"</string>
     <string name="details" msgid="8415120088556445230">"Деталі"</string>
     <string name="details_title" msgid="2611396603977441273">"Елементи: %1$d з %2$d"</string>
@@ -86,84 +86,84 @@
     <string name="show_on_map" msgid="6157544221201750980">"Показ. на карті"</string>
     <string name="rotate_left" msgid="5888273317282539839">"Поверн. вліво"</string>
     <string name="rotate_right" msgid="6776325835923384839">"Поверн. вправо"</string>
-    <string name="no_such_item" msgid="5315144556325243400">"Не вдалося знайти елемент."</string>
+    <string name="no_such_item" msgid="5315144556325243400">"�?е вдало�?�? знайти елемент."</string>
     <string name="edit" msgid="1502273844748580847">"Редагувати"</string>
-    <string name="simple_edit" msgid="2792835918347498211">"Просте редагування"</string>
-    <string name="process_caching_requests" msgid="8722939570307386071">"Виконується обробка запитів кешування"</string>
-    <string name="caching_label" msgid="4521059045896269095">"Кешування..."</string>
+    <string name="simple_edit" msgid="2792835918347498211">"Про�?те редагуванн�?"</string>
+    <string name="process_caching_requests" msgid="8722939570307386071">"Виконуєть�?�? обробка запитів кешуванн�?"</string>
+    <string name="caching_label" msgid="4521059045896269095">"Кешуванн�?..."</string>
     <string name="crop_action" msgid="3427470284074377001">"Обрізати"</string>
     <string name="trim_action" msgid="703098114452883524">"Обрізати"</string>
     <string name="mute_action" msgid="5296241754753306251">"Вимкнути звук"</string>
-    <string name="set_as" msgid="3636764710790507868">"Устан. як"</string>
-    <string name="video_mute_err" msgid="6392457611270600908">"Неможливо вимкнути звук."</string>
-    <string name="video_err" msgid="7003051631792271009">"Неможливо відтворити відео."</string>
-    <string name="group_by_location" msgid="316641628989023253">"За місцезнаходженням"</string>
-    <string name="group_by_time" msgid="9046168567717963573">"За часом"</string>
+    <string name="set_as" msgid="3636764710790507868">"У�?тан. �?к"</string>
+    <string name="video_mute_err" msgid="6392457611270600908">"�?еможливо вимкнути звук."</string>
+    <string name="video_err" msgid="7003051631792271009">"�?еможливо відтворити відео."</string>
+    <string name="group_by_location" msgid="316641628989023253">"За мі�?цезнаходженн�?м"</string>
+    <string name="group_by_time" msgid="9046168567717963573">"За ча�?ом"</string>
     <string name="group_by_tags" msgid="3568731317210676160">"За тегами"</string>
-    <string name="group_by_faces" msgid="1566351636227274906">"За обличчями"</string>
+    <string name="group_by_faces" msgid="1566351636227274906">"За обличч�?ми"</string>
     <string name="group_by_album" msgid="1532818636053818958">"За альбомами"</string>
     <string name="group_by_size" msgid="153766174950394155">"За розміром"</string>
     <string name="untagged" msgid="7281481064509590402">"Без тегів"</string>
-    <string name="no_location" msgid="4043624857489331676">"Без місцезнаходження"</string>
-    <string name="no_connectivity" msgid="7164037617297293668">"Не вдалося визначити деякі місцезнаходження через проблеми з мережею."</string>
-    <string name="sync_album_error" msgid="1020688062900977530">"Не вдалося завантажити фото цього альбому. Повторіть спробу пізніше."</string>
-    <string name="show_images_only" msgid="7263218480867672653">"Лише зображення"</string>
+    <string name="no_location" msgid="4043624857489331676">"Без мі�?цезнаходженн�?"</string>
+    <string name="no_connectivity" msgid="7164037617297293668">"�?е вдало�?�? визначити де�?кі мі�?цезнаходженн�? через проблеми з мережею."</string>
+    <string name="sync_album_error" msgid="1020688062900977530">"�?е вдало�?�? завантажити фото цього альбому. Повторіть �?пробу пізніше."</string>
+    <string name="show_images_only" msgid="7263218480867672653">"Лише зображенн�?"</string>
     <string name="show_videos_only" msgid="3850394623678871697">"Лише відео"</string>
-    <string name="show_all" msgid="6963292714584735149">"Зображення й відео"</string>
-    <string name="appwidget_title" msgid="6410561146863700411">"Фотогалерея"</string>
+    <string name="show_all" msgid="6963292714584735149">"Зображенн�? й відео"</string>
+    <string name="appwidget_title" msgid="6410561146863700411">"Фотогалере�?"</string>
     <string name="appwidget_empty_text" msgid="1228925628357366957">"Фотографій немає."</string>
-    <string name="crop_saved" msgid="1595985909779105158">"Обрізане зображення збережено в папці <xliff:g id="FOLDER_NAME">%s</xliff:g>."</string>
-    <string name="no_albums_alert" msgid="4111744447491690896">"Немає доступних альбомів."</string>
-    <string name="empty_album" msgid="4542880442593595494">"Немає доступних зображень або відео."</string>
+    <string name="crop_saved" msgid="1595985909779105158">"Обрізане зображенн�? збережено в папці <xliff:g id="FOLDER_NAME">%s</xliff:g>."</string>
+    <string name="no_albums_alert" msgid="4111744447491690896">"�?емає до�?тупних альбомів."</string>
+    <string name="empty_album" msgid="4542880442593595494">"�?емає до�?тупних зображень або відео."</string>
     <string name="picasa_posts" msgid="1497721615718760613">"Публікації"</string>
-    <string name="make_available_offline" msgid="5157950985488297112">"Завантажити для доступу офлайн"</string>
+    <string name="make_available_offline" msgid="5157950985488297112">"Завантажити дл�? до�?тупу офлайн"</string>
     <string name="sync_picasa_albums" msgid="8522572542111169872">"Оновити"</string>
     <string name="done" msgid="217672440064436595">"Готово"</string>
     <string name="sequence_in_set" msgid="7235465319919457488">"%1$d з %2$d елем.:"</string>
-    <string name="title" msgid="7622928349908052569">"Назва"</string>
-    <string name="description" msgid="3016729318096557520">"Опис"</string>
-    <string name="time" msgid="1367953006052876956">"Час"</string>
-    <string name="location" msgid="3432705876921618314">"Місце"</string>
-    <string name="path" msgid="4725740395885105824">"Шлях"</string>
+    <string name="title" msgid="7622928349908052569">"�?азва"</string>
+    <string name="description" msgid="3016729318096557520">"Опи�?"</string>
+    <string name="time" msgid="1367953006052876956">"Ча�?"</string>
+    <string name="location" msgid="3432705876921618314">"Мі�?це"</string>
+    <string name="path" msgid="4725740395885105824">"Шл�?х"</string>
     <string name="width" msgid="9215847239714321097">"Ширина"</string>
-    <string name="height" msgid="3648885449443787772">"Висота"</string>
-    <string name="orientation" msgid="4958327983165245513">"Орієнтація"</string>
-    <string name="duration" msgid="8160058911218541616">"Тривалість"</string>
+    <string name="height" msgid="3648885449443787772">"Ви�?ота"</string>
+    <string name="orientation" msgid="4958327983165245513">"Орієнтаці�?"</string>
+    <string name="duration" msgid="8160058911218541616">"Тривалі�?ть"</string>
     <string name="mimetype" msgid="8024168704337990470">"Тип MIME"</string>
     <string name="file_size" msgid="8486169301588318915">"Розмір файлу"</string>
-    <string name="maker" msgid="7921835498034236197">"Автор"</string>
+    <string name="maker" msgid="7921835498034236197">"�?втор"</string>
     <string name="model" msgid="8240207064064337366">"Модель"</string>
     <string name="flash" msgid="2816779031261147723">"Flash"</string>
-    <string name="aperture" msgid="5920657630303915195">"Апертура"</string>
-    <string name="focal_length" msgid="1291383769749877010">"Фокусна відст."</string>
-    <string name="white_balance" msgid="1582509289994216078">"Баланс білого"</string>
-    <string name="exposure_time" msgid="3990163680281058826">"Час експозиції"</string>
+    <string name="aperture" msgid="5920657630303915195">"�?пертура"</string>
+    <string name="focal_length" msgid="1291383769749877010">"Фоку�?на від�?т."</string>
+    <string name="white_balance" msgid="1582509289994216078">"Балан�? білого"</string>
+    <string name="exposure_time" msgid="3990163680281058826">"Ча�? ек�?позиції"</string>
     <string name="iso" msgid="5028296664327335940">"ISO"</string>
     <string name="unit_mm" msgid="1125768433254329136">"мм"</string>
     <string name="manual" msgid="6608905477477607865">"Вручну"</string>
-    <string name="auto" msgid="4296941368722892821">"Автомат."</string>
-    <string name="flash_on" msgid="7891556231891837284">"Викор. спалах"</string>
-    <string name="flash_off" msgid="1445443413822680010">"Без спалаху"</string>
-    <string name="unknown" msgid="3506693015896912952">"Невідомо"</string>
+    <string name="auto" msgid="4296941368722892821">"�?втомат."</string>
+    <string name="flash_on" msgid="7891556231891837284">"Викор. �?палах"</string>
+    <string name="flash_off" msgid="1445443413822680010">"Без �?палаху"</string>
+    <string name="unknown" msgid="3506693015896912952">"�?евідомо"</string>
     <string name="ffx_original" msgid="372686331501281474">"Оригінал"</string>
     <string name="ffx_vintage" msgid="8348759951363844780">"Ретро"</string>
     <string name="ffx_instant" msgid="726968618715691987">"Миттєво"</string>
-    <string name="ffx_bleach" msgid="8946700451603478453">"Вибілення"</string>
-    <string name="ffx_blue_crush" msgid="6034283412305561226">"Синява"</string>
+    <string name="ffx_bleach" msgid="8946700451603478453">"Вибіленн�?"</string>
+    <string name="ffx_blue_crush" msgid="6034283412305561226">"Син�?ва"</string>
     <string name="ffx_bw_contrast" msgid="517988490066217206">"Чорно-біле"</string>
-    <string name="ffx_punch" msgid="1343475517872562639">"Стиснути"</string>
-    <string name="ffx_x_process" msgid="4779398678661811765">"X-процес"</string>
+    <string name="ffx_punch" msgid="1343475517872562639">"Сти�?нути"</string>
+    <string name="ffx_x_process" msgid="4779398678661811765">"X-проце�?"</string>
     <string name="ffx_washout" msgid="4594160692176642735">"Латте"</string>
-    <string name="ffx_washout_color" msgid="8034075742195795219">"Літографія"</string>
+    <string name="ffx_washout_color" msgid="8034075742195795219">"Літографі�?"</string>
   <plurals name="make_albums_available_offline">
-    <item quantity="one" msgid="2171596356101611086">"Надання доступу до альбому в режимі офлайн."</item>
-    <item quantity="other" msgid="4948604338155959389">"Надання доступу до альбомів у режимі офлайн."</item>
+    <item quantity="one" msgid="2171596356101611086">"�?аданн�? до�?тупу до альбому в режимі офлайн."</item>
+    <item quantity="other" msgid="4948604338155959389">"�?аданн�? до�?тупу до альбомів у режимі офлайн."</item>
   </plurals>
-    <string name="try_to_set_local_album_available_offline" msgid="2184754031896160755">"Цей елемент зберігається локально та доступний у режимі офлайн."</string>
-    <string name="set_label_all_albums" msgid="4581863582996336783">"Усі альбоми"</string>
+    <string name="try_to_set_local_album_available_offline" msgid="2184754031896160755">"Цей елемент зберігаєть�?�? локально та до�?тупний у режимі офлайн."</string>
+    <string name="set_label_all_albums" msgid="4581863582996336783">"У�?і альбоми"</string>
     <string name="set_label_local_albums" msgid="6698133661656266702">"Локальні альбоми"</string>
-    <string name="set_label_mtp_devices" msgid="1283513183744896368">"Пристрої MTP"</string>
-    <string name="set_label_picasa_albums" msgid="5356258354953935895">"Альбоми Picasa"</string>
+    <string name="set_label_mtp_devices" msgid="1283513183744896368">"При�?трої MTP"</string>
+    <string name="set_label_picasa_albums" msgid="5356258354953935895">"�?льбоми Picasa"</string>
     <string name="free_space_format" msgid="8766337315709161215">"Вільно <xliff:g id="BYTES">%s</xliff:g>"</string>
     <string name="size_below" msgid="2074956730721942260">"<xliff:g id="SIZE">%1$s</xliff:g> або менше"</string>
     <string name="size_above" msgid="5324398253474104087">"<xliff:g id="SIZE">%1$s</xliff:g> або більше"</string>
@@ -173,189 +173,189 @@
     <string name="import_fail" msgid="8497942380703298808">"Помилка імпорту"</string>
     <string name="camera_connected" msgid="916021826223448591">"Камеру підключено."</string>
     <string name="camera_disconnected" msgid="2100559901676329496">"Камеру відключено."</string>
-    <string name="click_import" msgid="6407959065464291972">"Торкніться тут, щоб імпортувати"</string>
+    <string name="click_import" msgid="6407959065464291972">"Торкніть�?�? тут, щоб імпортувати"</string>
     <string name="widget_type_album" msgid="6013045393140135468">"Вибрати альбом"</string>
-    <string name="widget_type_shuffle" msgid="8594622705019763768">"Перемішати всі зображення"</string>
-    <string name="widget_type_photo" msgid="6267065337367795355">"Вибрати зображення"</string>
-    <string name="widget_type" msgid="1364653978966343448">"Вибрати зображення"</string>
+    <string name="widget_type_shuffle" msgid="8594622705019763768">"Перемішати в�?і зображенн�?"</string>
+    <string name="widget_type_photo" msgid="6267065337367795355">"Вибрати зображенн�?"</string>
+    <string name="widget_type" msgid="1364653978966343448">"Вибрати зображенн�?"</string>
     <string name="slideshow_dream_name" msgid="6915963319933437083">"Слайд-шоу"</string>
-    <string name="albums" msgid="7320787705180057947">"Альбоми"</string>
-    <string name="times" msgid="2023033894889499219">"Час"</string>
-    <string name="locations" msgid="6649297994083130305">"Місцезнах."</string>
+    <string name="albums" msgid="7320787705180057947">"�?льбоми"</string>
+    <string name="times" msgid="2023033894889499219">"Ча�?"</string>
+    <string name="locations" msgid="6649297994083130305">"Мі�?цезнах."</string>
     <string name="people" msgid="4114003823747292747">"Люди"</string>
     <string name="tags" msgid="5539648765482935955">"Теги"</string>
     <string name="group_by" msgid="4308299657902209357">"Групувати за"</string>
-    <string name="settings" msgid="1534847740615665736">"Налаштування"</string>
-    <string name="add_account" msgid="4271217504968243974">"Додати обліковий запис"</string>
+    <string name="settings" msgid="1534847740615665736">"�?алаштуванн�?"</string>
+    <string name="add_account" msgid="4271217504968243974">"Додати обліковий запи�?"</string>
     <string name="folder_camera" msgid="4714658994809533480">"З камери"</string>
-    <string name="folder_download" msgid="7186215137642323932">"Звантаження"</string>
+    <string name="folder_download" msgid="7186215137642323932">"Звантаженн�?"</string>
     <string name="folder_edited_online_photos" msgid="6278215510236800181">"Фото, відредаговані онлайн"</string>
     <string name="folder_imported" msgid="2773581395524747099">"Імпортовані"</string>
     <string name="folder_screenshot" msgid="7200396565864213450">"Знімки екрана"</string>
     <string name="help" msgid="7368960711153618354">"Довідка"</string>
-    <string name="no_external_storage_title" msgid="2408933644249734569">"Немає пам’яті"</string>
-    <string name="no_external_storage" msgid="95726173164068417">"Доступної зовнішньої пам’яті немає"</string>
+    <string name="no_external_storage_title" msgid="2408933644249734569">"�?емає пам’�?ті"</string>
+    <string name="no_external_storage" msgid="95726173164068417">"До�?тупної зовнішньої пам’�?ті немає"</string>
     <string name="switch_photo_filmstrip" msgid="8227883354281661548">"Діафільм"</string>
-    <string name="switch_photo_grid" msgid="3681299459107925725">"Ескізи"</string>
-    <string name="switch_photo_fullscreen" msgid="8360489096099127071">"На весь екран"</string>
-    <string name="trimming" msgid="9122385768369143997">"Обрізання"</string>
-    <string name="muting" msgid="5094925919589915324">"Вимкнення звуку"</string>
+    <string name="switch_photo_grid" msgid="3681299459107925725">"Е�?кізи"</string>
+    <string name="switch_photo_fullscreen" msgid="8360489096099127071">"�?а ве�?ь екран"</string>
+    <string name="trimming" msgid="9122385768369143997">"Обрізанн�?"</string>
+    <string name="muting" msgid="5094925919589915324">"Вимкненн�? звуку"</string>
     <string name="please_wait" msgid="7296066089146487366">"Зачекайте"</string>
-    <string name="save_into" msgid="9155488424829609229">"Зберігання відео в альбом <xliff:g id="ALBUM_NAME">%1$s</xliff:g> …"</string>
-    <string name="trim_too_short" msgid="751593965620665326">"Неможливо обрізати: цільове відео закоротке"</string>
+    <string name="save_into" msgid="9155488424829609229">"Зберіганн�? відео в альбом <xliff:g id="ALBUM_NAME">%1$s</xliff:g> …"</string>
+    <string name="trim_too_short" msgid="751593965620665326">"�?еможливо обрізати: цільове відео закоротке"</string>
     <string name="pano_progress_text" msgid="1586851614586678464">"Обробка панорами"</string>
     <string name="save" msgid="613976532235060516">"Зберегти"</string>
-    <string name="ingest_scanning" msgid="1062957108473988971">"Сканування вмісту..."</string>
+    <string name="ingest_scanning" msgid="1062957108473988971">"Скануванн�? вмі�?ту..."</string>
   <plurals name="ingest_number_of_items_scanned">
-    <item quantity="zero" msgid="2623289390474007396">"Проскановано елементів: %1$d"</item>
-    <item quantity="one" msgid="4340019444460561648">"Проскановано елементів: %1$d"</item>
-    <item quantity="other" msgid="3138021473860555499">"Проскановано елементів: %1$d"</item>
+    <item quantity="zero" msgid="2623289390474007396">"Про�?кановано елементів: %1$d"</item>
+    <item quantity="one" msgid="4340019444460561648">"Про�?кановано елементів: %1$d"</item>
+    <item quantity="other" msgid="3138021473860555499">"Про�?кановано елементів: %1$d"</item>
   </plurals>
-    <string name="ingest_sorting" msgid="1028652103472581918">"Сортування..."</string>
-    <string name="ingest_scanning_done" msgid="8911916277034483430">"Сканування завершено"</string>
-    <string name="ingest_importing" msgid="7456633398378527611">"Імпортування..."</string>
-    <string name="ingest_empty_device" msgid="2010470482779872622">"Немає вмісту для імпортування на цей пристрій."</string>
-    <string name="ingest_no_device" msgid="3054128223131382122">"Немає жодного під’єднаного носія MTP"</string>
+    <string name="ingest_sorting" msgid="1028652103472581918">"Сортуванн�?..."</string>
+    <string name="ingest_scanning_done" msgid="8911916277034483430">"Скануванн�? завершено"</string>
+    <string name="ingest_importing" msgid="7456633398378527611">"Імпортуванн�?..."</string>
+    <string name="ingest_empty_device" msgid="2010470482779872622">"�?емає вмі�?ту дл�? імпортуванн�? на цей при�?трій."</string>
+    <string name="ingest_no_device" msgid="3054128223131382122">"�?емає жодного під’єднаного но�?і�? MTP"</string>
     <string name="camera_error_title" msgid="6484667504938477337">"Помилка камери"</string>
-    <string name="cannot_connect_camera" msgid="955440687597185163">"Неможливо підключитися до камери."</string>
+    <string name="cannot_connect_camera" msgid="955440687597185163">"�?еможливо підключити�?�? до камери."</string>
     <string name="camera_disabled" msgid="8923911090533439312">"Камеру вимкнено відповідно до правил безпеки."</string>
     <string name="camera_label" msgid="6346560772074764302">"Камера"</string>
     <string name="wait" msgid="8600187532323801552">"Зачекайте…"</string>
-    <string name="no_storage" product="nosdcard" msgid="7335975356349008814">"Підключіть носій USB перед тим, як користуватися камерою."</string>
-    <string name="no_storage" product="default" msgid="5137703033746873624">"Вставте карту SD перед тим, як користуватися камерою."</string>
-    <string name="preparing_sd" product="nosdcard" msgid="6104019983528341353">"Підготовка носія USB…"</string>
+
+    <string name="no_storage" product="default" msgid="5137703033746873624">"В�?тавте карту SD перед тим, �?к кори�?тувати�?�? камерою."</string>
+
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Підготовка карти SD…"</string>
-    <string name="access_sd_fail" product="nosdcard" msgid="8147993984037859354">"Не вдалося отримати доступ до носія USB."</string>
-    <string name="access_sd_fail" product="default" msgid="1584968646870054352">"Не вдалося отримати доступ до карти SD."</string>
-    <string name="review_cancel" msgid="8188009385853399254">"СКАСУВАТИ"</string>
+
+    <string name="access_sd_fail" product="default" msgid="1584968646870054352">"�?е вдало�?�? отримати до�?туп до карти SD."</string>
+    <string name="review_cancel" msgid="8188009385853399254">"СК�?СУВ�?ТИ"</string>
     <string name="review_ok" msgid="1156261588693116433">"ГОТОВО"</string>
-    <string name="time_lapse_title" msgid="4360632427760662691">"Запис уповільненої зйомки"</string>
+    <string name="time_lapse_title" msgid="4360632427760662691">"Запи�? уповільненої зйомки"</string>
     <string name="pref_camera_id_title" msgid="4040791582294635851">"Вибрати камеру"</string>
-    <string name="pref_camera_id_entry_back" msgid="5142699735103692485">"Задня камера"</string>
-    <string name="pref_camera_id_entry_front" msgid="5668958706828733669">"Передня камера"</string>
+    <string name="pref_camera_id_entry_back" msgid="5142699735103692485">"Задн�? камера"</string>
+    <string name="pref_camera_id_entry_front" msgid="5668958706828733669">"Передн�? камера"</string>
     <string name="pref_camera_recordlocation_title" msgid="371208839215448917">"Геотеги"</string>
-    <string name="pref_camera_location_label" msgid="2254270920298609161">"МІСЦЕЗНАХОДЖЕННЯ"</string>
+    <string name="pref_camera_location_label" msgid="2254270920298609161">"МІСЦЕЗ�?�?ХОДЖЕ�?�?Я"</string>
     <string name="pref_camera_timer_title" msgid="3105232208281893389">"Таймер зворотного відліку"</string>
   <plurals name="pref_camera_timer_entry">
-    <item quantity="one" msgid="1654523400981245448">"1 с"</item>
-    <item quantity="other" msgid="6455381617076792481">"%d с"</item>
+    <item quantity="one" msgid="1654523400981245448">"1 �?"</item>
+    <item quantity="other" msgid="6455381617076792481">"%d �?"</item>
   </plurals>
     <!-- no translation found for pref_camera_timer_sound_default (7066624532144402253) -->
     <skip />
-    <string name="pref_camera_timer_sound_title" msgid="2469008631966169105">"Сигнал під час відліку"</string>
+    <string name="pref_camera_timer_sound_title" msgid="2469008631966169105">"Сигнал під ча�? відліку"</string>
     <string name="setting_off" msgid="4480039384202951946">"Вимкнено"</string>
     <string name="setting_on" msgid="8602246224465348901">"Увімкнено"</string>
-    <string name="pref_video_quality_title" msgid="8245379279801096922">"Якість відео"</string>
-    <string name="pref_video_quality_entry_high" msgid="8664038216234805914">"Висока"</string>
-    <string name="pref_video_quality_entry_low" msgid="7258507152393173784">"Низька"</string>
+    <string name="pref_video_quality_title" msgid="8245379279801096922">"Які�?ть відео"</string>
+    <string name="pref_video_quality_entry_high" msgid="8664038216234805914">"Ви�?ока"</string>
+    <string name="pref_video_quality_entry_low" msgid="7258507152393173784">"�?изька"</string>
     <string name="pref_video_time_lapse_frame_interval_title" msgid="6245716906744079302">"Уповільнена зйомка"</string>
-    <string name="pref_camera_settings_category" msgid="2576236450859613120">"Налаштування камери"</string>
-    <string name="pref_camcorder_settings_category" msgid="460313486231965141">"Налашт-ня відеокамери"</string>
+    <string name="pref_camera_settings_category" msgid="2576236450859613120">"�?алаштуванн�? камери"</string>
+    <string name="pref_camcorder_settings_category" msgid="460313486231965141">"�?алашт-н�? відеокамери"</string>
     <string name="pref_camera_picturesize_title" msgid="4333724936665883006">"Розмір фото"</string>
-    <string name="pref_camera_picturesize_entry_13mp" msgid="675309554194481780">"13 Мпікс."</string>
-    <string name="pref_camera_picturesize_entry_8mp" msgid="259953780932849079">"8 мегапікселів"</string>
-    <string name="pref_camera_picturesize_entry_5mp" msgid="2882928212030661159">"5 Мпікс"</string>
-    <string name="pref_camera_picturesize_entry_4mp" msgid="933242108272469142">"4 Мпікс."</string>
-    <string name="pref_camera_picturesize_entry_3mp" msgid="741415860337400696">"3 Мпікс"</string>
-    <string name="pref_camera_picturesize_entry_2mp" msgid="1753709802245460393">"2 Мпікс"</string>
-    <string name="pref_camera_picturesize_entry_2mp_wide" msgid="5359490802026616612">"2 Мпікс. (16:9)"</string>
-    <string name="pref_camera_picturesize_entry_1_3mp" msgid="829109608140747258">"1,3 Mпікс"</string>
-    <string name="pref_camera_picturesize_entry_1mp" msgid="1669725616780375066">"1 Мпікс"</string>
+    <string name="pref_camera_picturesize_entry_13mp" msgid="675309554194481780">"13 Мпік�?."</string>
+    <string name="pref_camera_picturesize_entry_8mp" msgid="259953780932849079">"8 мегапік�?елів"</string>
+    <string name="pref_camera_picturesize_entry_5mp" msgid="2882928212030661159">"5 Мпік�?"</string>
+    <string name="pref_camera_picturesize_entry_4mp" msgid="933242108272469142">"4 Мпік�?."</string>
+    <string name="pref_camera_picturesize_entry_3mp" msgid="741415860337400696">"3 Мпік�?"</string>
+    <string name="pref_camera_picturesize_entry_2mp" msgid="1753709802245460393">"2 Мпік�?"</string>
+    <string name="pref_camera_picturesize_entry_2mp_wide" msgid="5359490802026616612">"2 Мпік�?. (16:9)"</string>
+    <string name="pref_camera_picturesize_entry_1_3mp" msgid="829109608140747258">"1,3 Mпік�?"</string>
+    <string name="pref_camera_picturesize_entry_1mp" msgid="1669725616780375066">"1 Мпік�?"</string>
     <string name="pref_camera_picturesize_entry_vga" msgid="806934254162981919">"VGA"</string>
     <string name="pref_camera_picturesize_entry_qvga" msgid="8576186463069770133">"QVGA"</string>
-    <string name="pref_camera_focusmode_title" msgid="2877248921829329127">"Режим фокусу"</string>
-    <string name="pref_camera_focusmode_entry_auto" msgid="7374820710300362457">"Автом."</string>
+    <string name="pref_camera_focusmode_title" msgid="2877248921829329127">"Режим фоку�?у"</string>
+    <string name="pref_camera_focusmode_entry_auto" msgid="7374820710300362457">"�?втом."</string>
     <string name="pref_camera_focusmode_entry_infinity" msgid="3413922419264967552">"Безкінечн."</string>
     <string name="pref_camera_focusmode_entry_macro" msgid="4424489110551866161">"Макро"</string>
-    <string name="pref_camera_focusmode_label_auto" msgid="8547956917516317183">"АВТО"</string>
-    <string name="pref_camera_focusmode_label_infinity" msgid="4272904160062531778">"БЕЗКІНЕЧНІСТЬ"</string>
-    <string name="pref_camera_focusmode_label_macro" msgid="8749317592620908054">"МАКРО"</string>
-    <string name="pref_camera_flashmode_title" msgid="2287362477238791017">"Режим спалаху"</string>
-    <string name="pref_camera_flashmode_label" msgid="7546741624882856171">"РЕЖИМ СПАЛАХУ"</string>
-    <string name="pref_camera_flashmode_entry_auto" msgid="7288383434237457709">"Автом."</string>
+    <string name="pref_camera_focusmode_label_auto" msgid="8547956917516317183">"�?ВТО"</string>
+    <string name="pref_camera_focusmode_label_infinity" msgid="4272904160062531778">"БЕЗКІ�?ЕЧ�?ІСТЬ"</string>
+    <string name="pref_camera_focusmode_label_macro" msgid="8749317592620908054">"М�?КРО"</string>
+    <string name="pref_camera_flashmode_title" msgid="2287362477238791017">"Режим �?палаху"</string>
+    <string name="pref_camera_flashmode_label" msgid="7546741624882856171">"РЕЖИМ СП�?Л�?ХУ"</string>
+    <string name="pref_camera_flashmode_entry_auto" msgid="7288383434237457709">"�?втом."</string>
     <string name="pref_camera_flashmode_entry_on" msgid="5330043918845197616">"Увімк."</string>
     <string name="pref_camera_flashmode_entry_off" msgid="867242186958805761">"Вимк."</string>
-    <string name="pref_camera_flashmode_label_auto" msgid="8854671890619026197">"АВТОМАТИЧНИЙ СПАЛАХ"</string>
-    <string name="pref_camera_flashmode_label_on" msgid="7347504762794840140">"СПАЛАХ УВІМК."</string>
-    <string name="pref_camera_flashmode_label_off" msgid="3541596735596053416">"СПАЛАХ ВИМК."</string>
-    <string name="pref_camera_whitebalance_title" msgid="677420930596673340">"Баланс білого"</string>
-    <string name="pref_camera_whitebalance_label" msgid="7467403405883190920">"БАЛАНС БІЛОГО"</string>
-    <string name="pref_camera_whitebalance_entry_auto" msgid="6580665476983469293">"Автом."</string>
+    <string name="pref_camera_flashmode_label_auto" msgid="8854671890619026197">"�?ВТОМ�?ТИЧ�?ИЙ СП�?Л�?Х"</string>
+    <string name="pref_camera_flashmode_label_on" msgid="7347504762794840140">"СП�?Л�?Х УВІМК."</string>
+    <string name="pref_camera_flashmode_label_off" msgid="3541596735596053416">"СП�?Л�?Х ВИМК."</string>
+    <string name="pref_camera_whitebalance_title" msgid="677420930596673340">"Балан�? білого"</string>
+    <string name="pref_camera_whitebalance_label" msgid="7467403405883190920">"Б�?Л�?�?С БІЛОГО"</string>
+    <string name="pref_camera_whitebalance_entry_auto" msgid="6580665476983469293">"�?втом."</string>
     <string name="pref_camera_whitebalance_entry_incandescent" msgid="8856667786449549938">"Лампа розжар."</string>
-    <string name="pref_camera_whitebalance_entry_daylight" msgid="2534757270149561027">"Сонячно"</string>
-    <string name="pref_camera_whitebalance_entry_fluorescent" msgid="2435332872847454032">"Флуоресцентний"</string>
+    <string name="pref_camera_whitebalance_entry_daylight" msgid="2534757270149561027">"Сон�?чно"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent" msgid="2435332872847454032">"Флуоре�?центний"</string>
     <string name="pref_camera_whitebalance_entry_cloudy" msgid="3531996716997959326">"Хмарно"</string>
-    <string name="pref_camera_whitebalance_label_auto" msgid="1479694362310491429">"АВТО"</string>
-    <string name="pref_camera_whitebalance_label_incandescent" msgid="7427628260209908900">"ЛАМПА РОЗЖАРЮВАННЯ"</string>
-    <string name="pref_camera_whitebalance_label_daylight" msgid="1859710806141461399">"СОНЯЧНО"</string>
-    <string name="pref_camera_whitebalance_label_fluorescent" msgid="5173251749161337707">"ЛАМПА ДЕННОГО СВІТЛА"</string>
-    <string name="pref_camera_whitebalance_label_cloudy" msgid="8230173517179285320">"ХМАРНО"</string>
+    <string name="pref_camera_whitebalance_label_auto" msgid="1479694362310491429">"�?ВТО"</string>
+    <string name="pref_camera_whitebalance_label_incandescent" msgid="7427628260209908900">"Л�?МП�? РОЗЖ�?РЮВ�?�?�?Я"</string>
+    <string name="pref_camera_whitebalance_label_daylight" msgid="1859710806141461399">"СО�?ЯЧ�?О"</string>
+    <string name="pref_camera_whitebalance_label_fluorescent" msgid="5173251749161337707">"Л�?МП�? ДЕ�?�?ОГО СВІТЛ�?"</string>
+    <string name="pref_camera_whitebalance_label_cloudy" msgid="8230173517179285320">"ХМ�?Р�?О"</string>
     <string name="pref_camera_scenemode_title" msgid="1420535844292504016">"Режим зйомки"</string>
-    <string name="pref_camera_scenemode_entry_auto" msgid="7113995286836658648">"Автом."</string>
+    <string name="pref_camera_scenemode_entry_auto" msgid="7113995286836658648">"�?втом."</string>
     <string name="pref_camera_scenemode_entry_hdr" msgid="2923388802899511784">"HDR"</string>
     <string name="pref_camera_scenemode_entry_action" msgid="616748587566110484">"Спорт"</string>
-    <string name="pref_camera_scenemode_entry_night" msgid="7606898503102476329">"Ніч"</string>
-    <string name="pref_camera_scenemode_entry_sunset" msgid="181661154611507212">"Захід сонця"</string>
+    <string name="pref_camera_scenemode_entry_night" msgid="7606898503102476329">"�?іч"</string>
+    <string name="pref_camera_scenemode_entry_sunset" msgid="181661154611507212">"Захід �?онц�?"</string>
     <string name="pref_camera_scenemode_entry_party" msgid="907053529286788253">"У приміщенні"</string>
-    <string name="pref_camera_scenemode_label_auto" msgid="4475096836397300237">"НЕМАЄ"</string>
+    <string name="pref_camera_scenemode_label_auto" msgid="4475096836397300237">"�?ЕМ�?Є"</string>
     <string name="pref_camera_scenemode_label_action" msgid="964748409622151496">"СПОРТ"</string>
-    <string name="pref_camera_scenemode_label_night" msgid="1269871886845854574">"НІЧ"</string>
-    <string name="pref_camera_scenemode_label_sunset" msgid="2802732082948866877">"ЗАХІД СОНЦЯ"</string>
-    <string name="pref_camera_scenemode_label_party" msgid="1409459091844374828">"ВЕЧІРКА"</string>
-    <string name="pref_camera_countdown_label" msgid="7592784692450586126">"ТАЙМЕР ЗВОРОТНОГО ВІДЛІКУ"</string>
-    <string name="pref_camera_countdown_label_off" msgid="4987856883590176585">"ТАЙМЕР ВИМКНЕНО"</string>
-    <string name="pref_camera_countdown_label_one" msgid="1101814103087928898">"1 СЕКУНДА"</string>
-    <string name="pref_camera_countdown_label_three" msgid="1047399297342955649">"3 СЕКУНДИ"</string>
-    <string name="pref_camera_countdown_label_ten" msgid="6274681535347260279">"10 СЕКУНД"</string>
-    <string name="pref_camera_countdown_label_fifteen" msgid="4544824246687597089">"15 СЕКУНД"</string>
-    <string name="not_selectable_in_scene_mode" msgid="2970291701448555126">"Неможливо вибрати в режимі зйомки."</string>
-    <string name="pref_exposure_title" msgid="1229093066434614811">"Експозиція"</string>
+    <string name="pref_camera_scenemode_label_night" msgid="1269871886845854574">"�?ІЧ"</string>
+    <string name="pref_camera_scenemode_label_sunset" msgid="2802732082948866877">"З�?ХІД СО�?ЦЯ"</string>
+    <string name="pref_camera_scenemode_label_party" msgid="1409459091844374828">"ВЕЧІРК�?"</string>
+    <string name="pref_camera_countdown_label" msgid="7592784692450586126">"Т�?ЙМЕР ЗВОРОТ�?ОГО ВІДЛІКУ"</string>
+    <string name="pref_camera_countdown_label_off" msgid="4987856883590176585">"Т�?ЙМЕР ВИМК�?Е�?О"</string>
+    <string name="pref_camera_countdown_label_one" msgid="1101814103087928898">"1 СЕКУ�?Д�?"</string>
+    <string name="pref_camera_countdown_label_three" msgid="1047399297342955649">"3 СЕКУ�?ДИ"</string>
+    <string name="pref_camera_countdown_label_ten" msgid="6274681535347260279">"10 СЕКУ�?Д"</string>
+    <string name="pref_camera_countdown_label_fifteen" msgid="4544824246687597089">"15 СЕКУ�?Д"</string>
+    <string name="not_selectable_in_scene_mode" msgid="2970291701448555126">"�?еможливо вибрати в режимі зйомки."</string>
+    <string name="pref_exposure_title" msgid="1229093066434614811">"Ек�?позиці�?"</string>
     <string name="pref_exposure_label" msgid="552624394642497940">"ЕКСПОЗИЦІЯ"</string>
     <!-- no translation found for pref_camera_hdr_default (1336869406134365882) -->
     <skip />
     <string name="pref_camera_hdr_label" msgid="7217211253357027510">"HDR"</string>
-    <string name="pref_camera_id_label_back" msgid="8745553500400332333">"КАМЕРА НА ПЕРЕДНІЙ ПАНЕЛІ"</string>
-    <string name="pref_camera_id_label_front" msgid="8699439330056996709">"КАМЕРА НА ЗАДНІЙ ПАНЕЛІ"</string>
+    <string name="pref_camera_id_label_back" msgid="8745553500400332333">"К�?МЕР�? �?�? ПЕРЕД�?ІЙ П�?�?ЕЛІ"</string>
+    <string name="pref_camera_id_label_front" msgid="8699439330056996709">"К�?МЕР�? �?�? З�?Д�?ІЙ П�?�?ЕЛІ"</string>
     <string name="dialog_ok" msgid="6263301364153382152">"ОК"</string>
-    <string name="spaceIsLow_content" product="nosdcard" msgid="4401325203349203177">"На носії USB недостатньо місця. Змініть налаштування якості чи видаліть зображення або інші файли."</string>
-    <string name="spaceIsLow_content" product="default" msgid="1732882643101247179">"На карті SD недостатньо місця. Змініть налаштування якості чи видаліть зображення або інші файли."</string>
-    <string name="video_reach_size_limit" msgid="6179877322015552390">"Досягн. макс. розмір."</string>
+
+    <string name="spaceIsLow_content" product="default" msgid="1732882643101247179">"�?а карті SD недо�?татньо мі�?ц�?. Змініть налаштуванн�? �?ко�?ті чи видаліть зображенн�? або інші файли."</string>
+    <string name="video_reach_size_limit" msgid="6179877322015552390">"До�?�?гн. мак�?. розмір."</string>
     <string name="pano_too_fast_prompt" msgid="2823839093291374709">"Зашвидко"</string>
     <string name="pano_dialog_prepare_preview" msgid="4788441554128083543">"Підготовка панорами"</string>
-    <string name="pano_dialog_panorama_failed" msgid="2155692796549642116">"Не вдалося зберегти панораму."</string>
+    <string name="pano_dialog_panorama_failed" msgid="2155692796549642116">"�?е вдало�?�? зберегти панораму."</string>
     <string name="pano_dialog_title" msgid="5755531234434437697">"Панорама"</string>
     <string name="pano_capture_indication" msgid="8248825828264374507">"Панорамна зйомка"</string>
-    <string name="pano_dialog_waiting_previous" msgid="7800325815031423516">"Очікування на попередню панораму"</string>
-    <string name="pano_review_saving_indication_str" msgid="2054886016665130188">"Збереження..."</string>
+    <string name="pano_dialog_waiting_previous" msgid="7800325815031423516">"Очікуванн�? на попередню панораму"</string>
+    <string name="pano_review_saving_indication_str" msgid="2054886016665130188">"Збереженн�?..."</string>
     <string name="pano_review_rendering" msgid="2887552964129301902">"Обробка панорами"</string>
-    <string name="tap_to_focus" msgid="8863427645591903760">"Торкніться, щоб фокусувати."</string>
+    <string name="tap_to_focus" msgid="8863427645591903760">"Торкніть�?�?, щоб фоку�?увати."</string>
     <string name="pref_video_effect_title" msgid="8243182968457289488">"Ефекти"</string>
-    <string name="effect_none" msgid="3601545724573307541">"Немає"</string>
-    <string name="effect_goofy_face_squeeze" msgid="1207235692524289171">"Стиснення"</string>
+    <string name="effect_none" msgid="3601545724573307541">"�?емає"</string>
+    <string name="effect_goofy_face_squeeze" msgid="1207235692524289171">"Сти�?ненн�?"</string>
     <string name="effect_goofy_face_big_eyes" msgid="3945182409691408412">"Великі очі"</string>
     <string name="effect_goofy_face_big_mouth" msgid="7528748779754643144">"Великий рот"</string>
     <string name="effect_goofy_face_small_mouth" msgid="3848209817806932565">"Маленький рот"</string>
-    <string name="effect_goofy_face_big_nose" msgid="5180533098740577137">"Великий ніс"</string>
+    <string name="effect_goofy_face_big_nose" msgid="5180533098740577137">"Великий ні�?"</string>
     <string name="effect_goofy_face_small_eyes" msgid="1070355596290331271">"Маленькі очі"</string>
-    <string name="effect_backdropper_space" msgid="7935661090723068402">"У космосі"</string>
-    <string name="effect_backdropper_sunset" msgid="45198943771777870">"Захід сонця"</string>
+    <string name="effect_backdropper_space" msgid="7935661090723068402">"У ко�?мо�?і"</string>
+    <string name="effect_backdropper_sunset" msgid="45198943771777870">"Захід �?онц�?"</string>
     <string name="effect_backdropper_gallery" msgid="959158844620991906">"Ваше відео"</string>
-    <string name="bg_replacement_message" msgid="9184270738916564608">"Покладіть свій пристрій.\nНа декілька секунд вийдіть із поля зору."</string>
-    <string name="video_snapshot_hint" msgid="18833576851372483">"Торкніться, щоб сфотографувати під час запису."</string>
-    <string name="video_recording_started" msgid="4132915454417193503">"Запис відео розпочався."</string>
-    <string name="video_recording_stopped" msgid="5086919511555808580">"Запис відео припинився."</string>
-    <string name="disable_video_snapshot_hint" msgid="4957723267826476079">"Функцію миттєвого знімка відео вимкнено, коли ввімк. спецефекти."</string>
-    <string name="clear_effects" msgid="5485339175014139481">"Очистити ефекти"</string>
-    <string name="effect_silly_faces" msgid="8107732405347155777">"КУМЕДНІ ОБЛИЧЧЯ"</string>
-    <string name="effect_background" msgid="6579360207378171022">"ФОН"</string>
+    <string name="bg_replacement_message" msgid="9184270738916564608">"Покладіть �?вій при�?трій.\n�?а декілька �?екунд вийдіть із пол�? зору."</string>
+    <string name="video_snapshot_hint" msgid="18833576851372483">"Торкніть�?�?, щоб �?фотографувати під ча�? запи�?у."</string>
+    <string name="video_recording_started" msgid="4132915454417193503">"Запи�? відео розпочав�?�?."</string>
+    <string name="video_recording_stopped" msgid="5086919511555808580">"Запи�? відео припинив�?�?."</string>
+    <string name="disable_video_snapshot_hint" msgid="4957723267826476079">"Функцію миттєвого знімка відео вимкнено, коли ввімк. �?пецефекти."</string>
+    <string name="clear_effects" msgid="5485339175014139481">"Очи�?тити ефекти"</string>
+    <string name="effect_silly_faces" msgid="8107732405347155777">"КУМЕД�?І ОБЛИЧЧЯ"</string>
+    <string name="effect_background" msgid="6579360207378171022">"ФО�?"</string>
     <string name="accessibility_shutter_button" msgid="2664037763232556307">"Кнопка \"Витримка\""</string>
     <string name="accessibility_menu_button" msgid="7140794046259897328">"Кнопка меню"</string>
-    <string name="accessibility_review_thumbnail" msgid="8961275263537513017">"Останні фото"</string>
+    <string name="accessibility_review_thumbnail" msgid="8961275263537513017">"О�?танні фото"</string>
     <string name="accessibility_camera_picker" msgid="8807945470215734566">"Перемикач між передньою та задньою камерами"</string>
     <string name="accessibility_mode_picker" msgid="3278002189966833100">"Перемикач фото, відео чи панорами"</string>
-    <string name="accessibility_second_level_indicators" msgid="3855951632917627620">"Інші елементи керування налаштуваннями"</string>
-    <string name="accessibility_back_to_first_level" msgid="5234411571109877131">"Закрити елементи керування налаштуваннями"</string>
-    <string name="accessibility_zoom_control" msgid="1339909363226825709">"Керувати масштабом"</string>
+    <string name="accessibility_second_level_indicators" msgid="3855951632917627620">"Інші елементи керуванн�? налаштуванн�?ми"</string>
+    <string name="accessibility_back_to_first_level" msgid="5234411571109877131">"Закрити елементи керуванн�? налаштуванн�?ми"</string>
+    <string name="accessibility_zoom_control" msgid="1339909363226825709">"Керувати ма�?штабом"</string>
     <string name="accessibility_decrement" msgid="1411194318538035666">"Зменшити %1$s"</string>
     <string name="accessibility_increment" msgid="8447850530444401135">"Збільшити %1$s"</string>
     <string name="accessibility_check_box" msgid="7317447218256584181">"Прапорець %1$s"</string>
@@ -363,30 +363,30 @@
     <string name="accessibility_switch_to_video" msgid="4991396355234561505">"Перейти в режим відео"</string>
     <string name="accessibility_switch_to_panorama" msgid="604756878371875836">"Перейти в режим панорами"</string>
     <string name="accessibility_switch_to_new_panorama" msgid="8116783308051524188">"Перейти в режим нової панорами"</string>
-    <string name="accessibility_switch_to_refocus" msgid="4539294619557299903">"Перейти в режим перефокусування"</string>
-    <string name="accessibility_review_cancel" msgid="9070531914908644686">"Cкасувати перегляд"</string>
-    <string name="accessibility_review_ok" msgid="7793302834271343168">"Виконати перегляд"</string>
-    <string name="accessibility_review_retake" msgid="659300290054705484">"Повторити в режимі перегляду"</string>
+    <string name="accessibility_switch_to_refocus" msgid="4539294619557299903">"Перейти в режим перефоку�?уванн�?"</string>
+    <string name="accessibility_review_cancel" msgid="9070531914908644686">"Cка�?увати перегл�?д"</string>
+    <string name="accessibility_review_ok" msgid="7793302834271343168">"Виконати перегл�?д"</string>
+    <string name="accessibility_review_retake" msgid="659300290054705484">"Повторити в режимі перегл�?ду"</string>
     <string name="accessibility_play_video" msgid="7596298365794810207">"Відтворити відео"</string>
     <string name="accessibility_pause_video" msgid="6526344477133046653">"Призупинити відео"</string>
     <string name="accessibility_reload_video" msgid="3250335917598607232">"Перезавантажити відео"</string>
-    <string name="accessibility_time_bar" msgid="1414029843602604531">"Панель часу відеопрогравача"</string>
-    <string name="capital_on" msgid="5491353494964003567">"УВІМКНЕНО"</string>
-    <string name="capital_off" msgid="7231052688467970897">"ВИМКНЕНО"</string>
+    <string name="accessibility_time_bar" msgid="1414029843602604531">"Панель ча�?у відеопрогравача"</string>
+    <string name="capital_on" msgid="5491353494964003567">"УВІМК�?Е�?О"</string>
+    <string name="capital_off" msgid="7231052688467970897">"ВИМК�?Е�?О"</string>
     <string name="pref_video_time_lapse_frame_interval_off" msgid="3490489191038309496">"Вимкнено"</string>
-    <string name="pref_video_time_lapse_frame_interval_500" msgid="2949719376111679816">"0,5 секунди"</string>
-    <string name="pref_video_time_lapse_frame_interval_1000" msgid="1672458758823855874">"1 секунда"</string>
-    <string name="pref_video_time_lapse_frame_interval_1500" msgid="3415071702490624802">"1,5 секунди"</string>
-    <string name="pref_video_time_lapse_frame_interval_2000" msgid="827813989647794389">"2 секунди"</string>
-    <string name="pref_video_time_lapse_frame_interval_2500" msgid="5750464143606788153">"2,5 секунди"</string>
-    <string name="pref_video_time_lapse_frame_interval_3000" msgid="2664846627499751396">"3 секунди"</string>
-    <string name="pref_video_time_lapse_frame_interval_4000" msgid="7303255804306382651">"4 секунди"</string>
-    <string name="pref_video_time_lapse_frame_interval_5000" msgid="6800566761690741841">"5 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_6000" msgid="8545447466540319539">"6 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_10000" msgid="3105568489694909852">"10 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_12000" msgid="6055574367392821047">"12 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_15000" msgid="2656164845371833761">"15 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_24000" msgid="2192628967233421512">"24 секунди"</string>
+    <string name="pref_video_time_lapse_frame_interval_500" msgid="2949719376111679816">"0,5 �?екунди"</string>
+    <string name="pref_video_time_lapse_frame_interval_1000" msgid="1672458758823855874">"1 �?екунда"</string>
+    <string name="pref_video_time_lapse_frame_interval_1500" msgid="3415071702490624802">"1,5 �?екунди"</string>
+    <string name="pref_video_time_lapse_frame_interval_2000" msgid="827813989647794389">"2 �?екунди"</string>
+    <string name="pref_video_time_lapse_frame_interval_2500" msgid="5750464143606788153">"2,5 �?екунди"</string>
+    <string name="pref_video_time_lapse_frame_interval_3000" msgid="2664846627499751396">"3 �?екунди"</string>
+    <string name="pref_video_time_lapse_frame_interval_4000" msgid="7303255804306382651">"4 �?екунди"</string>
+    <string name="pref_video_time_lapse_frame_interval_5000" msgid="6800566761690741841">"5 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_6000" msgid="8545447466540319539">"6 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_10000" msgid="3105568489694909852">"10 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_12000" msgid="6055574367392821047">"12 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_15000" msgid="2656164845371833761">"15 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_24000" msgid="2192628967233421512">"24 �?екунди"</string>
     <string name="pref_video_time_lapse_frame_interval_30000" msgid="5923393773260634461">"0,5 хвилини"</string>
     <string name="pref_video_time_lapse_frame_interval_60000" msgid="4678581247918524850">"1 хвилина"</string>
     <string name="pref_video_time_lapse_frame_interval_90000" msgid="1187029705069674152">"1,5 хвилини"</string>
@@ -413,25 +413,25 @@
     <string name="pref_video_time_lapse_frame_interval_43200000" msgid="285992046818504906">"12 годин"</string>
     <string name="pref_video_time_lapse_frame_interval_54000000" msgid="5740227373848829515">"15 годин"</string>
     <string name="pref_video_time_lapse_frame_interval_86400000" msgid="9040201678470052298">"24 години"</string>
-    <string name="time_lapse_seconds" msgid="2105521458391118041">"с."</string>
+    <string name="time_lapse_seconds" msgid="2105521458391118041">"�?."</string>
     <string name="time_lapse_minutes" msgid="7738520349259013762">"хв."</string>
     <string name="time_lapse_hours" msgid="1776453661704997476">"год."</string>
     <string name="time_lapse_interval_set" msgid="2486386210951700943">"Готово"</string>
-    <string name="set_time_interval" msgid="2970567717633813771">"Установити інтервал часу"</string>
-    <string name="set_time_interval_help" msgid="6665849510484821483">"Функцію уповільненої зйомки вимкнено. Щоб установити інтервал часу, увімкніть її."</string>
+    <string name="set_time_interval" msgid="2970567717633813771">"У�?тановити інтервал ча�?у"</string>
+    <string name="set_time_interval_help" msgid="6665849510484821483">"Функцію уповільненої зйомки вимкнено. Щоб у�?тановити інтервал ча�?у, увімкніть її."</string>
     <string name="set_timer_help" msgid="5007708849404589472">"Таймер зворотного відліку вимкнено. Увімкніть його, щоб розпочати відлік перед зйомкою."</string>
-    <string name="set_duration" msgid="5578035312407161304">"Установити тривалість у секундах"</string>
+    <string name="set_duration" msgid="5578035312407161304">"У�?тановити тривалі�?ть у �?екундах"</string>
     <string name="count_down_title_text" msgid="4976386810910453266">"Відлік перед зйомкою"</string>
-    <string name="remember_location_title" msgid="9060472929006917810">"Зберігати місця з фотографій?"</string>
-    <string name="remember_location_prompt" msgid="724592331305808098">"Додавайте до своїх фотографій і відео теги про місця, де їх було зроблено.\n\nІнші програми можуть отримувати доступ до цієї інформації, а також ваших збережених зображень."</string>
-    <string name="remember_location_no" msgid="7541394381714894896">"Ні, дякую"</string>
+    <string name="remember_location_title" msgid="9060472929006917810">"Зберігати мі�?ц�? з фотографій?"</string>
+    <string name="remember_location_prompt" msgid="724592331305808098">"Додавайте до �?воїх фотографій і відео теги про мі�?ц�?, де їх було зроблено.\n\nІнші програми можуть отримувати до�?туп до цієї інформації, а також ваших збережених зображень."</string>
+    <string name="remember_location_no" msgid="7541394381714894896">"�?і, д�?кую"</string>
     <string name="remember_location_yes" msgid="862884269285964180">"Так"</string>
     <string name="menu_camera" msgid="3476709832879398998">"Камера"</string>
     <string name="menu_search" msgid="7580008232297437190">"Пошук"</string>
     <string name="tab_photos" msgid="9110813680630313419">"Фотографії"</string>
-    <string name="tab_albums" msgid="8079449907770685691">"Альбоми"</string>
-    <string name="camera_menu_more_label" msgid="6868642182125198710">"ІНШІ ОПЦІЇ"</string>
-    <string name="camera_menu_settings_label" msgid="875454962069404723">"НАЛАШТУВАННЯ"</string>
+    <string name="tab_albums" msgid="8079449907770685691">"�?льбоми"</string>
+    <string name="camera_menu_more_label" msgid="6868642182125198710">"І�?ШІ ОПЦІЇ"</string>
+    <string name="camera_menu_settings_label" msgid="875454962069404723">"�?�?Л�?ШТУВ�?�?�?Я"</string>
   <plurals name="number_of_photos">
     <item quantity="one" msgid="6949174783125614798">"%1$d фото"</item>
     <item quantity="other" msgid="3813306834113858135">"%1$d фото"</item>

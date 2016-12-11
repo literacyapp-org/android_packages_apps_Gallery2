@@ -14,5 +14,8 @@ android:
     - android-23
     - extra-android-m2repository
 
+before_install:
+  - chmod +x gradlew
+
 #notifications:
 #  slack: literacyapp:HLjtHJdZ7DYJV2DlnDLrG6Gl

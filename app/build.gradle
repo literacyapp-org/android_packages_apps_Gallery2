@@ -1,11 +1,5 @@
 apply plugin: 'com.android.application'
 
-def ndkSuffix = ''
-if (org.apache.tools.ant.taskdefs.condition.Os.isFamily(org.apache.tools.ant.taskdefs.condition.Os.FAMILY_WINDOWS)) {
-    ndkSuffix = '.cmd'
-}
-def ndkBuild = "${android.ndkDirectory}/ndk-build$ndkSuffix"
-
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.3"
@@ -44,38 +38,32 @@ android {
             jniLibs.srcDirs = ['../libs']
         }
     }
-
-    task buildNative(type: Exec, description: 'Compile JNI source via NDK') {
-        commandLine "$ndkBuild",
-                '-C', file('../jni').absolutePath,
-                '-j', Runtime.runtime.availableProcessors(),
-                'all'
-        commandLine "$ndkBuild",
-                '-C', file('../jni_jpegstream').absolutePath,
-                '-j', Runtime.runtime.availableProcessors(),
-                'all'
-    }
-
-    task cleanNative(type: Exec, description: 'Clean JNI object files') {
-        commandLine "$ndkBuild",
-                '-C', file('../jni').absolutePath,
-                'clean'
-        commandLine "$ndkBuild",
-                '-C', file('../jni_jpegstream').absolutePath,
-                'clean'
-    }
-
-    clean.dependsOn 'cleanNative'
-
-    tasks.withType(JavaCompile) {
-        compileTask -> compileTask.dependsOn buildNative
-    }
 }
 
 dependencies {
+    provided fileTree(dir: 'system_libraries', include: ['*.jar'])
     compile 'com.android.support:support-v13:23.3.0'
-    compile group: 'com.adobe.xmp', name: 'xmpcore', version: '5.1.2'
-    compile group: 'com.googlecode.mp4parser', name: 'isoparser', version: '1.0-RC-15'
+    compile 'com.adobe.xmp:xmpcore:5.1.2'
+    compile 'com.googlecode.mp4parser:isoparser:1.0-RC-15'
+}
+
+task pushDownJdkDependency {
+    def imlFile = file("app.iml")
+    doLast {
+        try {
+            def parsedXml = (new XmlParser()).parse(imlFile)
+            def jdkNode = parsedXml.component[1].orderEntry.find { it.'@type' == 'jdk' }
+
+            parsedXml.component[1].remove(jdkNode)
+            new Node(parsedXml.component[1], 'orderEntry', ['type': 'jdk', 'jdkName': "Android API 23 Platform", 'jdkType': 'Android SDK'])
+            def writer = new StringWriter()
+            new XmlNodePrinter(new PrintWriter(writer)).print(parsedXml)
+            imlFile.text = writer.toString()
+
+        } catch (FileNotFoundException e) {
+            // iml not found
+        }
+    }
 }
 
 task fixAosp << {
@@ -85,4 +73,11 @@ task fixAosp << {
     delete '../res/drawable/filtershow_state_button_background'
 }
 
-preBuild.dependsOn fixAosp
+preBuild.dependsOn('fixAosp')
+preBuild.dependsOn('pushDownJdkDependency')
+
+gradle.projectsEvaluated {
+    tasks.withType(JavaCompile) {
+        options.compilerArgs.add('-Xbootclasspath/p:app/system_libraries/android.jar')
+    }
+}

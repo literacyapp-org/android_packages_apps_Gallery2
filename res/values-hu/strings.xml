@@ -60,7 +60,7 @@
     <string name="share_panorama" msgid="2569029972820978718">"Panorámakép megosztása"</string>
     <string name="share_as_photo" msgid="8959225188897026149">"Megosztás fényképként"</string>
     <string name="deleted" msgid="6795433049119073871">"Törölve"</string>
-    <string name="undo" msgid="2930873956446586313">"VISSZAVONÁS"</string>
+    <string name="undo" msgid="2930873956446586313">"VISSZAVON�?S"</string>
     <string name="select_all" msgid="3403283025220282175">"Az összes kijelölése"</string>
     <string name="deselect_all" msgid="5758897506061723684">"Az összes kijelölés törlése"</string>
     <string name="slideshow" msgid="4355906903247112975">"Diavetítés"</string>
@@ -221,11 +221,11 @@
     <string name="camera_disabled" msgid="8923911090533439312">"A biztonsági házirendek miatt a kamera le van tiltva."</string>
     <string name="camera_label" msgid="6346560772074764302">"Kamera"</string>
     <string name="wait" msgid="8600187532323801552">"Kérjük, várjon..."</string>
-    <string name="no_storage" product="nosdcard" msgid="7335975356349008814">"Kérjük, csatoljon egy USB-tárat a kamera használata előtt."</string>
+
     <string name="no_storage" product="default" msgid="5137703033746873624">"A kamera használatához helyezzen be egy SD-kártyát."</string>
-    <string name="preparing_sd" product="nosdcard" msgid="6104019983528341353">"Az USB-tár előkészítése..."</string>
+
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"SD-kártya előkészítése..."</string>
-    <string name="access_sd_fail" product="nosdcard" msgid="8147993984037859354">"Nem lehet hozzáférni az USB-háttértárhoz"</string>
+
     <string name="access_sd_fail" product="default" msgid="1584968646870054352">"Nem lehet hozzáférni az SD-kártyához"</string>
     <string name="review_cancel" msgid="8188009385853399254">"MÉGSE"</string>
     <string name="review_ok" msgid="1156261588693116433">"KÉSZ"</string>
@@ -286,10 +286,10 @@
     <string name="pref_camera_whitebalance_entry_fluorescent" msgid="2435332872847454032">"Fénycső"</string>
     <string name="pref_camera_whitebalance_entry_cloudy" msgid="3531996716997959326">"Felhős"</string>
     <string name="pref_camera_whitebalance_label_auto" msgid="1479694362310491429">"AUTOMATIKUS"</string>
-    <string name="pref_camera_whitebalance_label_incandescent" msgid="7427628260209908900">"IZZÓLÁMPA"</string>
+    <string name="pref_camera_whitebalance_label_incandescent" msgid="7427628260209908900">"IZZÓL�?MPA"</string>
     <string name="pref_camera_whitebalance_label_daylight" msgid="1859710806141461399">"NAPPALI FÉNY"</string>
-    <string name="pref_camera_whitebalance_label_fluorescent" msgid="5173251749161337707">"FÉNYCSŐ"</string>
-    <string name="pref_camera_whitebalance_label_cloudy" msgid="8230173517179285320">"FELHŐS"</string>
+    <string name="pref_camera_whitebalance_label_fluorescent" msgid="5173251749161337707">"FÉNYCS�?"</string>
+    <string name="pref_camera_whitebalance_label_cloudy" msgid="8230173517179285320">"FELH�?S"</string>
     <string name="pref_camera_scenemode_title" msgid="1420535844292504016">"Kép jellege"</string>
     <string name="pref_camera_scenemode_entry_auto" msgid="7113995286836658648">"Automatikus"</string>
     <string name="pref_camera_scenemode_entry_hdr" msgid="2923388802899511784">"HDR"</string>
@@ -302,22 +302,22 @@
     <string name="pref_camera_scenemode_label_night" msgid="1269871886845854574">"ÉJSZAKA"</string>
     <string name="pref_camera_scenemode_label_sunset" msgid="2802732082948866877">"NAPNYUGTA"</string>
     <string name="pref_camera_scenemode_label_party" msgid="1409459091844374828">"BULI"</string>
-    <string name="pref_camera_countdown_label" msgid="7592784692450586126">"VISSZASZÁMLÁLÁS-IDŐZÍTŐ"</string>
-    <string name="pref_camera_countdown_label_off" msgid="4987856883590176585">"IDŐZÍTŐ KI"</string>
-    <string name="pref_camera_countdown_label_one" msgid="1101814103087928898">"1 MÁSODPERC"</string>
-    <string name="pref_camera_countdown_label_three" msgid="1047399297342955649">"3 MÁSODPERC"</string>
-    <string name="pref_camera_countdown_label_ten" msgid="6274681535347260279">"10 MÁSODPERC"</string>
-    <string name="pref_camera_countdown_label_fifteen" msgid="4544824246687597089">"15 MÁSODPERC"</string>
+    <string name="pref_camera_countdown_label" msgid="7592784692450586126">"VISSZASZ�?ML�?L�?S-ID�?Z�?T�?"</string>
+    <string name="pref_camera_countdown_label_off" msgid="4987856883590176585">"ID�?Z�?T�? KI"</string>
+    <string name="pref_camera_countdown_label_one" msgid="1101814103087928898">"1 M�?SODPERC"</string>
+    <string name="pref_camera_countdown_label_three" msgid="1047399297342955649">"3 M�?SODPERC"</string>
+    <string name="pref_camera_countdown_label_ten" msgid="6274681535347260279">"10 M�?SODPERC"</string>
+    <string name="pref_camera_countdown_label_fifteen" msgid="4544824246687597089">"15 M�?SODPERC"</string>
     <string name="not_selectable_in_scene_mode" msgid="2970291701448555126">"Nem választható ebben a módban."</string>
     <string name="pref_exposure_title" msgid="1229093066434614811">"Megvilágítás"</string>
-    <string name="pref_exposure_label" msgid="552624394642497940">"EXPONÁLÁS"</string>
+    <string name="pref_exposure_label" msgid="552624394642497940">"EXPON�?L�?S"</string>
     <!-- no translation found for pref_camera_hdr_default (1336869406134365882) -->
     <skip />
     <string name="pref_camera_hdr_label" msgid="7217211253357027510">"HDR"</string>
-    <string name="pref_camera_id_label_back" msgid="8745553500400332333">"ELÜLSŐ KAMERA"</string>
-    <string name="pref_camera_id_label_front" msgid="8699439330056996709">"HÁTSÓ KAMERA"</string>
+    <string name="pref_camera_id_label_back" msgid="8745553500400332333">"ELÜLS�? KAMERA"</string>
+    <string name="pref_camera_id_label_front" msgid="8699439330056996709">"H�?TSÓ KAMERA"</string>
     <string name="dialog_ok" msgid="6263301364153382152">"OK"</string>
-    <string name="spaceIsLow_content" product="nosdcard" msgid="4401325203349203177">"Az USB-táron kezd elfogyni a hely. Módosítsa a minőségi beállításokat, vagy töröljön néhány képet vagy egyéb fájlt."</string>
+
     <string name="spaceIsLow_content" product="default" msgid="1732882643101247179">"Az SD-kártyán kezd elfogyni a hely. Módosítsa a minőségi beállításokat, vagy töröljön néhány képet vagy egyéb fájlt."</string>
     <string name="video_reach_size_limit" msgid="6179877322015552390">"A videó elérte a méretkorlátot."</string>
     <string name="pano_too_fast_prompt" msgid="2823839093291374709">"Túl gyors"</string>
@@ -347,7 +347,7 @@
     <string name="disable_video_snapshot_hint" msgid="4957723267826476079">"A video-pillanatfelvétel letiltva speciális effektek esetén."</string>
     <string name="clear_effects" msgid="5485339175014139481">"Effektek törlése"</string>
     <string name="effect_silly_faces" msgid="8107732405347155777">"BOLONDOS ARCOK"</string>
-    <string name="effect_background" msgid="6579360207378171022">"HÁTTÉR"</string>
+    <string name="effect_background" msgid="6579360207378171022">"H�?TTÉR"</string>
     <string name="accessibility_shutter_button" msgid="2664037763232556307">"Exponáló gomb"</string>
     <string name="accessibility_menu_button" msgid="7140794046259897328">"Menü gomb"</string>
     <string name="accessibility_review_thumbnail" msgid="8961275263537513017">"Legutóbbi fotó"</string>
@@ -430,8 +430,8 @@
     <string name="menu_search" msgid="7580008232297437190">"Keresés"</string>
     <string name="tab_photos" msgid="9110813680630313419">"Fotók"</string>
     <string name="tab_albums" msgid="8079449907770685691">"Albumok"</string>
-    <string name="camera_menu_more_label" msgid="6868642182125198710">"TOVÁBBI LEHETŐSÉGEK"</string>
-    <string name="camera_menu_settings_label" msgid="875454962069404723">"BEÁLLÍTÁSOK"</string>
+    <string name="camera_menu_more_label" msgid="6868642182125198710">"TOV�?BBI LEHET�?SÉGEK"</string>
+    <string name="camera_menu_settings_label" msgid="875454962069404723">"BE�?LL�?T�?SOK"</string>
   <plurals name="number_of_photos">
     <item quantity="one" msgid="6949174783125614798">"%1$d fotó"</item>
     <item quantity="other" msgid="3813306834113858135">"%1$d fotó"</item>

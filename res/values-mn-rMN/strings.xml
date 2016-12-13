@@ -17,108 +17,108 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name" msgid="1928079047368929634">"Цомог"</string>
-    <string name="gadget_title" msgid="259405922673466798">"Зургийн фрэйм"</string>
+    <string name="gadget_title" msgid="259405922673466798">"Зургийн фр�?йм"</string>
     <string name="details_ms" msgid="940634969189855292">"%1$02d:%2$02d"</string>
     <string name="details_hms" msgid="3215779248094151255">"%1$d:%2$02d:%3$02d"</string>
     <string name="movie_view_label" msgid="3526526872644898229">"Видео тоглуулагч"</string>
     <string name="loading_video" msgid="4013492720121891585">"Видеог ачааллаж байна…"</string>
     <string name="loading_image" msgid="1200894415793838191">"Зураг ачааллаж байна…"</string>
-    <string name="loading_account" msgid="928195413034552034">"Акаунтыг ачааллаж байна…"</string>
-    <string name="resume_playing_title" msgid="8996677350649355013">"Видеог үргэлжлүүлэх"</string>
-    <string name="resume_playing_message" msgid="5184414518126703481">"%s-с үргэлжлүүлэн тоглуулах уу ?"</string>
-    <string name="resume_playing_resume" msgid="3847915469173852416">"Үргэлжлүүлэн тоглуулах"</string>
-    <string name="loading" msgid="7038208555304563571">"Ачааллаж байна..."</string>
-    <string name="fail_to_load" msgid="8394392853646664505">"Ачааллах боломжгүй"</string>
+    <string name="loading_account" msgid="928195413034552034">"�?каунтыг ачааллаж байна…"</string>
+    <string name="resume_playing_title" msgid="8996677350649355013">"Видеог үрг�?лжлүүл�?х"</string>
+    <string name="resume_playing_message" msgid="5184414518126703481">"%s-�? үрг�?лжлүүл�?н тоглуулах уу ?"</string>
+    <string name="resume_playing_resume" msgid="3847915469173852416">"Үрг�?лжлүүл�?н тоглуулах"</string>
+    <string name="loading" msgid="7038208555304563571">"�?чааллаж байна..."</string>
+    <string name="fail_to_load" msgid="8394392853646664505">"�?чааллах боломжгүй"</string>
     <string name="fail_to_load_image" msgid="6155388718549782425">"Зураг ачааллах боломжгүй"</string>
     <string name="no_thumbnail" msgid="284723185546429750">"Товчлол зураггүй"</string>
-    <string name="resume_playing_restart" msgid="5471008499835769292">"Эхлүүлэх"</string>
+    <string name="resume_playing_restart" msgid="5471008499835769292">"Эхлүүл�?х"</string>
     <string name="crop_save_text" msgid="152200178986698300">"Тийм"</string>
     <string name="ok" msgid="5296833083983263293">"Тийм"</string>
-    <string name="multiface_crop_help" msgid="2554690102655855657">"Эхлэх бол нүүрэнд хүрнэ үү."</string>
+    <string name="multiface_crop_help" msgid="2554690102655855657">"Эхл�?х бол нүүр�?нд хүрн�? үү."</string>
     <string name="saving_image" msgid="7270334453636349407">"Зураг хадгалж байна…"</string>
     <string name="filtershow_saving_image" msgid="6659463980581993016">"Зургийг <xliff:g id="ALBUM_NAME">%1$s</xliff:g>-д хадгалж байна …"</string>
-    <string name="save_error" msgid="6857408774183654970">"Тайрагдсан зургийг хадгалж чадсангүй."</string>
+    <string name="save_error" msgid="6857408774183654970">"Тайрагд�?ан зургийг хадгалж чад�?ангүй."</string>
     <string name="crop_label" msgid="521114301871349328">"Зураг тайрах"</string>
     <string name="trim_label" msgid="274203231381209979">"Видео тайрах"</string>
-    <string name="select_image" msgid="7841406150484742140">"Зураг сонгох"</string>
-    <string name="select_video" msgid="4859510992798615076">"Видео сонгоно уу"</string>
+    <string name="select_image" msgid="7841406150484742140">"Зураг �?онгох"</string>
+    <string name="select_video" msgid="4859510992798615076">"Видео �?онгоно уу"</string>
     <string name="select_item" msgid="2816923896202086390">"Сонгоно уу"</string>
-    <string name="select_album" msgid="1557063764849434077">"Альбом сонгох"</string>
-    <string name="select_group" msgid="6744208543323307114">"Грүп сонгох"</string>
+    <string name="select_album" msgid="1557063764849434077">"�?льбом �?онгох"</string>
+    <string name="select_group" msgid="6744208543323307114">"Грүп �?онгох"</string>
     <string name="set_image" msgid="2331476809308010401">"Зургийг тохируулах"</string>
     <string name="set_wallpaper" msgid="8491121226190175017">"Ханын зураг болгох"</string>
     <string name="wallpaper" msgid="140165383777262070">"Ханын зургийг тохируулж байна…"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Ханын зураг"</string>
-    <string name="delete" msgid="2839695998251824487">"Устгах"</string>
+    <string name="delete" msgid="2839695998251824487">"У�?тгах"</string>
   <plurals name="delete_selection">
-    <item quantity="one" msgid="6453379735401083732">"Сонгогдсоныг устгах уу?"</item>
-    <item quantity="other" msgid="5874316486520635333">"Сонгогдсоныг устгах уу?"</item>
+    <item quantity="one" msgid="6453379735401083732">"Сонгогд�?оныг у�?тгах уу?"</item>
+    <item quantity="other" msgid="5874316486520635333">"Сонгогд�?оныг у�?тгах уу?"</item>
   </plurals>
     <string name="confirm" msgid="8646870096527848520">"Бататгах"</string>
     <string name="cancel" msgid="3637516880917356226">"Цуцлах"</string>
     <string name="share" msgid="3619042788254195341">"Хуваалцах"</string>
     <string name="share_panorama" msgid="2569029972820978718">"Панорама хуваалцах"</string>
     <string name="share_as_photo" msgid="8959225188897026149">"Зураг хуваалцах"</string>
-    <string name="deleted" msgid="6795433049119073871">"Устгасан"</string>
-    <string name="undo" msgid="2930873956446586313">"БУЦАХ"</string>
-    <string name="select_all" msgid="3403283025220282175">"Бүгдийг сонгох"</string>
-    <string name="deselect_all" msgid="5758897506061723684">"Бүгдийг сонгохгүй"</string>
+    <string name="deleted" msgid="6795433049119073871">"У�?тга�?ан"</string>
+    <string name="undo" msgid="2930873956446586313">"БУЦ�?Х"</string>
+    <string name="select_all" msgid="3403283025220282175">"Бүгдийг �?онгох"</string>
+    <string name="deselect_all" msgid="5758897506061723684">"Бүгдийг �?онгохгүй"</string>
     <string name="slideshow" msgid="4355906903247112975">"Слайд харуулах"</string>
-    <string name="details" msgid="8415120088556445230">"Дэлгэрэнгүй"</string>
-    <string name="details_title" msgid="2611396603977441273">"%2$d-с %1$d:"</string>
+    <string name="details" msgid="8415120088556445230">"Д�?лг�?р�?нгүй"</string>
+    <string name="details_title" msgid="2611396603977441273">"%2$d-�? %1$d:"</string>
     <string name="close" msgid="5585646033158453043">"Хаах"</string>
-    <string name="switch_to_camera" msgid="7280111806675169992">"Камерлуу солих"</string>
+    <string name="switch_to_camera" msgid="7280111806675169992">"Камерлуу �?олих"</string>
   <plurals name="number_of_items_selected">
-    <item quantity="zero" msgid="2142579311530586258">"%1$d сонгогдсон"</item>
-    <item quantity="one" msgid="2478365152745637768">"%1$d сонгогдсон"</item>
-    <item quantity="other" msgid="754722656147810487">"%1$d сонгогдсон"</item>
+    <item quantity="zero" msgid="2142579311530586258">"%1$d �?онгогд�?он"</item>
+    <item quantity="one" msgid="2478365152745637768">"%1$d �?онгогд�?он"</item>
+    <item quantity="other" msgid="754722656147810487">"%1$d �?онгогд�?он"</item>
   </plurals>
   <plurals name="number_of_albums_selected">
-    <item quantity="zero" msgid="749292746814788132">"%1$d сонгогдсон"</item>
-    <item quantity="one" msgid="6184377003099987825">"%1$d сонгогдсон"</item>
-    <item quantity="other" msgid="53105607141906130">"%1$d сонгогдсон"</item>
+    <item quantity="zero" msgid="749292746814788132">"%1$d �?онгогд�?он"</item>
+    <item quantity="one" msgid="6184377003099987825">"%1$d �?онгогд�?он"</item>
+    <item quantity="other" msgid="53105607141906130">"%1$d �?онгогд�?он"</item>
   </plurals>
   <plurals name="number_of_groups_selected">
-    <item quantity="zero" msgid="3466388370310869238">"%1$d сонгогдсон"</item>
-    <item quantity="one" msgid="5030162638216034260">"%1$d сонгогдсон"</item>
-    <item quantity="other" msgid="3512041363942842738">"%1$d сонгогдсон"</item>
+    <item quantity="zero" msgid="3466388370310869238">"%1$d �?онгогд�?он"</item>
+    <item quantity="one" msgid="5030162638216034260">"%1$d �?онгогд�?он"</item>
+    <item quantity="other" msgid="3512041363942842738">"%1$d �?онгогд�?он"</item>
   </plurals>
-    <string name="show_on_map" msgid="6157544221201750980">"Газрын зураг дээр харуулах"</string>
-    <string name="rotate_left" msgid="5888273317282539839">"Зүүн эргүүлэх"</string>
-    <string name="rotate_right" msgid="6776325835923384839">"Баруун эргүүлэх"</string>
-    <string name="no_such_item" msgid="5315144556325243400">"Олж чадсангүй."</string>
-    <string name="edit" msgid="1502273844748580847">"Засах"</string>
-    <string name="simple_edit" msgid="2792835918347498211">"Энгийн засвар"</string>
-    <string name="process_caching_requests" msgid="8722939570307386071">"Нөөцлөх хүсэлтийг гүйцэтгэж байна"</string>
+    <string name="show_on_map" msgid="6157544221201750980">"Газрын зураг д�?�?р харуулах"</string>
+    <string name="rotate_left" msgid="5888273317282539839">"Зүүн �?ргүүл�?х"</string>
+    <string name="rotate_right" msgid="6776325835923384839">"Баруун �?ргүүл�?х"</string>
+    <string name="no_such_item" msgid="5315144556325243400">"Олж чад�?ангүй."</string>
+    <string name="edit" msgid="1502273844748580847">"За�?ах"</string>
+    <string name="simple_edit" msgid="2792835918347498211">"Энгийн за�?вар"</string>
+    <string name="process_caching_requests" msgid="8722939570307386071">"�?өөцлөх хү�?�?лтийг гүйц�?тг�?ж байна"</string>
     <string name="caching_label" msgid="4521059045896269095">"Кеш хийж байна…"</string>
     <string name="crop_action" msgid="3427470284074377001">"Тайрах"</string>
     <string name="trim_action" msgid="703098114452883524">"Тайрах"</string>
     <string name="mute_action" msgid="5296241754753306251">"Дууг хаах"</string>
     <string name="set_as" msgid="3636764710790507868">"Тохируулах"</string>
-    <string name="video_mute_err" msgid="6392457611270600908">"Видеог дуугүй болгож чадсангүй."</string>
+    <string name="video_mute_err" msgid="6392457611270600908">"Видеог дуугүй болгож чад�?ангүй."</string>
     <string name="video_err" msgid="7003051631792271009">"Видео тоглуулах боломжгүй."</string>
     <string name="group_by_location" msgid="316641628989023253">"Байршлаар"</string>
     <string name="group_by_time" msgid="9046168567717963573">"Цагаар"</string>
     <string name="group_by_tags" msgid="3568731317210676160">"Шошгоор"</string>
-    <string name="group_by_faces" msgid="1566351636227274906">"Хүмүүсээр"</string>
-    <string name="group_by_album" msgid="1532818636053818958">"Альбомаар"</string>
-    <string name="group_by_size" msgid="153766174950394155">"Хэмжээгээр"</string>
+    <string name="group_by_faces" msgid="1566351636227274906">"Хүмүү�?�?�?р"</string>
+    <string name="group_by_album" msgid="1532818636053818958">"�?льбомаар"</string>
+    <string name="group_by_size" msgid="153766174950394155">"Х�?мж�?�?г�?�?р"</string>
     <string name="untagged" msgid="7281481064509590402">"Шошгогүй"</string>
     <string name="no_location" msgid="4043624857489331676">"Байршилгүй"</string>
-    <string name="no_connectivity" msgid="7164037617297293668">"Сүлжээний асуудлаас шалтгаалж зарим байршил танигдсангүй."</string>
-    <string name="sync_album_error" msgid="1020688062900977530">"Энэ альбомын зургуудыг татаж авч чадсангүй. Дараа дахин оролдоно уу."</string>
+    <string name="no_connectivity" msgid="7164037617297293668">"Сүлж�?�?ний а�?уудлаа�? шалтгаалж зарим байршил танигд�?ангүй."</string>
+    <string name="sync_album_error" msgid="1020688062900977530">"Эн�? альбомын зургуудыг татаж авч чад�?ангүй. Дараа дахин оролдоно уу."</string>
     <string name="show_images_only" msgid="7263218480867672653">"Зөвхөн зураг"</string>
     <string name="show_videos_only" msgid="3850394623678871697">"Зөвхөн видео"</string>
     <string name="show_all" msgid="6963292714584735149">"Зураг ба видео"</string>
     <string name="appwidget_title" msgid="6410561146863700411">"Зургийн Цомог"</string>
     <string name="appwidget_empty_text" msgid="1228925628357366957">"Зураггүй"</string>
-    <string name="crop_saved" msgid="1595985909779105158">"Тайрсан зураг <xliff:g id="FOLDER_NAME">%s</xliff:g>-д хадгалагдав."</string>
-    <string name="no_albums_alert" msgid="4111744447491690896">"Альбом байхгүй"</string>
+    <string name="crop_saved" msgid="1595985909779105158">"Тайр�?ан зураг <xliff:g id="FOLDER_NAME">%s</xliff:g>-д хадгалагдав."</string>
+    <string name="no_albums_alert" msgid="4111744447491690896">"�?льбом байхгүй"</string>
     <string name="empty_album" msgid="4542880442593595494">"Зураг/видео байхгүй"</string>
-    <string name="picasa_posts" msgid="1497721615718760613">"Бичээс"</string>
+    <string name="picasa_posts" msgid="1497721615718760613">"Бич�?�?�?"</string>
     <string name="make_available_offline" msgid="5157950985488297112">"Оффлайнд боломжтой болгох"</string>
     <string name="sync_picasa_albums" msgid="8522572542111169872">"Дахин ачааллах"</string>
-    <string name="done" msgid="217672440064436595">"Дуусгах"</string>
+    <string name="done" msgid="217672440064436595">"Дуу�?гах"</string>
     <string name="sequence_in_set" msgid="7235465319919457488">"нийт %2$d-н %1$d :"</string>
     <string name="title" msgid="7622928349908052569">"Гарчиг"</string>
     <string name="description" msgid="3016729318096557520">"Тайлбар"</string>
@@ -127,208 +127,208 @@
     <string name="path" msgid="4725740395885105824">"Зам"</string>
     <string name="width" msgid="9215847239714321097">"Өргөн"</string>
     <string name="height" msgid="3648885449443787772">"Өндөр"</string>
-    <string name="orientation" msgid="4958327983165245513">"Чиглэл"</string>
-    <string name="duration" msgid="8160058911218541616">"Үргэлжлэх хугацаа"</string>
+    <string name="orientation" msgid="4958327983165245513">"Чигл�?л"</string>
+    <string name="duration" msgid="8160058911218541616">"Үрг�?лжл�?х хугацаа"</string>
     <string name="mimetype" msgid="8024168704337990470">"MIME төрөл"</string>
-    <string name="file_size" msgid="8486169301588318915">"Файлын хэмжээ"</string>
+    <string name="file_size" msgid="8486169301588318915">"Файлын х�?мж�?�?"</string>
     <string name="maker" msgid="7921835498034236197">"Хийгч"</string>
     <string name="model" msgid="8240207064064337366">"Загвар"</string>
-    <string name="flash" msgid="2816779031261147723">"Гэрэл"</string>
-    <string name="aperture" msgid="5920657630303915195">"Нүх"</string>
-    <string name="focal_length" msgid="1291383769749877010">"Фокусын зай"</string>
-    <string name="white_balance" msgid="1582509289994216078">"Цагаан баланс"</string>
+    <string name="flash" msgid="2816779031261147723">"Г�?р�?л"</string>
+    <string name="aperture" msgid="5920657630303915195">"�?үх"</string>
+    <string name="focal_length" msgid="1291383769749877010">"Фоку�?ын зай"</string>
+    <string name="white_balance" msgid="1582509289994216078">"Цагаан балан�?"</string>
     <string name="exposure_time" msgid="3990163680281058826">"Гаргах цаг"</string>
     <string name="iso" msgid="5028296664327335940">"ISO"</string>
     <string name="unit_mm" msgid="1125768433254329136">"mm"</string>
     <string name="manual" msgid="6608905477477607865">"Гараар"</string>
-    <string name="auto" msgid="4296941368722892821">"Автомат"</string>
-    <string name="flash_on" msgid="7891556231891837284">"Гэрэл ассан"</string>
-    <string name="flash_off" msgid="1445443413822680010">"Гэрэлгүй"</string>
+    <string name="auto" msgid="4296941368722892821">"�?втомат"</string>
+    <string name="flash_on" msgid="7891556231891837284">"Г�?р�?л а�?�?ан"</string>
+    <string name="flash_off" msgid="1445443413822680010">"Г�?р�?лгүй"</string>
     <string name="unknown" msgid="3506693015896912952">"Тодорхойгүй"</string>
     <string name="ffx_original" msgid="372686331501281474">"Эх хувь"</string>
     <string name="ffx_vintage" msgid="8348759951363844780">"Хуучны"</string>
-    <string name="ffx_instant" msgid="726968618715691987">"Гэрэлтүүлэх"</string>
+    <string name="ffx_instant" msgid="726968618715691987">"Г�?р�?лтүүл�?х"</string>
     <string name="ffx_bleach" msgid="8946700451603478453">"Цайралт"</string>
-    <string name="ffx_blue_crush" msgid="6034283412305561226">"Цэнхэр"</string>
+    <string name="ffx_blue_crush" msgid="6034283412305561226">"Ц�?нх�?р"</string>
     <string name="ffx_bw_contrast" msgid="517988490066217206">"B/W"</string>
     <string name="ffx_punch" msgid="1343475517872562639">"Шаргал"</string>
-    <string name="ffx_x_process" msgid="4779398678661811765">"X процесс"</string>
+    <string name="ffx_x_process" msgid="4779398678661811765">"X проце�?�?"</string>
     <string name="ffx_washout" msgid="4594160692176642735">"Латте"</string>
     <string name="ffx_washout_color" msgid="8034075742195795219">"Өнгөгүй"</string>
   <plurals name="make_albums_available_offline">
-    <item quantity="one" msgid="2171596356101611086">"Альбомыг оффлайнаар ашигладаг болгож байна."</item>
-    <item quantity="other" msgid="4948604338155959389">"Альбомыг оффлайнаар харах боломжтой болгож байна."</item>
+    <item quantity="one" msgid="2171596356101611086">"�?льбомыг оффлайнаар ашигладаг болгож байна."</item>
+    <item quantity="other" msgid="4948604338155959389">"�?льбомыг оффлайнаар харах боломжтой болгож байна."</item>
   </plurals>
-    <string name="try_to_set_local_album_available_offline" msgid="2184754031896160755">"Локалд хадгалагдсан ба оффлайнаар харах боломжтой."</string>
+    <string name="try_to_set_local_album_available_offline" msgid="2184754031896160755">"Локалд хадгалагд�?ан ба оффлайнаар харах боломжтой."</string>
     <string name="set_label_all_albums" msgid="4581863582996336783">"Бүх альбом"</string>
     <string name="set_label_local_albums" msgid="6698133661656266702">"Локал альбом"</string>
     <string name="set_label_mtp_devices" msgid="1283513183744896368">"MTP төхөөрөмж"</string>
-    <string name="set_label_picasa_albums" msgid="5356258354953935895">"Пикаса альбом"</string>
-    <string name="free_space_format" msgid="8766337315709161215">"<xliff:g id="BYTES">%s</xliff:g> чөлөөтэй"</string>
-    <string name="size_below" msgid="2074956730721942260">"<xliff:g id="SIZE">%1$s</xliff:g>-с доош"</string>
-    <string name="size_above" msgid="5324398253474104087">"<xliff:g id="SIZE">%1$s</xliff:g> дээш"</string>
-    <string name="size_between" msgid="8779660840898917208">"<xliff:g id="MIN_SIZE">%1$s</xliff:g>-с <xliff:g id="MAX_SIZE">%2$s</xliff:g>"</string>
+    <string name="set_label_picasa_albums" msgid="5356258354953935895">"Пика�?а альбом"</string>
+    <string name="free_space_format" msgid="8766337315709161215">"<xliff:g id="BYTES">%s</xliff:g> чөлөөт�?й"</string>
+    <string name="size_below" msgid="2074956730721942260">"<xliff:g id="SIZE">%1$s</xliff:g>-�? доош"</string>
+    <string name="size_above" msgid="5324398253474104087">"<xliff:g id="SIZE">%1$s</xliff:g> д�?�?ш"</string>
+    <string name="size_between" msgid="8779660840898917208">"<xliff:g id="MIN_SIZE">%1$s</xliff:g>-�? <xliff:g id="MAX_SIZE">%2$s</xliff:g>"</string>
     <string name="Import" msgid="3985447518557474672">"Импортлох"</string>
-    <string name="import_complete" msgid="3875040287486199999">"Импорт дууслаа"</string>
+    <string name="import_complete" msgid="3875040287486199999">"Импорт дуу�?лаа"</string>
     <string name="import_fail" msgid="8497942380703298808">"Импорт амжилтгүй"</string>
     <string name="camera_connected" msgid="916021826223448591">"Камер холбоотой."</string>
     <string name="camera_disconnected" msgid="2100559901676329496">"Камер холбогдоогүй"</string>
-    <string name="click_import" msgid="6407959065464291972">"Импортлох бол энд хүрнэ үү"</string>
-    <string name="widget_type_album" msgid="6013045393140135468">"Альбом сонгох"</string>
+    <string name="click_import" msgid="6407959065464291972">"Импортлох бол �?нд хүрн�? үү"</string>
+    <string name="widget_type_album" msgid="6013045393140135468">"�?льбом �?онгох"</string>
     <string name="widget_type_shuffle" msgid="8594622705019763768">"Бүх зургийг холих"</string>
-    <string name="widget_type_photo" msgid="6267065337367795355">"Зураг сонгоно уу"</string>
-    <string name="widget_type" msgid="1364653978966343448">"Зураг сонгох"</string>
+    <string name="widget_type_photo" msgid="6267065337367795355">"Зураг �?онгоно уу"</string>
+    <string name="widget_type" msgid="1364653978966343448">"Зураг �?онгох"</string>
     <string name="slideshow_dream_name" msgid="6915963319933437083">"Слайд харуулах"</string>
-    <string name="albums" msgid="7320787705180057947">"Альбом"</string>
+    <string name="albums" msgid="7320787705180057947">"�?льбом"</string>
     <string name="times" msgid="2023033894889499219">"Давтамж"</string>
     <string name="locations" msgid="6649297994083130305">"Байршил"</string>
-    <string name="people" msgid="4114003823747292747">"Хүмүүс"</string>
+    <string name="people" msgid="4114003823747292747">"Хүмүү�?"</string>
     <string name="tags" msgid="5539648765482935955">"Шошго"</string>
-    <string name="group_by" msgid="4308299657902209357">"Груплэх"</string>
+    <string name="group_by" msgid="4308299657902209357">"Групл�?х"</string>
     <string name="settings" msgid="1534847740615665736">"Тохиргоо"</string>
-    <string name="add_account" msgid="4271217504968243974">"Акаунт нэмэх"</string>
+    <string name="add_account" msgid="4271217504968243974">"�?каунт н�?м�?х"</string>
     <string name="folder_camera" msgid="4714658994809533480">"Камер"</string>
     <string name="folder_download" msgid="7186215137642323932">"Татаж авах"</string>
-    <string name="folder_edited_online_photos" msgid="6278215510236800181">"Онлайн зассан зураг"</string>
-    <string name="folder_imported" msgid="2773581395524747099">"Импортолсон"</string>
-    <string name="folder_screenshot" msgid="7200396565864213450">"Агшин дэлгэц"</string>
-    <string name="help" msgid="7368960711153618354">"Тусламж"</string>
+    <string name="folder_edited_online_photos" msgid="6278215510236800181">"Онлайн за�?�?ан зураг"</string>
+    <string name="folder_imported" msgid="2773581395524747099">"Импортол�?он"</string>
+    <string name="folder_screenshot" msgid="7200396565864213450">"�?гшин д�?лг�?ц"</string>
+    <string name="help" msgid="7368960711153618354">"Ту�?ламж"</string>
     <string name="no_external_storage_title" msgid="2408933644249734569">"Сангүй"</string>
-    <string name="no_external_storage" msgid="95726173164068417">"Гадаад сан байхгүй"</string>
-    <string name="switch_photo_filmstrip" msgid="8227883354281661548">"Зургийн хальсаар харах"</string>
-    <string name="switch_photo_grid" msgid="3681299459107925725">"Хүснэгтээр харах"</string>
-    <string name="switch_photo_fullscreen" msgid="8360489096099127071">"Бүтэн дэлгэцээр үзэх"</string>
+    <string name="no_external_storage" msgid="95726173164068417">"Гадаад �?ан байхгүй"</string>
+    <string name="switch_photo_filmstrip" msgid="8227883354281661548">"Зургийн халь�?аар харах"</string>
+    <string name="switch_photo_grid" msgid="3681299459107925725">"Хү�?н�?гт�?�?р харах"</string>
+    <string name="switch_photo_fullscreen" msgid="8360489096099127071">"Бүт�?н д�?лг�?ц�?�?р үз�?х"</string>
     <string name="trimming" msgid="9122385768369143997">"Тайрч байна"</string>
     <string name="muting" msgid="5094925919589915324">"Дуугүй"</string>
-    <string name="please_wait" msgid="7296066089146487366">"Түр хүлээнэ үү ..."</string>
+    <string name="please_wait" msgid="7296066089146487366">"Түр хүл�?�?н�? үү ..."</string>
     <string name="save_into" msgid="9155488424829609229">"Видеог <xliff:g id="ALBUM_NAME">%1$s</xliff:g>-д хадгалж байна …"</string>
-    <string name="trim_too_short" msgid="751593965620665326">"Тайрах боломжгүй : Видео хэт богино байна"</string>
+    <string name="trim_too_short" msgid="751593965620665326">"Тайрах боломжгүй : Видео х�?т богино байна"</string>
     <string name="pano_progress_text" msgid="1586851614586678464">"Панорама зурж байна"</string>
     <string name="save" msgid="613976532235060516">"Хадгалах"</string>
-    <string name="ingest_scanning" msgid="1062957108473988971">"Контентыг скан хийж байна..."</string>
+    <string name="ingest_scanning" msgid="1062957108473988971">"Контентыг �?кан хийж байна..."</string>
   <plurals name="ingest_number_of_items_scanned">
-    <item quantity="zero" msgid="2623289390474007396">"%1$d скан хийгдэв"</item>
-    <item quantity="one" msgid="4340019444460561648">"%1$d скан хийгдэв"</item>
-    <item quantity="other" msgid="3138021473860555499">"%1$d файл скан хийгдсэн"</item>
+    <item quantity="zero" msgid="2623289390474007396">"%1$d �?кан хийгд�?в"</item>
+    <item quantity="one" msgid="4340019444460561648">"%1$d �?кан хийгд�?в"</item>
+    <item quantity="other" msgid="3138021473860555499">"%1$d файл �?кан хийгд�?�?н"</item>
   </plurals>
-    <string name="ingest_sorting" msgid="1028652103472581918">"Эрэмбэлж байна..."</string>
-    <string name="ingest_scanning_done" msgid="8911916277034483430">"Скан хийж дууслаа."</string>
+    <string name="ingest_sorting" msgid="1028652103472581918">"Эр�?мб�?лж байна..."</string>
+    <string name="ingest_scanning_done" msgid="8911916277034483430">"Скан хийж дуу�?лаа."</string>
     <string name="ingest_importing" msgid="7456633398378527611">"Импортлож байна..."</string>
-    <string name="ingest_empty_device" msgid="2010470482779872622">"Энэ төхөөрөмжрүү импортлох контент байхгүй байна."</string>
+    <string name="ingest_empty_device" msgid="2010470482779872622">"Эн�? төхөөрөмжрүү импортлох контент байхгүй байна."</string>
     <string name="ingest_no_device" msgid="3054128223131382122">"MTP төхөөрөмж холбогдоогүй байна"</string>
     <string name="camera_error_title" msgid="6484667504938477337">"Камерын алдаа"</string>
-    <string name="cannot_connect_camera" msgid="955440687597185163">"Камертай холбогдож чадсангүй."</string>
-    <string name="camera_disabled" msgid="8923911090533439312">"Аюулгүйн үүднээс камерыг идэвхгүй болгосон."</string>
+    <string name="cannot_connect_camera" msgid="955440687597185163">"Камертай холбогдож чад�?ангүй."</string>
+    <string name="camera_disabled" msgid="8923911090533439312">"�?юулгүйн үүдн�?�?�? камерыг ид�?вхгүй болго�?он."</string>
     <string name="camera_label" msgid="6346560772074764302">"Камер"</string>
-    <string name="wait" msgid="8600187532323801552">"Түр хүлээнэ үү ..."</string>
-    <string name="no_storage" product="nosdcard" msgid="7335975356349008814">"Камер ашиглахын өмнө USB сан залгана уу."</string>
-    <string name="no_storage" product="default" msgid="5137703033746873624">"Камер ашиглахын өмнө SD карт хийнэ үү."</string>
-    <string name="preparing_sd" product="nosdcard" msgid="6104019983528341353">"USB сан бэлдэж байна…"</string>
-    <string name="preparing_sd" product="default" msgid="2914969119574812666">"SD карт бэлдэж байна…"</string>
-    <string name="access_sd_fail" product="nosdcard" msgid="8147993984037859354">"USB санд хандаж чадсангүй."</string>
-    <string name="access_sd_fail" product="default" msgid="1584968646870054352">"SD картад хандаж чадсангүй."</string>
+    <string name="wait" msgid="8600187532323801552">"Түр хүл�?�?н�? үү ..."</string>
+
+    <string name="no_storage" product="default" msgid="5137703033746873624">"Камер ашиглахын өмнө SD карт хийн�? үү."</string>
+
+    <string name="preparing_sd" product="default" msgid="2914969119574812666">"SD карт б�?лд�?ж байна…"</string>
+
+    <string name="access_sd_fail" product="default" msgid="1584968646870054352">"SD картад хандаж чад�?ангүй."</string>
     <string name="review_cancel" msgid="8188009385853399254">"Цуцлах"</string>
-    <string name="review_ok" msgid="1156261588693116433">"Дуусгах"</string>
-    <string name="time_lapse_title" msgid="4360632427760662691">"Цагийн урсгал бичигдэж байна"</string>
-    <string name="pref_camera_id_title" msgid="4040791582294635851">"Камер сонгох"</string>
+    <string name="review_ok" msgid="1156261588693116433">"Дуу�?гах"</string>
+    <string name="time_lapse_title" msgid="4360632427760662691">"Цагийн ур�?гал бичигд�?ж байна"</string>
+    <string name="pref_camera_id_title" msgid="4040791582294635851">"Камер �?онгох"</string>
     <string name="pref_camera_id_entry_back" msgid="5142699735103692485">"Буцах"</string>
     <string name="pref_camera_id_entry_front" msgid="5668958706828733669">"Өмнөх"</string>
     <string name="pref_camera_recordlocation_title" msgid="371208839215448917">"Байршил хадгалах"</string>
-    <string name="pref_camera_location_label" msgid="2254270920298609161">"БАЙРШИЛ"</string>
+    <string name="pref_camera_location_label" msgid="2254270920298609161">"Б�?ЙРШИЛ"</string>
     <string name="pref_camera_timer_title" msgid="3105232208281893389">"Цаг тоологч"</string>
   <plurals name="pref_camera_timer_entry">
-    <item quantity="one" msgid="1654523400981245448">"1 секунд"</item>
-    <item quantity="other" msgid="6455381617076792481">"%d секунд"</item>
+    <item quantity="one" msgid="1654523400981245448">"1 �?екунд"</item>
+    <item quantity="other" msgid="6455381617076792481">"%d �?екунд"</item>
   </plurals>
     <!-- no translation found for pref_camera_timer_sound_default (7066624532144402253) -->
     <skip />
     <string name="pref_camera_timer_sound_title" msgid="2469008631966169105">"Цаг тоолж байхад дохио дуугарах"</string>
-    <string name="setting_off" msgid="4480039384202951946">"Идэвхгүй"</string>
-    <string name="setting_on" msgid="8602246224465348901">"Идэвхтэй"</string>
+    <string name="setting_off" msgid="4480039384202951946">"Ид�?вхгүй"</string>
+    <string name="setting_on" msgid="8602246224465348901">"Ид�?вхт�?й"</string>
     <string name="pref_video_quality_title" msgid="8245379279801096922">"Видео чанар"</string>
     <string name="pref_video_quality_entry_high" msgid="8664038216234805914">"Сайн"</string>
     <string name="pref_video_quality_entry_low" msgid="7258507152393173784">"Муу"</string>
-    <string name="pref_video_time_lapse_frame_interval_title" msgid="6245716906744079302">"Цагийн урсгал"</string>
+    <string name="pref_video_time_lapse_frame_interval_title" msgid="6245716906744079302">"Цагийн ур�?гал"</string>
     <string name="pref_camera_settings_category" msgid="2576236450859613120">"Камерын тохиргоо"</string>
     <string name="pref_camcorder_settings_category" msgid="460313486231965141">"Камерын тохиргоо"</string>
-    <string name="pref_camera_picturesize_title" msgid="4333724936665883006">"Зургийн хэмжээ"</string>
-    <string name="pref_camera_picturesize_entry_13mp" msgid="675309554194481780">"13M пиксел"</string>
-    <string name="pref_camera_picturesize_entry_8mp" msgid="259953780932849079">"8M пиксел"</string>
-    <string name="pref_camera_picturesize_entry_5mp" msgid="2882928212030661159">"5M пиксел"</string>
-    <string name="pref_camera_picturesize_entry_4mp" msgid="933242108272469142">"4M пиксел"</string>
-    <string name="pref_camera_picturesize_entry_3mp" msgid="741415860337400696">"3M пиксел"</string>
-    <string name="pref_camera_picturesize_entry_2mp" msgid="1753709802245460393">"2M пиксел"</string>
-    <string name="pref_camera_picturesize_entry_2mp_wide" msgid="5359490802026616612">"2M пиксел (16:9)"</string>
-    <string name="pref_camera_picturesize_entry_1_3mp" msgid="829109608140747258">"1.3M пиксел"</string>
-    <string name="pref_camera_picturesize_entry_1mp" msgid="1669725616780375066">"1M пиксел"</string>
+    <string name="pref_camera_picturesize_title" msgid="4333724936665883006">"Зургийн х�?мж�?�?"</string>
+    <string name="pref_camera_picturesize_entry_13mp" msgid="675309554194481780">"13M пик�?ел"</string>
+    <string name="pref_camera_picturesize_entry_8mp" msgid="259953780932849079">"8M пик�?ел"</string>
+    <string name="pref_camera_picturesize_entry_5mp" msgid="2882928212030661159">"5M пик�?ел"</string>
+    <string name="pref_camera_picturesize_entry_4mp" msgid="933242108272469142">"4M пик�?ел"</string>
+    <string name="pref_camera_picturesize_entry_3mp" msgid="741415860337400696">"3M пик�?ел"</string>
+    <string name="pref_camera_picturesize_entry_2mp" msgid="1753709802245460393">"2M пик�?ел"</string>
+    <string name="pref_camera_picturesize_entry_2mp_wide" msgid="5359490802026616612">"2M пик�?ел (16:9)"</string>
+    <string name="pref_camera_picturesize_entry_1_3mp" msgid="829109608140747258">"1.3M пик�?ел"</string>
+    <string name="pref_camera_picturesize_entry_1mp" msgid="1669725616780375066">"1M пик�?ел"</string>
     <string name="pref_camera_picturesize_entry_vga" msgid="806934254162981919">"VGA"</string>
     <string name="pref_camera_picturesize_entry_qvga" msgid="8576186463069770133">"QVGA"</string>
-    <string name="pref_camera_focusmode_title" msgid="2877248921829329127">"Фокус горим"</string>
-    <string name="pref_camera_focusmode_entry_auto" msgid="7374820710300362457">"Автомат"</string>
-    <string name="pref_camera_focusmode_entry_infinity" msgid="3413922419264967552">"Хязгааргүй"</string>
+    <string name="pref_camera_focusmode_title" msgid="2877248921829329127">"Фоку�? горим"</string>
+    <string name="pref_camera_focusmode_entry_auto" msgid="7374820710300362457">"�?втомат"</string>
+    <string name="pref_camera_focusmode_entry_infinity" msgid="3413922419264967552">"Х�?згааргүй"</string>
     <string name="pref_camera_focusmode_entry_macro" msgid="4424489110551866161">"Макро"</string>
-    <string name="pref_camera_focusmode_label_auto" msgid="8547956917516317183">"Автомат"</string>
-    <string name="pref_camera_focusmode_label_infinity" msgid="4272904160062531778">"ХЯЗГААРГҮЙ"</string>
-    <string name="pref_camera_focusmode_label_macro" msgid="8749317592620908054">"МАКРО"</string>
-    <string name="pref_camera_flashmode_title" msgid="2287362477238791017">"Гэрлийн горим"</string>
-    <string name="pref_camera_flashmode_label" msgid="7546741624882856171">"ГЭРЛИЙН ГОРИМ"</string>
-    <string name="pref_camera_flashmode_entry_auto" msgid="7288383434237457709">"Автомат"</string>
-    <string name="pref_camera_flashmode_entry_on" msgid="5330043918845197616">"Идэвхтэй"</string>
-    <string name="pref_camera_flashmode_entry_off" msgid="867242186958805761">"Идэвхгүй"</string>
-    <string name="pref_camera_flashmode_label_auto" msgid="8854671890619026197">"ГЭРЭЛ АВТОМАТ"</string>
+    <string name="pref_camera_focusmode_label_auto" msgid="8547956917516317183">"�?втомат"</string>
+    <string name="pref_camera_focusmode_label_infinity" msgid="4272904160062531778">"ХЯЗГ�?�?РГҮЙ"</string>
+    <string name="pref_camera_focusmode_label_macro" msgid="8749317592620908054">"М�?КРО"</string>
+    <string name="pref_camera_flashmode_title" msgid="2287362477238791017">"Г�?рлийн горим"</string>
+    <string name="pref_camera_flashmode_label" msgid="7546741624882856171">"ГЭРЛИЙ�? ГОРИМ"</string>
+    <string name="pref_camera_flashmode_entry_auto" msgid="7288383434237457709">"�?втомат"</string>
+    <string name="pref_camera_flashmode_entry_on" msgid="5330043918845197616">"Ид�?вхт�?й"</string>
+    <string name="pref_camera_flashmode_entry_off" msgid="867242186958805761">"Ид�?вхгүй"</string>
+    <string name="pref_camera_flashmode_label_auto" msgid="8854671890619026197">"ГЭРЭЛ �?ВТОМ�?Т"</string>
     <string name="pref_camera_flashmode_label_on" msgid="7347504762794840140">"ГЭРЭЛТЭЙ"</string>
     <string name="pref_camera_flashmode_label_off" msgid="3541596735596053416">"ГЭРЭЛ ИДЭВХГҮЙ"</string>
-    <string name="pref_camera_whitebalance_title" msgid="677420930596673340">"Цагаан баланс"</string>
-    <string name="pref_camera_whitebalance_label" msgid="7467403405883190920">"ЦАГААН БАЛАНС"</string>
-    <string name="pref_camera_whitebalance_entry_auto" msgid="6580665476983469293">"Автомат"</string>
-    <string name="pref_camera_whitebalance_entry_incandescent" msgid="8856667786449549938">"Гэрэлтэй"</string>
-    <string name="pref_camera_whitebalance_entry_daylight" msgid="2534757270149561027">"Нарны гэрэл"</string>
-    <string name="pref_camera_whitebalance_entry_fluorescent" msgid="2435332872847454032">"Өдрийн гэрэл"</string>
-    <string name="pref_camera_whitebalance_entry_cloudy" msgid="3531996716997959326">"Үүлэрхэг"</string>
-    <string name="pref_camera_whitebalance_label_auto" msgid="1479694362310491429">"Автомат"</string>
+    <string name="pref_camera_whitebalance_title" msgid="677420930596673340">"Цагаан балан�?"</string>
+    <string name="pref_camera_whitebalance_label" msgid="7467403405883190920">"Ц�?Г�?�?�? Б�?Л�?�?С"</string>
+    <string name="pref_camera_whitebalance_entry_auto" msgid="6580665476983469293">"�?втомат"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent" msgid="8856667786449549938">"Г�?р�?лт�?й"</string>
+    <string name="pref_camera_whitebalance_entry_daylight" msgid="2534757270149561027">"�?арны г�?р�?л"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent" msgid="2435332872847454032">"Өдрийн г�?р�?л"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy" msgid="3531996716997959326">"Үүл�?рх�?г"</string>
+    <string name="pref_camera_whitebalance_label_auto" msgid="1479694362310491429">"�?втомат"</string>
     <string name="pref_camera_whitebalance_label_incandescent" msgid="7427628260209908900">"ГЭРЭЛТЭЙ"</string>
-    <string name="pref_camera_whitebalance_label_daylight" msgid="1859710806141461399">"ӨДРИЙН ГЭРЭЛ"</string>
-    <string name="pref_camera_whitebalance_label_fluorescent" msgid="5173251749161337707">"ӨДРИЙНГЭРЭЛ"</string>
+    <string name="pref_camera_whitebalance_label_daylight" msgid="1859710806141461399">"ӨДРИЙ�? ГЭРЭЛ"</string>
+    <string name="pref_camera_whitebalance_label_fluorescent" msgid="5173251749161337707">"ӨДРИЙ�?ГЭРЭЛ"</string>
     <string name="pref_camera_whitebalance_label_cloudy" msgid="8230173517179285320">"ҮҮЛТЭЙ"</string>
-    <string name="pref_camera_scenemode_title" msgid="1420535844292504016">"Тохируулсан горим"</string>
-    <string name="pref_camera_scenemode_entry_auto" msgid="7113995286836658648">"Автомат"</string>
+    <string name="pref_camera_scenemode_title" msgid="1420535844292504016">"Тохируул�?ан горим"</string>
+    <string name="pref_camera_scenemode_entry_auto" msgid="7113995286836658648">"�?втомат"</string>
     <string name="pref_camera_scenemode_entry_hdr" msgid="2923388802899511784">"HDR"</string>
     <string name="pref_camera_scenemode_entry_action" msgid="616748587566110484">"Үйлдлүүд"</string>
     <string name="pref_camera_scenemode_entry_night" msgid="7606898503102476329">"Шөнө"</string>
-    <string name="pref_camera_scenemode_entry_sunset" msgid="181661154611507212">"Нар шингэх"</string>
-    <string name="pref_camera_scenemode_entry_party" msgid="907053529286788253">"Үдэшлэг"</string>
-    <string name="pref_camera_scenemode_label_auto" msgid="4475096836397300237">"ХООСОН"</string>
+    <string name="pref_camera_scenemode_entry_sunset" msgid="181661154611507212">"�?ар шинг�?х"</string>
+    <string name="pref_camera_scenemode_entry_party" msgid="907053529286788253">"Үд�?шл�?г"</string>
+    <string name="pref_camera_scenemode_label_auto" msgid="4475096836397300237">"ХООСО�?"</string>
     <string name="pref_camera_scenemode_label_action" msgid="964748409622151496">"ҮЙЛДЭЛ"</string>
-    <string name="pref_camera_scenemode_label_night" msgid="1269871886845854574">"ШӨНӨ"</string>
-    <string name="pref_camera_scenemode_label_sunset" msgid="2802732082948866877">"НАРШИНГЭХ"</string>
+    <string name="pref_camera_scenemode_label_night" msgid="1269871886845854574">"ШӨ�?Ө"</string>
+    <string name="pref_camera_scenemode_label_sunset" msgid="2802732082948866877">"�?�?РШИ�?ГЭХ"</string>
     <string name="pref_camera_scenemode_label_party" msgid="1409459091844374828">"ҮДЭШЛЭГ"</string>
-    <string name="pref_camera_countdown_label" msgid="7592784692450586126">"ЦАГ ТООЛОХ"</string>
-    <string name="pref_camera_countdown_label_off" msgid="4987856883590176585">"ЦАГ ТООЛОГЧ ИДЭВХГҮЙ"</string>
-    <string name="pref_camera_countdown_label_one" msgid="1101814103087928898">"1 СЕКУНД"</string>
-    <string name="pref_camera_countdown_label_three" msgid="1047399297342955649">"3 СЕКУНД"</string>
-    <string name="pref_camera_countdown_label_ten" msgid="6274681535347260279">"10 СЕКУНД"</string>
-    <string name="pref_camera_countdown_label_fifteen" msgid="4544824246687597089">"15 СЕКУНД"</string>
-    <string name="not_selectable_in_scene_mode" msgid="2970291701448555126">"Тохируулсан горимд сонгох боломжгүй"</string>
+    <string name="pref_camera_countdown_label" msgid="7592784692450586126">"Ц�?Г ТООЛОХ"</string>
+    <string name="pref_camera_countdown_label_off" msgid="4987856883590176585">"Ц�?Г ТООЛОГЧ ИДЭВХГҮЙ"</string>
+    <string name="pref_camera_countdown_label_one" msgid="1101814103087928898">"1 СЕКУ�?Д"</string>
+    <string name="pref_camera_countdown_label_three" msgid="1047399297342955649">"3 СЕКУ�?Д"</string>
+    <string name="pref_camera_countdown_label_ten" msgid="6274681535347260279">"10 СЕКУ�?Д"</string>
+    <string name="pref_camera_countdown_label_fifteen" msgid="4544824246687597089">"15 СЕКУ�?Д"</string>
+    <string name="not_selectable_in_scene_mode" msgid="2970291701448555126">"Тохируул�?ан горимд �?онгох боломжгүй"</string>
     <string name="pref_exposure_title" msgid="1229093066434614811">"Гаргах"</string>
-    <string name="pref_exposure_label" msgid="552624394642497940">"ГАРГАХ"</string>
+    <string name="pref_exposure_label" msgid="552624394642497940">"Г�?РГ�?Х"</string>
     <!-- no translation found for pref_camera_hdr_default (1336869406134365882) -->
     <skip />
     <string name="pref_camera_hdr_label" msgid="7217211253357027510">"HDR"</string>
-    <string name="pref_camera_id_label_back" msgid="8745553500400332333">"УРД КАМЕР"</string>
-    <string name="pref_camera_id_label_front" msgid="8699439330056996709">"АРЫН КАМЕР"</string>
+    <string name="pref_camera_id_label_back" msgid="8745553500400332333">"УРД К�?МЕР"</string>
+    <string name="pref_camera_id_label_front" msgid="8699439330056996709">"�?РЫ�? К�?МЕР"</string>
     <string name="dialog_ok" msgid="6263301364153382152">"Тийм"</string>
-    <string name="spaceIsLow_content" product="nosdcard" msgid="4401325203349203177">"Таны USB сан зайгүй болсон байна. Зарим зураг болон файлын чанарын тохиргоог өөрчлөх юмуу устгана уу."</string>
-    <string name="spaceIsLow_content" product="default" msgid="1732882643101247179">"Таны USB сан зайгүй болсон байна. Зарим зураг болон файлын чанарын тохиргоог өөрчлөх юмуу устгана уу."</string>
-    <string name="video_reach_size_limit" msgid="6179877322015552390">"Хэмжээний хязгаар хүрэв."</string>
-    <string name="pano_too_fast_prompt" msgid="2823839093291374709">"Хэт хурдан"</string>
-    <string name="pano_dialog_prepare_preview" msgid="4788441554128083543">"Панорама бэлдэж байна"</string>
-    <string name="pano_dialog_panorama_failed" msgid="2155692796549642116">"Панорама хадгалагдсангүй."</string>
+
+    <string name="spaceIsLow_content" product="default" msgid="1732882643101247179">"Таны USB �?ан зайгүй бол�?он байна. Зарим зураг болон файлын чанарын тохиргоог өөрчлөх юмуу у�?тгана уу."</string>
+    <string name="video_reach_size_limit" msgid="6179877322015552390">"Х�?мж�?�?ний х�?згаар хүр�?в."</string>
+    <string name="pano_too_fast_prompt" msgid="2823839093291374709">"Х�?т хурдан"</string>
+    <string name="pano_dialog_prepare_preview" msgid="4788441554128083543">"Панорама б�?лд�?ж байна"</string>
+    <string name="pano_dialog_panorama_failed" msgid="2155692796549642116">"Панорама хадгалагд�?ангүй."</string>
     <string name="pano_dialog_title" msgid="5755531234434437697">"Панорама"</string>
     <string name="pano_capture_indication" msgid="8248825828264374507">"Панорамаг авч байна"</string>
-    <string name="pano_dialog_waiting_previous" msgid="7800325815031423516">"Өмнөх панорамаг хүлээж байна"</string>
+    <string name="pano_dialog_waiting_previous" msgid="7800325815031423516">"Өмнөх панорамаг хүл�?�?ж байна"</string>
     <string name="pano_review_saving_indication_str" msgid="2054886016665130188">"Хадгалж байна..."</string>
     <string name="pano_review_rendering" msgid="2887552964129301902">"Панорамаг зурж байна"</string>
-    <string name="tap_to_focus" msgid="8863427645591903760">"Фокуслах бол хүрнэ үү."</string>
+    <string name="tap_to_focus" msgid="8863427645591903760">"Фоку�?лах бол хүрн�? үү."</string>
     <string name="pref_video_effect_title" msgid="8243182968457289488">"Эффект"</string>
     <string name="effect_none" msgid="3601545724573307541">"Байхгүй"</string>
     <string name="effect_goofy_face_squeeze" msgid="1207235692524289171">"Шахалт"</string>
@@ -338,55 +338,55 @@
     <string name="effect_goofy_face_big_nose" msgid="5180533098740577137">"Том хамар"</string>
     <string name="effect_goofy_face_small_eyes" msgid="1070355596290331271">"Жижиг нүд"</string>
     <string name="effect_backdropper_space" msgid="7935661090723068402">"Огторгуй"</string>
-    <string name="effect_backdropper_sunset" msgid="45198943771777870">"Нар шингэх"</string>
+    <string name="effect_backdropper_sunset" msgid="45198943771777870">"�?ар шинг�?х"</string>
     <string name="effect_backdropper_gallery" msgid="959158844620991906">"Таны видео"</string>
-    <string name="bg_replacement_message" msgid="9184270738916564608">"Төхөөрөмжийг доош харуулна\nТүр харахаас гарна уу"</string>
+    <string name="bg_replacement_message" msgid="9184270738916564608">"Төхөөрөмжийг доош харуулна\nТүр харахаа�? гарна уу"</string>
     <string name="video_snapshot_hint" msgid="18833576851372483">"Бичиж байх үед хүрч зураг авах боломжтой."</string>
-    <string name="video_recording_started" msgid="4132915454417193503">"Видео бичиж эхлэв."</string>
-    <string name="video_recording_stopped" msgid="5086919511555808580">"Видео бичих зогсов."</string>
-    <string name="disable_video_snapshot_hint" msgid="4957723267826476079">"Тусгай эффект хийгдсэн үед видео агшин зураг боломжгүй."</string>
+    <string name="video_recording_started" msgid="4132915454417193503">"Видео бичиж �?хл�?в."</string>
+    <string name="video_recording_stopped" msgid="5086919511555808580">"Видео бичих зог�?ов."</string>
+    <string name="disable_video_snapshot_hint" msgid="4957723267826476079">"Ту�?гай �?ффект хийгд�?�?н үед видео агшин зураг боломжгүй."</string>
     <string name="clear_effects" msgid="5485339175014139481">"Эффектийг арилгах"</string>
-    <string name="effect_silly_faces" msgid="8107732405347155777">"ИНЭЭДМИЙН ЦАРАЙ"</string>
-    <string name="effect_background" msgid="6579360207378171022">"АРЫН"</string>
+    <string name="effect_silly_faces" msgid="8107732405347155777">"И�?ЭЭДМИЙ�? Ц�?Р�?Й"</string>
+    <string name="effect_background" msgid="6579360207378171022">"�?РЫ�?"</string>
     <string name="accessibility_shutter_button" msgid="2664037763232556307">"Хаах товч"</string>
-    <string name="accessibility_menu_button" msgid="7140794046259897328">"Цэсний товч"</string>
-    <string name="accessibility_review_thumbnail" msgid="8961275263537513017">"Хамгийн сүүлийн зураг"</string>
-    <string name="accessibility_camera_picker" msgid="8807945470215734566">"Урд болон арын камер солих"</string>
-    <string name="accessibility_mode_picker" msgid="3278002189966833100">"Камер, видео болон панорама сонгогч"</string>
+    <string name="accessibility_menu_button" msgid="7140794046259897328">"Ц�?�?ний товч"</string>
+    <string name="accessibility_review_thumbnail" msgid="8961275263537513017">"Хамгийн �?үүлийн зураг"</string>
+    <string name="accessibility_camera_picker" msgid="8807945470215734566">"Урд болон арын камер �?олих"</string>
+    <string name="accessibility_mode_picker" msgid="3278002189966833100">"Камер, видео болон панорама �?онгогч"</string>
     <string name="accessibility_second_level_indicators" msgid="3855951632917627620">"Илүү олон тохиргооны контрол"</string>
     <string name="accessibility_back_to_first_level" msgid="5234411571109877131">"Тохиргооын контролыг хаах"</string>
-    <string name="accessibility_zoom_control" msgid="1339909363226825709">"Өсгөх контрол"</string>
-    <string name="accessibility_decrement" msgid="1411194318538035666">"Багасгах %1$s"</string>
-    <string name="accessibility_increment" msgid="8447850530444401135">"Өсгөх %1$s"</string>
-    <string name="accessibility_check_box" msgid="7317447218256584181">"%1$s сонгох нүд"</string>
-    <string name="accessibility_switch_to_camera" msgid="5951340774212969461">"Зурагруу солих"</string>
-    <string name="accessibility_switch_to_video" msgid="4991396355234561505">"Видеоруу солих"</string>
-    <string name="accessibility_switch_to_panorama" msgid="604756878371875836">"Панорамаруу солих"</string>
-    <string name="accessibility_switch_to_new_panorama" msgid="8116783308051524188">"Панорамаруу солих"</string>
-    <string name="accessibility_switch_to_refocus" msgid="4539294619557299903">"Дахин фокуслах руу сэлгэх"</string>
+    <string name="accessibility_zoom_control" msgid="1339909363226825709">"Ө�?гөх контрол"</string>
+    <string name="accessibility_decrement" msgid="1411194318538035666">"Бага�?гах %1$s"</string>
+    <string name="accessibility_increment" msgid="8447850530444401135">"Ө�?гөх %1$s"</string>
+    <string name="accessibility_check_box" msgid="7317447218256584181">"%1$s �?онгох нүд"</string>
+    <string name="accessibility_switch_to_camera" msgid="5951340774212969461">"Зурагруу �?олих"</string>
+    <string name="accessibility_switch_to_video" msgid="4991396355234561505">"Видеоруу �?олих"</string>
+    <string name="accessibility_switch_to_panorama" msgid="604756878371875836">"Панорамаруу �?олих"</string>
+    <string name="accessibility_switch_to_new_panorama" msgid="8116783308051524188">"Панорамаруу �?олих"</string>
+    <string name="accessibility_switch_to_refocus" msgid="4539294619557299903">"Дахин фоку�?лах руу �?�?лг�?х"</string>
     <string name="accessibility_review_cancel" msgid="9070531914908644686">"Цуцлах"</string>
     <string name="accessibility_review_ok" msgid="7793302834271343168">"Зураг авав"</string>
     <string name="accessibility_review_retake" msgid="659300290054705484">"Зураг авах"</string>
     <string name="accessibility_play_video" msgid="7596298365794810207">"Видео тоглуулах"</string>
-    <string name="accessibility_pause_video" msgid="6526344477133046653">"Видеог түр зогсоох"</string>
+    <string name="accessibility_pause_video" msgid="6526344477133046653">"Видеог түр зог�?оох"</string>
     <string name="accessibility_reload_video" msgid="3250335917598607232">"Видеог дахин ачааллах"</string>
     <string name="accessibility_time_bar" msgid="1414029843602604531">"Видео тоглуулагчийн цаг хавтан"</string>
-    <string name="capital_on" msgid="5491353494964003567">"Идэвхижсэн"</string>
-    <string name="capital_off" msgid="7231052688467970897">"Идэвхгүй"</string>
-    <string name="pref_video_time_lapse_frame_interval_off" msgid="3490489191038309496">"Зогсоох"</string>
-    <string name="pref_video_time_lapse_frame_interval_500" msgid="2949719376111679816">"0.5 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_1000" msgid="1672458758823855874">"1 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_1500" msgid="3415071702490624802">"1.5 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_2000" msgid="827813989647794389">"2 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_2500" msgid="5750464143606788153">"2.5 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_3000" msgid="2664846627499751396">"3 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_4000" msgid="7303255804306382651">"4 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_5000" msgid="6800566761690741841">"5 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_6000" msgid="8545447466540319539">"6 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_10000" msgid="3105568489694909852">"10 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_12000" msgid="6055574367392821047">"12 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_15000" msgid="2656164845371833761">"15 секунд"</string>
-    <string name="pref_video_time_lapse_frame_interval_24000" msgid="2192628967233421512">"24 секунд"</string>
+    <string name="capital_on" msgid="5491353494964003567">"Ид�?вхиж�?�?н"</string>
+    <string name="capital_off" msgid="7231052688467970897">"Ид�?вхгүй"</string>
+    <string name="pref_video_time_lapse_frame_interval_off" msgid="3490489191038309496">"Зог�?оох"</string>
+    <string name="pref_video_time_lapse_frame_interval_500" msgid="2949719376111679816">"0.5 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_1000" msgid="1672458758823855874">"1 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_1500" msgid="3415071702490624802">"1.5 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_2000" msgid="827813989647794389">"2 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_2500" msgid="5750464143606788153">"2.5 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_3000" msgid="2664846627499751396">"3 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_4000" msgid="7303255804306382651">"4 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_5000" msgid="6800566761690741841">"5 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_6000" msgid="8545447466540319539">"6 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_10000" msgid="3105568489694909852">"10 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_12000" msgid="6055574367392821047">"12 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_15000" msgid="2656164845371833761">"15 �?екунд"</string>
+    <string name="pref_video_time_lapse_frame_interval_24000" msgid="2192628967233421512">"24 �?екунд"</string>
     <string name="pref_video_time_lapse_frame_interval_30000" msgid="5923393773260634461">"0.5 минут"</string>
     <string name="pref_video_time_lapse_frame_interval_60000" msgid="4678581247918524850">"1 минут"</string>
     <string name="pref_video_time_lapse_frame_interval_90000" msgid="1187029705069674152">"1.5 минут"</string>
@@ -413,24 +413,24 @@
     <string name="pref_video_time_lapse_frame_interval_43200000" msgid="285992046818504906">"12 цаг"</string>
     <string name="pref_video_time_lapse_frame_interval_54000000" msgid="5740227373848829515">"15 цаг"</string>
     <string name="pref_video_time_lapse_frame_interval_86400000" msgid="9040201678470052298">"24 цаг"</string>
-    <string name="time_lapse_seconds" msgid="2105521458391118041">"секунд"</string>
+    <string name="time_lapse_seconds" msgid="2105521458391118041">"�?екунд"</string>
     <string name="time_lapse_minutes" msgid="7738520349259013762">"минут"</string>
     <string name="time_lapse_hours" msgid="1776453661704997476">"цаг"</string>
-    <string name="time_lapse_interval_set" msgid="2486386210951700943">"Дуусгах"</string>
+    <string name="time_lapse_interval_set" msgid="2486386210951700943">"Дуу�?гах"</string>
     <string name="set_time_interval" msgid="2970567717633813771">"Хугацааны интервал тохируулах"</string>
-    <string name="set_time_interval_help" msgid="6665849510484821483">"Цагын урсгал идэвхгүй. Цагийн интервалыг тохируулах бол идэвхтэй болгоно уу."</string>
-    <string name="set_timer_help" msgid="5007708849404589472">"Цаг тоологч идэвхгүй. Зураг авахын өмнө цаг тоологчийг идэвхтэй болгоно уу."</string>
-    <string name="set_duration" msgid="5578035312407161304">"Үргэлжлэх хугацааг секундээр тохируулах"</string>
+    <string name="set_time_interval_help" msgid="6665849510484821483">"Цагын ур�?гал ид�?вхгүй. Цагийн интервалыг тохируулах бол ид�?вхт�?й болгоно уу."</string>
+    <string name="set_timer_help" msgid="5007708849404589472">"Цаг тоологч ид�?вхгүй. Зураг авахын өмнө цаг тоологчийг ид�?вхт�?й болгоно уу."</string>
+    <string name="set_duration" msgid="5578035312407161304">"Үрг�?лжл�?х хугацааг �?екунд�?�?р тохируулах"</string>
     <string name="count_down_title_text" msgid="4976386810910453266">"Зураг авахаар цаг тоолж байна"</string>
-    <string name="remember_location_title" msgid="9060472929006917810">"Зургийн байршлыг санаж байна уу?"</string>
-    <string name="remember_location_prompt" msgid="724592331305808098">"Өөрийн зураг болон видеог авсан газрын байршлаар нь шошго өгнө үү.\n\nБусад апп-с энэ мэдээлэл болон хадгалагдсан зурагт хандах боломжтой."</string>
+    <string name="remember_location_title" msgid="9060472929006917810">"Зургийн байршлыг �?анаж байна уу?"</string>
+    <string name="remember_location_prompt" msgid="724592331305808098">"Өөрийн зураг болон видеог ав�?ан газрын байршлаар нь шошго өгнө үү.\n\nБу�?ад апп-�? �?н�? м�?д�?�?л�?л болон хадгалагд�?ан зурагт хандах боломжтой."</string>
     <string name="remember_location_no" msgid="7541394381714894896">"Үгүй"</string>
     <string name="remember_location_yes" msgid="862884269285964180">"Тийм"</string>
     <string name="menu_camera" msgid="3476709832879398998">"Камер"</string>
     <string name="menu_search" msgid="7580008232297437190">"Хайх"</string>
     <string name="tab_photos" msgid="9110813680630313419">"Зураг"</string>
-    <string name="tab_albums" msgid="8079449907770685691">"Альбом"</string>
-    <string name="camera_menu_more_label" msgid="6868642182125198710">"НЭМЭЛТ СОНГОЛТ"</string>
+    <string name="tab_albums" msgid="8079449907770685691">"�?льбом"</string>
+    <string name="camera_menu_more_label" msgid="6868642182125198710">"�?ЭМЭЛТ СО�?ГОЛТ"</string>
     <string name="camera_menu_settings_label" msgid="875454962069404723">"ТОХИРГОО"</string>
   <plurals name="number_of_photos">
     <item quantity="one" msgid="6949174783125614798">"%1$d зураг"</item>

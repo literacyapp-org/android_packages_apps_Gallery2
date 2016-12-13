@@ -21,356 +21,356 @@
     <string name="details_ms" msgid="940634969189855292">"%1$02d:%2$02d"</string>
     <string name="details_hms" msgid="3215779248094151255">"%1$d:%2$02d:%3$02d"</string>
     <string name="movie_view_label" msgid="3526526872644898229">"ເຄື່ອງຫຼິ້ນວິດີໂອ"</string>
-    <string name="loading_video" msgid="4013492720121891585">"ກໍາລັງໂຫລດວີດີໂອ..."</string>
-    <string name="loading_image" msgid="1200894415793838191">"ກໍາລັງໂຫລດຮູບພາບ..."</string>
-    <string name="loading_account" msgid="928195413034552034">"ກໍາລັງໂຫລດບັນຊີ..."</string>
-    <string name="resume_playing_title" msgid="8996677350649355013">"ສືບຕໍ່ວິດີໂອ"</string>
-    <string name="resume_playing_message" msgid="5184414518126703481">"ສືບຕໍ່ຫຼິ້ນຈາກ %s ?"</string>
-    <string name="resume_playing_resume" msgid="3847915469173852416">"ສືບຕໍ່ຫຼິ້ນວິດີໂອ"</string>
-    <string name="loading" msgid="7038208555304563571">"ກຳລັງໂຫລດ..."</string>
-    <string name="fail_to_load" msgid="8394392853646664505">"ບໍ່ສາມາດໂຫຼດໄດ້"</string>
-    <string name="fail_to_load_image" msgid="6155388718549782425">"ບໍ່ສາມາດໂຫຼດຮູບພາບດັ່ງກ່າວ"</string>
-    <string name="no_thumbnail" msgid="284723185546429750">"ບໍ່ມີຮູບນ້ອຍ"</string>
+    <string name="loading_video" msgid="4013492720121891585">"�?�?າລັງໂຫລດວີດີໂອ..."</string>
+    <string name="loading_image" msgid="1200894415793838191">"�?�?າລັງໂຫລດຮູບພາບ..."</string>
+    <string name="loading_account" msgid="928195413034552034">"�?�?າລັງໂຫລດບັນຊີ..."</string>
+    <string name="resume_playing_title" msgid="8996677350649355013">"ສືບຕ�?່ວິດີໂອ"</string>
+    <string name="resume_playing_message" msgid="5184414518126703481">"ສືບຕ�?່ຫຼິ້ນຈາ�? %s ?"</string>
+    <string name="resume_playing_resume" msgid="3847915469173852416">"ສືບຕ�?່ຫຼິ້ນວິດີໂອ"</string>
+    <string name="loading" msgid="7038208555304563571">"�?ຳລັງໂຫລດ..."</string>
+    <string name="fail_to_load" msgid="8394392853646664505">"ບ�?່ສາມາດໂຫຼດໄດ້"</string>
+    <string name="fail_to_load_image" msgid="6155388718549782425">"ບ�?່ສາມາດໂຫຼດຮູບພາບດັ່ງ�?່າວ"</string>
+    <string name="no_thumbnail" msgid="284723185546429750">"ບ�?່ມີຮູບນ້ອ�?"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"ເລີ່ມຕົ້ນໃຫມ່"</string>
-    <string name="crop_save_text" msgid="152200178986698300">"ຕົກລົງ"</string>
-    <string name="ok" msgid="5296833083983263293">"ຕົກລົງ"</string>
+    <string name="crop_save_text" msgid="152200178986698300">"ຕົ�?ລົງ"</string>
+    <string name="ok" msgid="5296833083983263293">"ຕົ�?ລົງ"</string>
     <string name="multiface_crop_help" msgid="2554690102655855657">"ສຳພັດໃສ່ໃບໜ້າເພື່ອເລີ່ມ."</string>
-    <string name="saving_image" msgid="7270334453636349407">"ກຳລັງບັນທຶກຮູບ..."</string>
-    <string name="filtershow_saving_image" msgid="6659463980581993016">"ກຳລັງບັກທຶກຮູບໃສ່ <xliff:g id="ALBUM_NAME">%1$s</xliff:g> ..."</string>
-    <string name="save_error" msgid="6857408774183654970">"ບໍ່ສາມາດບັນທຶກຮູບທີ່ຕັດໄດ້."</string>
+    <string name="saving_image" msgid="7270334453636349407">"�?ຳລັງບັນທຶ�?ຮູບ..."</string>
+    <string name="filtershow_saving_image" msgid="6659463980581993016">"�?ຳລັງບັ�?ທຶ�?ຮູບໃສ່ <xliff:g id="ALBUM_NAME">%1$s</xliff:g> ..."</string>
+    <string name="save_error" msgid="6857408774183654970">"ບ�?່ສາມາດບັນທຶ�?ຮູບທີ່ຕັດໄດ້."</string>
     <string name="crop_label" msgid="521114301871349328">"ຕັດຮູບ"</string>
     <string name="trim_label" msgid="274203231381209979">"ຕັດວິດີໂອ"</string>
-    <string name="select_image" msgid="7841406150484742140">"ເລືອກຮູບ"</string>
-    <string name="select_video" msgid="4859510992798615076">"ເລືອກວິດີໂອ"</string>
-    <string name="select_item" msgid="2816923896202086390">"ກະລຸນາເລືອກລາຍການ"</string>
-    <string name="select_album" msgid="1557063764849434077">"ເລືອກອະລະບ້ຳ"</string>
-    <string name="select_group" msgid="6744208543323307114">"ເລືອກກຸ່ມ"</string>
+    <string name="select_image" msgid="7841406150484742140">"ເລືອ�?ຮູບ"</string>
+    <string name="select_video" msgid="4859510992798615076">"ເລືອ�?ວິດີໂອ"</string>
+    <string name="select_item" msgid="2816923896202086390">"�?ະລຸນາເລືອ�?ລາ�?�?ານ"</string>
+    <string name="select_album" msgid="1557063764849434077">"ເລືອ�?ອະລະບ້ຳ"</string>
+    <string name="select_group" msgid="6744208543323307114">"ເລືອ�?�?ຸ່ມ"</string>
     <string name="set_image" msgid="2331476809308010401">"ຕັ້ງຮູບເປັນ"</string>
     <string name="set_wallpaper" msgid="8491121226190175017">"ຕັ້ງເປັນພາບພື້ນຫຼັງ"</string>
-    <string name="wallpaper" msgid="140165383777262070">"ກຳລັງຕັ້ງຮູບພື້ນຫຼັງ..."</string>
+    <string name="wallpaper" msgid="140165383777262070">"�?ຳລັງຕັ້ງຮູບພື້ນຫຼັງ..."</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"ຮູບພື້ນຫຼັງ"</string>
     <string name="delete" msgid="2839695998251824487">"ລຶບ"</string>
   <plurals name="delete_selection">
-    <item quantity="one" msgid="6453379735401083732">"ລຶບລາຍການທີ່ເລືອກ?"</item>
-    <item quantity="other" msgid="5874316486520635333">"ລຶບລາຍການທີ່ເລືອກບໍ່?"</item>
+    <item quantity="one" msgid="6453379735401083732">"ລຶບລາ�?�?ານທີ່ເລືອ�??"</item>
+    <item quantity="other" msgid="5874316486520635333">"ລຶບລາ�?�?ານທີ່ເລືອ�?ບ�?່?"</item>
   </plurals>
     <string name="confirm" msgid="8646870096527848520">"ຢືນຢັນ"</string>
-    <string name="cancel" msgid="3637516880917356226">"ຍົກເລີກ"</string>
-    <string name="share" msgid="3619042788254195341">"ແບ່ງປັນ"</string>
-    <string name="share_panorama" msgid="2569029972820978718">"ແບ່ງປັນພາໂນຣາມາ"</string>
-    <string name="share_as_photo" msgid="8959225188897026149">"ແບ່ງປັນເປັນຮູບ"</string>
-    <string name="deleted" msgid="6795433049119073871">"ລຶບແລ້ວ"</string>
-    <string name="undo" msgid="2930873956446586313">"ແກ້ໄຂຄືນ"</string>
-    <string name="select_all" msgid="3403283025220282175">"ເລືອກທັງໝົດ"</string>
-    <string name="deselect_all" msgid="5758897506061723684">"ຍົກເລີກການເລືອກທັງໝົດ"</string>
+    <string name="cancel" msgid="3637516880917356226">"�?ົ�?ເລີ�?"</string>
+    <string name="share" msgid="3619042788254195341">"�?ບ່ງປັນ"</string>
+    <string name="share_panorama" msgid="2569029972820978718">"�?ບ່ງປັນພາໂນຣາມາ"</string>
+    <string name="share_as_photo" msgid="8959225188897026149">"�?ບ່ງປັນເປັນຮູບ"</string>
+    <string name="deleted" msgid="6795433049119073871">"ລຶບ�?ລ້ວ"</string>
+    <string name="undo" msgid="2930873956446586313">"�?�?້ໄຂຄືນ"</string>
+    <string name="select_all" msgid="3403283025220282175">"ເລືອ�?ທັງ�?ົດ"</string>
+    <string name="deselect_all" msgid="5758897506061723684">"�?ົ�?ເລີ�?�?ານເລືອ�?ທັງ�?ົດ"</string>
     <string name="slideshow" msgid="4355906903247112975">"ສະໄລ້ໂຊ"</string>
-    <string name="details" msgid="8415120088556445230">"ລາຍລະອຽດ"</string>
-    <string name="details_title" msgid="2611396603977441273">"%1$d of %2$d ລາຍການ:"</string>
+    <string name="details" msgid="8415120088556445230">"ລາ�?ລະອຽດ"</string>
+    <string name="details_title" msgid="2611396603977441273">"%1$d of %2$d ລາ�?�?ານ:"</string>
     <string name="close" msgid="5585646033158453043">"ປິດ"</string>
-    <string name="switch_to_camera" msgid="7280111806675169992">"ປ່ຽນໄປຫາກ້ອງ"</string>
+    <string name="switch_to_camera" msgid="7280111806675169992">"ປ່ຽນໄປຫາ�?້ອງ"</string>
   <plurals name="number_of_items_selected">
-    <item quantity="zero" msgid="2142579311530586258">"%1$d ຖືກເລືອກແລ້ວ"</item>
-    <item quantity="one" msgid="2478365152745637768">"%1$d ຖືກເລືອກແລ້ວ"</item>
-    <item quantity="other" msgid="754722656147810487">"ເລືອກ %1$d ລາຍການແລ້ວ"</item>
+    <item quantity="zero" msgid="2142579311530586258">"%1$d ຖື�?ເລືອ�?�?ລ້ວ"</item>
+    <item quantity="one" msgid="2478365152745637768">"%1$d ຖື�?ເລືອ�?�?ລ້ວ"</item>
+    <item quantity="other" msgid="754722656147810487">"ເລືອ�? %1$d ລາ�?�?ານ�?ລ້ວ"</item>
   </plurals>
   <plurals name="number_of_albums_selected">
-    <item quantity="zero" msgid="749292746814788132">"ເລືອກ %1$d ອະລະບ້ຳແລ້ວ"</item>
-    <item quantity="one" msgid="6184377003099987825">"%1$d ຖືກເລືອກແລ້ວ"</item>
-    <item quantity="other" msgid="53105607141906130">"ເລືອກ %1$d ອະລະບ້ຳແລ້ວ"</item>
+    <item quantity="zero" msgid="749292746814788132">"ເລືອ�? %1$d ອະລະບ້ຳ�?ລ້ວ"</item>
+    <item quantity="one" msgid="6184377003099987825">"%1$d ຖື�?ເລືອ�?�?ລ້ວ"</item>
+    <item quantity="other" msgid="53105607141906130">"ເລືອ�? %1$d ອະລະບ້ຳ�?ລ້ວ"</item>
   </plurals>
   <plurals name="number_of_groups_selected">
-    <item quantity="zero" msgid="3466388370310869238">"%1$d ຖືກເລືອກແລ້ວ"</item>
-    <item quantity="one" msgid="5030162638216034260">"ເລືອກ %1$d ກຸ່ມແລ້ວ"</item>
-    <item quantity="other" msgid="3512041363942842738">"%1$d ຖືກເລືອກແລ້ວ"</item>
+    <item quantity="zero" msgid="3466388370310869238">"%1$d ຖື�?ເລືອ�?�?ລ້ວ"</item>
+    <item quantity="one" msgid="5030162638216034260">"ເລືອ�? %1$d �?ຸ່ມ�?ລ້ວ"</item>
+    <item quantity="other" msgid="3512041363942842738">"%1$d ຖື�?ເລືອ�?�?ລ້ວ"</item>
   </plurals>
-    <string name="show_on_map" msgid="6157544221201750980">"ສະແດງໃນແຜນທີ່"</string>
-    <string name="rotate_left" msgid="5888273317282539839">"ໝຸນຊ້າຍ"</string>
-    <string name="rotate_right" msgid="6776325835923384839">"ໝຸນຂວາ"</string>
-    <string name="no_such_item" msgid="5315144556325243400">"ບໍ່ສາມາດຊອກຫາລາຍການໄດ້."</string>
-    <string name="edit" msgid="1502273844748580847">"ແກ້ໄຂ"</string>
-    <string name="simple_edit" msgid="2792835918347498211">"ແກ້ໄຂແບບງ່າຍດາຍ"</string>
-    <string name="process_caching_requests" msgid="8722939570307386071">"ກຳລັງປະມວນຜົນຄຳຮ້ອງຂໍເກັບຂໍ້ມູນຊົ່ວຄາວ"</string>
-    <string name="caching_label" msgid="4521059045896269095">"ກຳລັງເກັບຄວາມຈຳຊົ່ວຄາວ..."</string>
+    <string name="show_on_map" msgid="6157544221201750980">"ສະ�?ດງໃນ�?ຜນທີ່"</string>
+    <string name="rotate_left" msgid="5888273317282539839">"�?ຸນຊ້າ�?"</string>
+    <string name="rotate_right" msgid="6776325835923384839">"�?ຸນຂວາ"</string>
+    <string name="no_such_item" msgid="5315144556325243400">"ບ�?່ສາມາດຊອ�?ຫາລາ�?�?ານໄດ້."</string>
+    <string name="edit" msgid="1502273844748580847">"�?�?້ໄຂ"</string>
+    <string name="simple_edit" msgid="2792835918347498211">"�?�?້ໄຂ�?ບບງ່າ�?ດາ�?"</string>
+    <string name="process_caching_requests" msgid="8722939570307386071">"�?ຳລັງປະມວນຜົນຄຳຮ້ອງຂ�?ເ�?ັບຂ�?້ມູນຊົ່ວຄາວ"</string>
+    <string name="caching_label" msgid="4521059045896269095">"�?ຳລັງເ�?ັບຄວາມຈຳຊົ່ວຄາວ..."</string>
     <string name="crop_action" msgid="3427470284074377001">"ຕັດ"</string>
     <string name="trim_action" msgid="703098114452883524">"ຕັດ"</string>
     <string name="mute_action" msgid="5296241754753306251">"ປີດສຽງ"</string>
     <string name="set_as" msgid="3636764710790507868">"ຕັ້ງເປັນ"</string>
-    <string name="video_mute_err" msgid="6392457611270600908">"ບໍ່ສາມາດປິດສຽງວິດີໂອ."</string>
-    <string name="video_err" msgid="7003051631792271009">"ບໍ່ສາມາດຫຼິ້ນວີດີໂອໄດ້."</string>
-    <string name="group_by_location" msgid="316641628989023253">"ໂດຍສະຖານທີ່"</string>
+    <string name="video_mute_err" msgid="6392457611270600908">"ບ�?່ສາມາດປິດສຽງວິດີໂອ."</string>
+    <string name="video_err" msgid="7003051631792271009">"ບ�?່ສາມາດຫຼິ້ນວີດີໂອໄດ້."</string>
+    <string name="group_by_location" msgid="316641628989023253">"ໂດ�?ສະຖານທີ່"</string>
     <string name="group_by_time" msgid="9046168567717963573">"ຕາມເວລາ"</string>
-    <string name="group_by_tags" msgid="3568731317210676160">"ຕາມແທັກ"</string>
+    <string name="group_by_tags" msgid="3568731317210676160">"ຕາມ�?ທັ�?"</string>
     <string name="group_by_faces" msgid="1566351636227274906">"ຕາມຄົນ"</string>
     <string name="group_by_album" msgid="1532818636053818958">"ຕາມອະລະ້ຳ"</string>
     <string name="group_by_size" msgid="153766174950394155">"ຕາມຂະໜາດ"</string>
-    <string name="untagged" msgid="7281481064509590402">"ບໍ່ມີແທັກ"</string>
-    <string name="no_location" msgid="4043624857489331676">"ບໍ່ມີສະຖານທີ່"</string>
-    <string name="no_connectivity" msgid="7164037617297293668">"ຕຳແໜ່ງບາງບ່ອນບໍ່ສາມາດລະບຸໄດ້ ເນື່ອງຈາກບັນຫາການເຊື່ອມຕໍ່ເຄືອຂ່າຍ."</string>
-    <string name="sync_album_error" msgid="1020688062900977530">"ບໍ່ສາມາດດາວໂຫລດຮູບຈາກອະລະບ້ຳນີ້ໄດ້. ລອງໃໝ່ໃນພາຍຫຼັງ."</string>
+    <string name="untagged" msgid="7281481064509590402">"ບ�?່ມີ�?ທັ�?"</string>
+    <string name="no_location" msgid="4043624857489331676">"ບ�?່ມີສະຖານທີ່"</string>
+    <string name="no_connectivity" msgid="7164037617297293668">"ຕຳ�?ໜ່ງບາງບ່ອນບ�?່ສາມາດລະບຸໄດ້ ເນື່ອງຈາ�?ບັນຫາ�?ານເຊື່ອມຕ�?່ເຄືອຂ່າ�?."</string>
+    <string name="sync_album_error" msgid="1020688062900977530">"ບ�?່ສາມາດດາວໂຫລດຮູບຈາ�?ອະລະບ້ຳນີ້ໄດ້. ລອງໃ�?່ໃນພາ�?ຫຼັງ."</string>
     <string name="show_images_only" msgid="7263218480867672653">"ຮູບເທົ່ານັ້ນ"</string>
     <string name="show_videos_only" msgid="3850394623678871697">"ວິດີໂອເທົ່ານັ້ນ"</string>
     <string name="show_all" msgid="6963292714584735149">"ຮູບ &amp; ວິດີໂອ"</string>
     <string name="appwidget_title" msgid="6410561146863700411">"ຄັງຮູບພາບ"</string>
-    <string name="appwidget_empty_text" msgid="1228925628357366957">"ບໍ່ມີຮູບ."</string>
-    <string name="crop_saved" msgid="1595985909779105158">"ຮູບທີ່ຖືກຕັດໄດ້ຖືກບັນທຶກໄປຫາ <xliff:g id="FOLDER_NAME">%s</xliff:g> ແລ້ວ."</string>
-    <string name="no_albums_alert" msgid="4111744447491690896">"ບໍ່ມີອະລະບ້ຳ."</string>
+    <string name="appwidget_empty_text" msgid="1228925628357366957">"ບ�?່ມີຮູບ."</string>
+    <string name="crop_saved" msgid="1595985909779105158">"ຮູບທີ່ຖື�?ຕັດໄດ້ຖື�?ບັນທຶ�?ໄປຫາ <xliff:g id="FOLDER_NAME">%s</xliff:g> �?ລ້ວ."</string>
+    <string name="no_albums_alert" msgid="4111744447491690896">"ບ�?່ມີອະລະບ້ຳ."</string>
     <string name="empty_album" msgid="4542880442593595494">"ມີ 0 ຮູບ/ວິດີໂອ."</string>
     <string name="picasa_posts" msgid="1497721615718760613">"ໂພສ"</string>
-    <string name="make_available_offline" msgid="5157950985488297112">"ເຮັດໃຫ້ນຳໃຊ້ແບບອອບລາຍໄດ້"</string>
-    <string name="sync_picasa_albums" msgid="8522572542111169872">"ເອີ້ນຂໍ້ມູນໃໝ່"</string>
-    <string name="done" msgid="217672440064436595">"ແລ້ວໆ"</string>
-    <string name="sequence_in_set" msgid="7235465319919457488">"%1$d ໃນ %2$d ລາຍການ:"</string>
+    <string name="make_available_offline" msgid="5157950985488297112">"ເຮັດໃຫ້ນຳໃຊ້�?ບບອອບລາ�?ໄດ້"</string>
+    <string name="sync_picasa_albums" msgid="8522572542111169872">"ເອີ້ນຂ�?້ມູນໃ�?່"</string>
+    <string name="done" msgid="217672440064436595">"�?ລ້ວໆ"</string>
+    <string name="sequence_in_set" msgid="7235465319919457488">"%1$d ໃນ %2$d ລາ�?�?ານ:"</string>
     <string name="title" msgid="7622928349908052569">"ຊື່"</string>
-    <string name="description" msgid="3016729318096557520">"ຄຳອະທິບາຍ"</string>
+    <string name="description" msgid="3016729318096557520">"ຄຳອະທິບາ�?"</string>
     <string name="time" msgid="1367953006052876956">"ເວລາ"</string>
-    <string name="location" msgid="3432705876921618314">"ຕຳແໜ່ງ"</string>
+    <string name="location" msgid="3432705876921618314">"ຕຳ�?ໜ່ງ"</string>
     <string name="path" msgid="4725740395885105824">"ເສັ້ນທາງ"</string>
-    <string name="width" msgid="9215847239714321097">"ກວ້າງ"</string>
+    <string name="width" msgid="9215847239714321097">"�?ວ້າງ"</string>
     <string name="height" msgid="3648885449443787772">"ລວງສູງ"</string>
-    <string name="orientation" msgid="4958327983165245513">"ທິດທາງໜ້າຈໍ"</string>
-    <string name="duration" msgid="8160058911218541616">"ໄລຍະເວລາ"</string>
+    <string name="orientation" msgid="4958327983165245513">"ທິດທາງໜ້າຈ�?"</string>
+    <string name="duration" msgid="8160058911218541616">"ໄລ�?ະເວລາ"</string>
     <string name="mimetype" msgid="8024168704337990470">"ປະເພດ MIME"</string>
     <string name="file_size" msgid="8486169301588318915">"ຂະໜາດໄຟລ໌"</string>
-    <string name="maker" msgid="7921835498034236197">"ຍີ່ຫໍ້"</string>
+    <string name="maker" msgid="7921835498034236197">"�?ີ່ຫ�?້"</string>
     <string name="model" msgid="8240207064064337366">"ໂມເດວ"</string>
-    <string name="flash" msgid="2816779031261147723">"ແຟລຊ"</string>
-    <string name="aperture" msgid="5920657630303915195">"ຮູຮັບແສງ"</string>
-    <string name="focal_length" msgid="1291383769749877010">"ໄລຍະໂຟກັສ:"</string>
+    <string name="flash" msgid="2816779031261147723">"�?ຟລຊ"</string>
+    <string name="aperture" msgid="5920657630303915195">"ຮູຮັບ�?ສງ"</string>
+    <string name="focal_length" msgid="1291383769749877010">"ໄລ�?ະໂຟ�?ັສ:"</string>
     <string name="white_balance" msgid="1582509289994216078">"ຄວາມດຸ່ນດ່ຽວສີຂາວ"</string>
-    <string name="exposure_time" msgid="3990163680281058826">"ເວລາການຮັບແສງ"</string>
+    <string name="exposure_time" msgid="3990163680281058826">"ເວລາ�?ານຮັບ�?ສງ"</string>
     <string name="iso" msgid="5028296664327335940">"ISO"</string>
     <string name="unit_mm" msgid="1125768433254329136">"ມມ"</string>
     <string name="manual" msgid="6608905477477607865">"ຕັ້ງຄ່າເອງ"</string>
     <string name="auto" msgid="4296941368722892821">"ອັດຕະໂນມັດ"</string>
-    <string name="flash_on" msgid="7891556231891837284">"ຍິງແຟລດ"</string>
-    <string name="flash_off" msgid="1445443413822680010">"ບໍ່ມີແຟລດ"</string>
-    <string name="unknown" msgid="3506693015896912952">"ບໍ່ຮູ້ຈັກ"</string>
+    <string name="flash_on" msgid="7891556231891837284">"�?ິງ�?ຟລດ"</string>
+    <string name="flash_off" msgid="1445443413822680010">"ບ�?່ມີ�?ຟລດ"</string>
+    <string name="unknown" msgid="3506693015896912952">"ບ�?່ຮູ້ຈັ�?"</string>
     <string name="ffx_original" msgid="372686331501281474">"ຕົ້ນສະບັບ"</string>
-    <string name="ffx_vintage" msgid="8348759951363844780">"ຍ້ອນຍຸກ"</string>
-    <string name="ffx_instant" msgid="726968618715691987">"ແຈ້ງ"</string>
-    <string name="ffx_bleach" msgid="8946700451603478453">"ກັດສີ"</string>
+    <string name="ffx_vintage" msgid="8348759951363844780">"�?້ອນ�?ຸ�?"</string>
+    <string name="ffx_instant" msgid="726968618715691987">"�?ຈ້ງ"</string>
+    <string name="ffx_bleach" msgid="8946700451603478453">"�?ັດສີ"</string>
     <string name="ffx_blue_crush" msgid="6034283412305561226">"ສີຟ້າ"</string>
     <string name="ffx_bw_contrast" msgid="517988490066217206">"ຂາວດຳ"</string>
     <string name="ffx_punch" msgid="1343475517872562639">"ພັນ"</string>
-    <string name="ffx_x_process" msgid="4779398678661811765">"ຂະບວນການ X"</string>
+    <string name="ffx_x_process" msgid="4779398678661811765">"ຂະບວນ�?ານ X"</string>
     <string name="ffx_washout" msgid="4594160692176642735">"ລາເຕ້"</string>
     <string name="ffx_washout_color" msgid="8034075742195795219">"Litho"</string>
   <plurals name="make_albums_available_offline">
-    <item quantity="one" msgid="2171596356101611086">"ເຮັດໃຫ້ອະລະບ້ຳສາມາດເບິ່ງແບບອອບລາຍໄດ້."</item>
-    <item quantity="other" msgid="4948604338155959389">"ກຳລັງເຮັດໃຫ້ອະລະບ້ຳສາມາດເບິ່ງອອບລາຍໄດ້."</item>
+    <item quantity="one" msgid="2171596356101611086">"ເຮັດໃຫ້ອະລະບ້ຳສາມາດເບິ່ງ�?ບບອອບລາ�?ໄດ້."</item>
+    <item quantity="other" msgid="4948604338155959389">"�?ຳລັງເຮັດໃຫ້ອະລະບ້ຳສາມາດເບິ່ງອອບລາ�?ໄດ້."</item>
   </plurals>
-    <string name="try_to_set_local_album_available_offline" msgid="2184754031896160755">"ລາຍການນີ້ໄດ້ຖືກເກັບຮັກສາໄວ້ໃນເຄື່ອງ ແລະສາມາດໃຊ້ອອບລາຍໄດ້."</string>
-    <string name="set_label_all_albums" msgid="4581863582996336783">"ອະລະບ້ຳທັງໝົດ"</string>
+    <string name="try_to_set_local_album_available_offline" msgid="2184754031896160755">"ລາ�?�?ານນີ້ໄດ້ຖື�?ເ�?ັບຮັ�?ສາໄວ້ໃນເຄື່ອງ �?ລະສາມາດໃຊ້ອອບລາ�?ໄດ້."</string>
+    <string name="set_label_all_albums" msgid="4581863582996336783">"ອະລະບ້ຳທັງ�?ົດ"</string>
     <string name="set_label_local_albums" msgid="6698133661656266702">"ອະລະບ້ຳໃນເຄື່ອງ"</string>
-    <string name="set_label_mtp_devices" msgid="1283513183744896368">"ອຸປະກອນ MTP"</string>
+    <string name="set_label_mtp_devices" msgid="1283513183744896368">"ອຸປະ�?ອນ MTP"</string>
     <string name="set_label_picasa_albums" msgid="5356258354953935895">"ອະລະບ້ຳ Picasa"</string>
-    <string name="free_space_format" msgid="8766337315709161215">"ໃຊ້ໄດ້ອີກ <xliff:g id="BYTES">%s</xliff:g>"</string>
-    <string name="size_below" msgid="2074956730721942260">"<xliff:g id="SIZE">%1$s</xliff:g> ຫຼື ຕ່ຳກວ່າ"</string>
-    <string name="size_above" msgid="5324398253474104087">"<xliff:g id="SIZE">%1$s</xliff:g> ຫຼືສູງກວ່າ"</string>
+    <string name="free_space_format" msgid="8766337315709161215">"ໃຊ້ໄດ້ອີ�? <xliff:g id="BYTES">%s</xliff:g>"</string>
+    <string name="size_below" msgid="2074956730721942260">"<xliff:g id="SIZE">%1$s</xliff:g> ຫຼື ຕ່ຳ�?ວ່າ"</string>
+    <string name="size_above" msgid="5324398253474104087">"<xliff:g id="SIZE">%1$s</xliff:g> ຫຼືສູງ�?ວ່າ"</string>
     <string name="size_between" msgid="8779660840898917208">"<xliff:g id="MIN_SIZE">%1$s</xliff:g> ຫາ <xliff:g id="MAX_SIZE">%2$s</xliff:g>"</string>
     <string name="Import" msgid="3985447518557474672">"ນຳເຂົ້າ"</string>
-    <string name="import_complete" msgid="3875040287486199999">"ການນຳເຂົ້າສຳເລັດແລ້ວ"</string>
-    <string name="import_fail" msgid="8497942380703298808">"ການນຳເຂົ້າບໍ່ປະສົບຜົນສຳເລັດ"</string>
-    <string name="camera_connected" msgid="916021826223448591">"ເຊື່ອມຕໍ່ກ້ອງແລ້ວ."</string>
-    <string name="camera_disconnected" msgid="2100559901676329496">"ຕັດການເຊື່ອມຕໍ່ກ້ອງແລ້ວ."</string>
-    <string name="click_import" msgid="6407959065464291972">"ແຕະບ່ອນນີ້ເພື່ອນຳເຂົ້າ"</string>
-    <string name="widget_type_album" msgid="6013045393140135468">"ເລືອກອະລະບ້ຳ"</string>
-    <string name="widget_type_shuffle" msgid="8594622705019763768">"ສະລັບຮູບທັງໝົດ"</string>
-    <string name="widget_type_photo" msgid="6267065337367795355">"ເລືອກຮູບໃດນຶ່ງ"</string>
-    <string name="widget_type" msgid="1364653978966343448">"ເລືອກຮູບ"</string>
+    <string name="import_complete" msgid="3875040287486199999">"�?ານນຳເຂົ້າສຳເລັດ�?ລ້ວ"</string>
+    <string name="import_fail" msgid="8497942380703298808">"�?ານນຳເຂົ້າບ�?່ປະສົບຜົນສຳເລັດ"</string>
+    <string name="camera_connected" msgid="916021826223448591">"ເຊື່ອມຕ�?່�?້ອງ�?ລ້ວ."</string>
+    <string name="camera_disconnected" msgid="2100559901676329496">"ຕັດ�?ານເຊື່ອມຕ�?່�?້ອງ�?ລ້ວ."</string>
+    <string name="click_import" msgid="6407959065464291972">"�?ຕະບ່ອນນີ້ເພື່ອນຳເຂົ້າ"</string>
+    <string name="widget_type_album" msgid="6013045393140135468">"ເລືອ�?ອະລະບ້ຳ"</string>
+    <string name="widget_type_shuffle" msgid="8594622705019763768">"ສະລັບຮູບທັງ�?ົດ"</string>
+    <string name="widget_type_photo" msgid="6267065337367795355">"ເລືອ�?ຮູບໃດນຶ່ງ"</string>
+    <string name="widget_type" msgid="1364653978966343448">"ເລືອ�?ຮູບ"</string>
     <string name="slideshow_dream_name" msgid="6915963319933437083">"ສະໄລ້ໂຊ"</string>
     <string name="albums" msgid="7320787705180057947">"ອະລະບ້ຳ"</string>
     <string name="times" msgid="2023033894889499219">"ເວລາ"</string>
     <string name="locations" msgid="6649297994083130305">"ສະຖານທີ່"</string>
     <string name="people" msgid="4114003823747292747">"ຄົນ"</string>
-    <string name="tags" msgid="5539648765482935955">"ແທັກ"</string>
-    <string name="group_by" msgid="4308299657902209357">"ຈັດກຸ່ມຕາມ"</string>
+    <string name="tags" msgid="5539648765482935955">"�?ທັ�?"</string>
+    <string name="group_by" msgid="4308299657902209357">"ຈັດ�?ຸ່ມຕາມ"</string>
     <string name="settings" msgid="1534847740615665736">"ຕັ້ງຄ່າ"</string>
     <string name="add_account" msgid="4271217504968243974">"ເພີ່ມບັນຊີ"</string>
-    <string name="folder_camera" msgid="4714658994809533480">"ກ້ອງ"</string>
+    <string name="folder_camera" msgid="4714658994809533480">"�?້ອງ"</string>
     <string name="folder_download" msgid="7186215137642323932">"ດາວໂຫລດ"</string>
-    <string name="folder_edited_online_photos" msgid="6278215510236800181">"ແກ້ໄຂຮູບອອນລາຍ"</string>
-    <string name="folder_imported" msgid="2773581395524747099">"ນຳເຂົ້າແລ້ວ"</string>
-    <string name="folder_screenshot" msgid="7200396565864213450">"ພາບໜ້າຈໍ"</string>
-    <string name="help" msgid="7368960711153618354">"ຊ່ວຍເຫຼືອ"</string>
-    <string name="no_external_storage_title" msgid="2408933644249734569">"ບໍ່ມີບ່ອນເກັບຂໍ້ມູນ"</string>
-    <string name="no_external_storage" msgid="95726173164068417">"ບໍ່ມີອຸປະກອນເກັບຂໍ້ມູນພາຍນອກ"</string>
+    <string name="folder_edited_online_photos" msgid="6278215510236800181">"�?�?້ໄຂຮູບອອນລາ�?"</string>
+    <string name="folder_imported" msgid="2773581395524747099">"ນຳເຂົ້າ�?ລ້ວ"</string>
+    <string name="folder_screenshot" msgid="7200396565864213450">"ພາບໜ້າຈ�?"</string>
+    <string name="help" msgid="7368960711153618354">"ຊ່ວ�?ເຫຼືອ"</string>
+    <string name="no_external_storage_title" msgid="2408933644249734569">"ບ�?່ມີບ່ອນເ�?ັບຂ�?້ມູນ"</string>
+    <string name="no_external_storage" msgid="95726173164068417">"ບ�?່ມີອຸປະ�?ອນເ�?ັບຂ�?້ມູນພາ�?ນອ�?"</string>
     <string name="switch_photo_filmstrip" msgid="8227883354281661548">"ມຸມມອງ Filmstrip"</string>
-    <string name="switch_photo_grid" msgid="3681299459107925725">"ມຸມມອງຕາຂ່າຍ"</string>
-    <string name="switch_photo_fullscreen" msgid="8360489096099127071">"ເບິ່ງແບບເຕັມຈໍ"</string>
-    <string name="trimming" msgid="9122385768369143997">"ກຳລັງຕັດ"</string>
-    <string name="muting" msgid="5094925919589915324">"ກຳລັງປິດສຽງ"</string>
-    <string name="please_wait" msgid="7296066089146487366">"ກະລຸນາລໍຖ້າ"</string>
-    <string name="save_into" msgid="9155488424829609229">"ກຳລັງບັນທຶກວິດີໂອໃສ່ <xliff:g id="ALBUM_NAME">%1$s</xliff:g> …"</string>
-    <string name="trim_too_short" msgid="751593965620665326">"ບໍ່ສາມາດຕັດໄດ້ : ວິດີໂອເປົ້າໝາຍສັ້ນເກີນໄປ"</string>
-    <string name="pano_progress_text" msgid="1586851614586678464">"ກຳລັງປະມວນຜົນຮູບພາໂນຣາມາ"</string>
-    <string name="save" msgid="613976532235060516">"ບັນທຶກ"</string>
-    <string name="ingest_scanning" msgid="1062957108473988971">"ກຳລັງສະແກນຂໍ້ມູນ..."</string>
+    <string name="switch_photo_grid" msgid="3681299459107925725">"ມຸມມອງຕາຂ່າ�?"</string>
+    <string name="switch_photo_fullscreen" msgid="8360489096099127071">"ເບິ່ງ�?ບບເຕັມຈ�?"</string>
+    <string name="trimming" msgid="9122385768369143997">"�?ຳລັງຕັດ"</string>
+    <string name="muting" msgid="5094925919589915324">"�?ຳລັງປິດສຽງ"</string>
+    <string name="please_wait" msgid="7296066089146487366">"�?ະລຸນາລ�?ຖ້າ"</string>
+    <string name="save_into" msgid="9155488424829609229">"�?ຳລັງບັນທຶ�?ວິດີໂອໃສ່ <xliff:g id="ALBUM_NAME">%1$s</xliff:g> …"</string>
+    <string name="trim_too_short" msgid="751593965620665326">"ບ�?່ສາມາດຕັດໄດ້ : ວິດີໂອເປົ້າ�?າ�?ສັ້ນເ�?ີນໄປ"</string>
+    <string name="pano_progress_text" msgid="1586851614586678464">"�?ຳລັງປະມວນຜົນຮູບພາໂນຣາມາ"</string>
+    <string name="save" msgid="613976532235060516">"ບັນທຶ�?"</string>
+    <string name="ingest_scanning" msgid="1062957108473988971">"�?ຳລັງສະ�?�?ນຂ�?້ມູນ..."</string>
   <plurals name="ingest_number_of_items_scanned">
-    <item quantity="zero" msgid="2623289390474007396">"ສະແກນ %1$d ລາຍການແລ້ວ"</item>
-    <item quantity="one" msgid="4340019444460561648">"ສະແກນ %1$d ລາຍການແລ້ວ"</item>
-    <item quantity="other" msgid="3138021473860555499">"%1$d ລາຍການຖືກສະແກນແລ້ວ"</item>
+    <item quantity="zero" msgid="2623289390474007396">"ສະ�?�?ນ %1$d ລາ�?�?ານ�?ລ້ວ"</item>
+    <item quantity="one" msgid="4340019444460561648">"ສະ�?�?ນ %1$d ລາ�?�?ານ�?ລ້ວ"</item>
+    <item quantity="other" msgid="3138021473860555499">"%1$d ລາ�?�?ານຖື�?ສະ�?�?ນ�?ລ້ວ"</item>
   </plurals>
-    <string name="ingest_sorting" msgid="1028652103472581918">"ກຳລັງຈັດຮຽງ..."</string>
-    <string name="ingest_scanning_done" msgid="8911916277034483430">"ການສະແກນແລ້ວໆ"</string>
-    <string name="ingest_importing" msgid="7456633398378527611">"ກຳລັງນຳເຂົ້າ..."</string>
-    <string name="ingest_empty_device" msgid="2010470482779872622">"ບໍ່ມີຂໍ້ມູນເພື່ອນຳເຂົ້າສຳລັບອຸປະກອນນີ້."</string>
-    <string name="ingest_no_device" msgid="3054128223131382122">"ບໍ່ມີອຸປະກອນ MTP ເຊື່ອມຕໍ່ຢູ່"</string>
-    <string name="camera_error_title" msgid="6484667504938477337">"ກ້ອງຖ່າຍຮູບຜິດພາດ"</string>
-    <string name="cannot_connect_camera" msgid="955440687597185163">"ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບກ້ອງໄດ້."</string>
-    <string name="camera_disabled" msgid="8923911090533439312">"ກ້ອງໄດ້ຖືກປິດໄວ້ເນື່ອງຈາກນະໂຍບາຍຄວາມປອດໄພ."</string>
-    <string name="camera_label" msgid="6346560772074764302">"ກ້ອງ"</string>
-    <string name="wait" msgid="8600187532323801552">"ກະລຸນາລໍຖ້າ..."</string>
-    <string name="no_storage" product="nosdcard" msgid="7335975356349008814">"ໃສ່ບ່ອນຈັດເກັບຂໍ້ມູນ ກ່ອນນຳໃຊ້ກ້ອງ."</string>
-    <string name="no_storage" product="default" msgid="5137703033746873624">"ໃສ່ SD card ກ່ອນນຳໃຊ້ກ້ອງ."</string>
-    <string name="preparing_sd" product="nosdcard" msgid="6104019983528341353">"ກຳລັງກະກຽມບ່ອນຈັດເກັບຂໍ້ມູນ USB..."</string>
-    <string name="preparing_sd" product="default" msgid="2914969119574812666">"ກຳລັງກະກຽມ SD card ..."</string>
-    <string name="access_sd_fail" product="nosdcard" msgid="8147993984037859354">"ບໍ່ສາມາດເຂົ້າເຖິງບ່ອນຈັດເກັບຂໍ້ມູນ ໄດ້."</string>
-    <string name="access_sd_fail" product="default" msgid="1584968646870054352">"ບໍ່ສາມາດເຂົ້າເຖິງ SD card ໄດ້."</string>
-    <string name="review_cancel" msgid="8188009385853399254">"ຍົກເລີກ"</string>
-    <string name="review_ok" msgid="1156261588693116433">"ແລ້ວໆ"</string>
-    <string name="time_lapse_title" msgid="4360632427760662691">"ການບັນທຶກພາບທາມແລບ"</string>
-    <string name="pref_camera_id_title" msgid="4040791582294635851">"ເລືອກກ້ອງ"</string>
-    <string name="pref_camera_id_entry_back" msgid="5142699735103692485">"ກັບ"</string>
+    <string name="ingest_sorting" msgid="1028652103472581918">"�?ຳລັງຈັດຮຽງ..."</string>
+    <string name="ingest_scanning_done" msgid="8911916277034483430">"�?ານສະ�?�?ນ�?ລ້ວໆ"</string>
+    <string name="ingest_importing" msgid="7456633398378527611">"�?ຳລັງນຳເຂົ້າ..."</string>
+    <string name="ingest_empty_device" msgid="2010470482779872622">"ບ�?່ມີຂ�?້ມູນເພື່ອນຳເຂົ້າສຳລັບອຸປະ�?ອນນີ້."</string>
+    <string name="ingest_no_device" msgid="3054128223131382122">"ບ�?່ມີອຸປະ�?ອນ MTP ເຊື່ອມຕ�?່ຢູ່"</string>
+    <string name="camera_error_title" msgid="6484667504938477337">"�?້ອງຖ່າ�?ຮູບຜິດພາດ"</string>
+    <string name="cannot_connect_camera" msgid="955440687597185163">"ບ�?່ສາມາດເຊື່ອມຕ�?່�?ັບ�?້ອງໄດ້."</string>
+    <string name="camera_disabled" msgid="8923911090533439312">"�?້ອງໄດ້ຖື�?ປິດໄວ້ເນື່ອງຈາ�?ນະໂ�?ບາ�?ຄວາມປອດໄພ."</string>
+    <string name="camera_label" msgid="6346560772074764302">"�?້ອງ"</string>
+    <string name="wait" msgid="8600187532323801552">"�?ະລຸນາລ�?ຖ້າ..."</string>
+
+    <string name="no_storage" product="default" msgid="5137703033746873624">"ໃສ່ SD card �?່ອນນຳໃຊ້�?້ອງ."</string>
+
+    <string name="preparing_sd" product="default" msgid="2914969119574812666">"�?ຳລັງ�?ະ�?ຽມ SD card ..."</string>
+
+    <string name="access_sd_fail" product="default" msgid="1584968646870054352">"ບ�?່ສາມາດເຂົ້າເຖິງ SD card ໄດ້."</string>
+    <string name="review_cancel" msgid="8188009385853399254">"�?ົ�?ເລີ�?"</string>
+    <string name="review_ok" msgid="1156261588693116433">"�?ລ້ວໆ"</string>
+    <string name="time_lapse_title" msgid="4360632427760662691">"�?ານບັນທຶ�?ພາບທາມ�?ລບ"</string>
+    <string name="pref_camera_id_title" msgid="4040791582294635851">"ເລືອ�?�?້ອງ"</string>
+    <string name="pref_camera_id_entry_back" msgid="5142699735103692485">"�?ັບ"</string>
     <string name="pref_camera_id_entry_front" msgid="5668958706828733669">"ໜ້າ"</string>
-    <string name="pref_camera_recordlocation_title" msgid="371208839215448917">"ບັນທຶກສະຖານທີ່"</string>
+    <string name="pref_camera_recordlocation_title" msgid="371208839215448917">"ບັນທຶ�?ສະຖານທີ່"</string>
     <string name="pref_camera_location_label" msgid="2254270920298609161">"ສະຖານທີ່"</string>
-    <string name="pref_camera_timer_title" msgid="3105232208281893389">"ໂຕນັບເວລາຖອຍຫຼັງ"</string>
+    <string name="pref_camera_timer_title" msgid="3105232208281893389">"ໂຕນັບເວລາຖອ�?ຫຼັງ"</string>
   <plurals name="pref_camera_timer_entry">
     <item quantity="one" msgid="1654523400981245448">"1 ວິນາທີ"</item>
     <item quantity="other" msgid="6455381617076792481">"%d ວິນາທີ"</item>
   </plurals>
     <!-- no translation found for pref_camera_timer_sound_default (7066624532144402253) -->
     <skip />
-    <string name="pref_camera_timer_sound_title" msgid="2469008631966169105">"ສຽງປີີ້ບໃນເວລານັບຖອຍຫຼັງ"</string>
+    <string name="pref_camera_timer_sound_title" msgid="2469008631966169105">"ສຽງປີີ້ບໃນເວລານັບຖອ�?ຫຼັງ"</string>
     <string name="setting_off" msgid="4480039384202951946">"ປິດ"</string>
     <string name="setting_on" msgid="8602246224465348901">"ເປີດ"</string>
     <string name="pref_video_quality_title" msgid="8245379279801096922">"ຄຸນນະພາບຂອງວິດີໂອ"</string>
     <string name="pref_video_quality_entry_high" msgid="8664038216234805914">"ສູງ"</string>
     <string name="pref_video_quality_entry_low" msgid="7258507152393173784">"ຕ່ຳ"</string>
-    <string name="pref_video_time_lapse_frame_interval_title" msgid="6245716906744079302">"ທາມແລບ"</string>
-    <string name="pref_camera_settings_category" msgid="2576236450859613120">"ຕັ້ງຄ່າກ້ອງ"</string>
-    <string name="pref_camcorder_settings_category" msgid="460313486231965141">"ຕັ້ງຄ່າກ້ອງວິດີໂອ"</string>
+    <string name="pref_video_time_lapse_frame_interval_title" msgid="6245716906744079302">"ທາມ�?ລບ"</string>
+    <string name="pref_camera_settings_category" msgid="2576236450859613120">"ຕັ້ງຄ່າ�?້ອງ"</string>
+    <string name="pref_camcorder_settings_category" msgid="460313486231965141">"ຕັ້ງຄ່າ�?້ອງວິດີໂອ"</string>
     <string name="pref_camera_picturesize_title" msgid="4333724936665883006">"ຂະໜາດຮູບ"</string>
-    <string name="pref_camera_picturesize_entry_13mp" msgid="675309554194481780">"13ລ້ານ ພິກເຊວ"</string>
-    <string name="pref_camera_picturesize_entry_8mp" msgid="259953780932849079">"8 ລ້ານພິກເຊວ"</string>
-    <string name="pref_camera_picturesize_entry_5mp" msgid="2882928212030661159">"5 ລ້ານພິກເຊວ"</string>
-    <string name="pref_camera_picturesize_entry_4mp" msgid="933242108272469142">"4ລ້ານ ພິກເຊວ"</string>
-    <string name="pref_camera_picturesize_entry_3mp" msgid="741415860337400696">"3 ລ້ານພິກເຊວ"</string>
-    <string name="pref_camera_picturesize_entry_2mp" msgid="1753709802245460393">"2 ລ້ານພິກເຊວ"</string>
-    <string name="pref_camera_picturesize_entry_2mp_wide" msgid="5359490802026616612">"2ລ້ານ ພິກເຊວ (16:9​)"</string>
-    <string name="pref_camera_picturesize_entry_1_3mp" msgid="829109608140747258">"1.3 ລ້ານພິກເຊວ"</string>
-    <string name="pref_camera_picturesize_entry_1mp" msgid="1669725616780375066">"1 ລ້ານພິກເຊວ"</string>
+    <string name="pref_camera_picturesize_entry_13mp" msgid="675309554194481780">"13ລ້ານ ພິ�?ເຊວ"</string>
+    <string name="pref_camera_picturesize_entry_8mp" msgid="259953780932849079">"8 ລ້ານພິ�?ເຊວ"</string>
+    <string name="pref_camera_picturesize_entry_5mp" msgid="2882928212030661159">"5 ລ້ານພິ�?ເຊວ"</string>
+    <string name="pref_camera_picturesize_entry_4mp" msgid="933242108272469142">"4ລ້ານ ພິ�?ເຊວ"</string>
+    <string name="pref_camera_picturesize_entry_3mp" msgid="741415860337400696">"3 ລ້ານພິ�?ເຊວ"</string>
+    <string name="pref_camera_picturesize_entry_2mp" msgid="1753709802245460393">"2 ລ້ານພິ�?ເຊວ"</string>
+    <string name="pref_camera_picturesize_entry_2mp_wide" msgid="5359490802026616612">"2ລ້ານ ພິ�?ເຊວ (16:9​)"</string>
+    <string name="pref_camera_picturesize_entry_1_3mp" msgid="829109608140747258">"1.3 ລ້ານພິ�?ເຊວ"</string>
+    <string name="pref_camera_picturesize_entry_1mp" msgid="1669725616780375066">"1 ລ້ານພິ�?ເຊວ"</string>
     <string name="pref_camera_picturesize_entry_vga" msgid="806934254162981919">"VGA"</string>
     <string name="pref_camera_picturesize_entry_qvga" msgid="8576186463069770133">"QVGA"</string>
-    <string name="pref_camera_focusmode_title" msgid="2877248921829329127">"ໂໝດໂຟກັສ"</string>
+    <string name="pref_camera_focusmode_title" msgid="2877248921829329127">"ໂ�?ດໂຟ�?ັສ"</string>
     <string name="pref_camera_focusmode_entry_auto" msgid="7374820710300362457">"ອັດຕະໂນມັດ"</string>
     <string name="pref_camera_focusmode_entry_infinity" msgid="3413922419264967552">"ອິນຟິນິຕີ"</string>
     <string name="pref_camera_focusmode_entry_macro" msgid="4424489110551866161">"ມາໂຄຣ"</string>
     <string name="pref_camera_focusmode_label_auto" msgid="8547956917516317183">"ອັດຕະໂນມັດ"</string>
     <string name="pref_camera_focusmode_label_infinity" msgid="4272904160062531778">"ອິນຟິນິຕີ"</string>
     <string name="pref_camera_focusmode_label_macro" msgid="8749317592620908054">"ມາໂຄຣ"</string>
-    <string name="pref_camera_flashmode_title" msgid="2287362477238791017">"ໂໝດແຟລຊ"</string>
-    <string name="pref_camera_flashmode_label" msgid="7546741624882856171">"ໂໝດແຟລຊ"</string>
+    <string name="pref_camera_flashmode_title" msgid="2287362477238791017">"ໂ�?ດ�?ຟລຊ"</string>
+    <string name="pref_camera_flashmode_label" msgid="7546741624882856171">"ໂ�?ດ�?ຟລຊ"</string>
     <string name="pref_camera_flashmode_entry_auto" msgid="7288383434237457709">"ອັດຕະໂນມັດ"</string>
     <string name="pref_camera_flashmode_entry_on" msgid="5330043918845197616">"ເປີດ"</string>
     <string name="pref_camera_flashmode_entry_off" msgid="867242186958805761">"ປິດ"</string>
-    <string name="pref_camera_flashmode_label_auto" msgid="8854671890619026197">"ໃຊ້ແຟລຊອັດຕະໂນມັດ"</string>
-    <string name="pref_camera_flashmode_label_on" msgid="7347504762794840140">"ເປີດແຟລຊ"</string>
-    <string name="pref_camera_flashmode_label_off" msgid="3541596735596053416">"ປິດແຟລຊຢູ່"</string>
+    <string name="pref_camera_flashmode_label_auto" msgid="8854671890619026197">"ໃຊ້�?ຟລຊອັດຕະໂນມັດ"</string>
+    <string name="pref_camera_flashmode_label_on" msgid="7347504762794840140">"ເປີດ�?ຟລຊ"</string>
+    <string name="pref_camera_flashmode_label_off" msgid="3541596735596053416">"ປິດ�?ຟລຊຢູ່"</string>
     <string name="pref_camera_whitebalance_title" msgid="677420930596673340">"ສົມດຸນສີຂາວ"</string>
     <string name="pref_camera_whitebalance_label" msgid="7467403405883190920">"ສົມດຸນສີຂາວ"</string>
     <string name="pref_camera_whitebalance_entry_auto" msgid="6580665476983469293">"ອັດຕະໂນມັດ"</string>
     <string name="pref_camera_whitebalance_entry_incandescent" msgid="8856667786449549938">"ໄຟຫຼອດໄສ້"</string>
-    <string name="pref_camera_whitebalance_entry_daylight" msgid="2534757270149561027">"ແສງແດດ"</string>
-    <string name="pref_camera_whitebalance_entry_fluorescent" msgid="2435332872847454032">"ໄຟຟລູອໍເຣສເຊນ"</string>
+    <string name="pref_camera_whitebalance_entry_daylight" msgid="2534757270149561027">"�?ສງ�?ດດ"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent" msgid="2435332872847454032">"ໄຟຟລູອ�?ເຣສເຊນ"</string>
     <string name="pref_camera_whitebalance_entry_cloudy" msgid="3531996716997959326">"ຟ້າຄຶ້ມ"</string>
     <string name="pref_camera_whitebalance_label_auto" msgid="1479694362310491429">"ອັດຕະໂນມັດ"</string>
     <string name="pref_camera_whitebalance_label_incandescent" msgid="7427628260209908900">"ຫຼອດໄຟສົ້ມ"</string>
-    <string name="pref_camera_whitebalance_label_daylight" msgid="1859710806141461399">"ກາງເວັນ"</string>
-    <string name="pref_camera_whitebalance_label_fluorescent" msgid="5173251749161337707">"ໄຟຟລູອໍເຣສເຊນ"</string>
+    <string name="pref_camera_whitebalance_label_daylight" msgid="1859710806141461399">"�?າງເວັນ"</string>
+    <string name="pref_camera_whitebalance_label_fluorescent" msgid="5173251749161337707">"ໄຟຟລູອ�?ເຣສເຊນ"</string>
     <string name="pref_camera_whitebalance_label_cloudy" msgid="8230173517179285320">"ຟ້າບົດ"</string>
-    <string name="pref_camera_scenemode_title" msgid="1420535844292504016">"ຮູບແບບສາກ"</string>
+    <string name="pref_camera_scenemode_title" msgid="1420535844292504016">"ຮູບ�?ບບສາ�?"</string>
     <string name="pref_camera_scenemode_entry_auto" msgid="7113995286836658648">"ອັດຕະໂນມັດ"</string>
     <string name="pref_camera_scenemode_entry_hdr" msgid="2923388802899511784">"HDR"</string>
-    <string name="pref_camera_scenemode_entry_action" msgid="616748587566110484">"ແອັກຊັນ"</string>
-    <string name="pref_camera_scenemode_entry_night" msgid="7606898503102476329">"ກາງຄືນ"</string>
-    <string name="pref_camera_scenemode_entry_sunset" msgid="181661154611507212">"ຕາເວັນຕົກ"</string>
+    <string name="pref_camera_scenemode_entry_action" msgid="616748587566110484">"�?ອັ�?ຊັນ"</string>
+    <string name="pref_camera_scenemode_entry_night" msgid="7606898503102476329">"�?າງຄືນ"</string>
+    <string name="pref_camera_scenemode_entry_sunset" msgid="181661154611507212">"ຕາເວັນຕົ�?"</string>
     <string name="pref_camera_scenemode_entry_party" msgid="907053529286788253">"ງານລ້ຽງ"</string>
-    <string name="pref_camera_scenemode_label_auto" msgid="4475096836397300237">"ບໍ່ໃຊ້"</string>
-    <string name="pref_camera_scenemode_label_action" msgid="964748409622151496">"ສາກແອັກຊັ່ນ"</string>
-    <string name="pref_camera_scenemode_label_night" msgid="1269871886845854574">"ກາງຄືນ"</string>
-    <string name="pref_camera_scenemode_label_sunset" msgid="2802732082948866877">"ຕາເວັນຕົກ"</string>
+    <string name="pref_camera_scenemode_label_auto" msgid="4475096836397300237">"ບ�?່ໃຊ້"</string>
+    <string name="pref_camera_scenemode_label_action" msgid="964748409622151496">"ສາ�?�?ອັ�?ຊັ່ນ"</string>
+    <string name="pref_camera_scenemode_label_night" msgid="1269871886845854574">"�?າງຄືນ"</string>
+    <string name="pref_camera_scenemode_label_sunset" msgid="2802732082948866877">"ຕາເວັນຕົ�?"</string>
     <string name="pref_camera_scenemode_label_party" msgid="1409459091844374828">"ງານລ້ຽງ"</string>
-    <string name="pref_camera_countdown_label" msgid="7592784692450586126">"ໂຕນັບເວລາຖອຍຫຼັງ"</string>
-    <string name="pref_camera_countdown_label_off" msgid="4987856883590176585">"ໂຕຈັບເວລາຖືກປິດ"</string>
+    <string name="pref_camera_countdown_label" msgid="7592784692450586126">"ໂຕນັບເວລາຖອ�?ຫຼັງ"</string>
+    <string name="pref_camera_countdown_label_off" msgid="4987856883590176585">"ໂຕຈັບເວລາຖື�?ປິດ"</string>
     <string name="pref_camera_countdown_label_one" msgid="1101814103087928898">"1 ວິນາທີ"</string>
     <string name="pref_camera_countdown_label_three" msgid="1047399297342955649">"3 ວິນາທີ"</string>
     <string name="pref_camera_countdown_label_ten" msgid="6274681535347260279">"10 ວິນາທີ"</string>
     <string name="pref_camera_countdown_label_fifteen" msgid="4544824246687597089">"15 ວິນາທີ"</string>
-    <string name="not_selectable_in_scene_mode" msgid="2970291701448555126">"ບໍ່ສາມາດເລືອກໄດ້ໃນໂໝດສາກ."</string>
-    <string name="pref_exposure_title" msgid="1229093066434614811">"ການຮັບແສງ"</string>
-    <string name="pref_exposure_label" msgid="552624394642497940">"ການຮັບແສງ"</string>
+    <string name="not_selectable_in_scene_mode" msgid="2970291701448555126">"ບ�?່ສາມາດເລືອ�?ໄດ້ໃນໂ�?ດສາ�?."</string>
+    <string name="pref_exposure_title" msgid="1229093066434614811">"�?ານຮັບ�?ສງ"</string>
+    <string name="pref_exposure_label" msgid="552624394642497940">"�?ານຮັບ�?ສງ"</string>
     <!-- no translation found for pref_camera_hdr_default (1336869406134365882) -->
     <skip />
     <string name="pref_camera_hdr_label" msgid="7217211253357027510">"HDR"</string>
-    <string name="pref_camera_id_label_back" msgid="8745553500400332333">"ກ້ອງຫນ້າ"</string>
-    <string name="pref_camera_id_label_front" msgid="8699439330056996709">"ກ້ອງຫຼັງ"</string>
-    <string name="dialog_ok" msgid="6263301364153382152">"ຕົກລົງ"</string>
-    <string name="spaceIsLow_content" product="nosdcard" msgid="4401325203349203177">"ບ່ອນຈັດເກັບຂໍ້ມູນ USB ຂອງທ່ານກຳລັງຈະເຕັມ. ໃຫ້ປ່ຽນການຕັ້ງຄ່າຄຸນນະພາບ ຫຼືລຶບຮູບໃດນຶ່ງ ຫຼືໄຟລ໌ອື່ນໆອອກກ່ອນ."</string>
-    <string name="spaceIsLow_content" product="default" msgid="1732882643101247179">"SD card ຂອງທ່ານກຳລັງຈະເຕັມ. ໃຫ້ປ່ຽນການຕັ້ງຄ່າຄຸນນະພາບ ຫຼືລຶບຮູບໃດນຶ່ງ ຫຼືໄຟລ໌ອື່ນໆອອກກ່ອນ."</string>
-    <string name="video_reach_size_limit" msgid="6179877322015552390">"ເຖິງຂີດຈຳກັດຂອງຂະໜາດແລ້ວ."</string>
-    <string name="pano_too_fast_prompt" msgid="2823839093291374709">"ໄວເກີນໄປ"</string>
-    <string name="pano_dialog_prepare_preview" msgid="4788441554128083543">"ກຳລັງກຽມຮູບພາໂນຣາມາ"</string>
-    <string name="pano_dialog_panorama_failed" msgid="2155692796549642116">"ບໍ່ສາມາດບັນທຶກຮູບພາໂນຣາມາໄດ້."</string>
+    <string name="pref_camera_id_label_back" msgid="8745553500400332333">"�?້ອງຫນ້າ"</string>
+    <string name="pref_camera_id_label_front" msgid="8699439330056996709">"�?້ອງຫຼັງ"</string>
+    <string name="dialog_ok" msgid="6263301364153382152">"ຕົ�?ລົງ"</string>
+
+    <string name="spaceIsLow_content" product="default" msgid="1732882643101247179">"SD card ຂອງທ່ານ�?ຳລັງຈະເຕັມ. ໃຫ້ປ່ຽນ�?ານຕັ້ງຄ່າຄຸນນະພາບ ຫຼືລຶບຮູບໃດນຶ່ງ ຫຼືໄຟລ໌ອື່ນໆອອ�?�?່ອນ."</string>
+    <string name="video_reach_size_limit" msgid="6179877322015552390">"ເຖິງຂີດຈຳ�?ັດຂອງຂະໜາດ�?ລ້ວ."</string>
+    <string name="pano_too_fast_prompt" msgid="2823839093291374709">"ໄວເ�?ີນໄປ"</string>
+    <string name="pano_dialog_prepare_preview" msgid="4788441554128083543">"�?ຳລັງ�?ຽມຮູບພາໂນຣາມາ"</string>
+    <string name="pano_dialog_panorama_failed" msgid="2155692796549642116">"ບ�?່ສາມາດບັນທຶ�?ຮູບພາໂນຣາມາໄດ້."</string>
     <string name="pano_dialog_title" msgid="5755531234434437697">"ພາໂນຣາມາ"</string>
-    <string name="pano_capture_indication" msgid="8248825828264374507">"ກຳລັງຖ່າຍພາໂນຣາມາ"</string>
-    <string name="pano_dialog_waiting_previous" msgid="7800325815031423516">"ກຳລັງລໍຖ້າພາໂນຣາມາອັນກ່ອນ"</string>
-    <string name="pano_review_saving_indication_str" msgid="2054886016665130188">"ກຳລັງບັນທຶກ..."</string>
-    <string name="pano_review_rendering" msgid="2887552964129301902">"ກຳລັງປະມວນຜົນຮູບພາໂນຣາມາ"</string>
-    <string name="tap_to_focus" msgid="8863427645591903760">"ສຳພັດເພື່ອໂຟກັສ."</string>
-    <string name="pref_video_effect_title" msgid="8243182968457289488">"ເອັບເຟັກ"</string>
-    <string name="effect_none" msgid="3601545724573307541">"ບໍ່ໃຊ້"</string>
-    <string name="effect_goofy_face_squeeze" msgid="1207235692524289171">"ໜ້າຍີ່"</string>
-    <string name="effect_goofy_face_big_eyes" msgid="3945182409691408412">"ຕາໃຫຍ່"</string>
-    <string name="effect_goofy_face_big_mouth" msgid="7528748779754643144">"ປາກໃຫຍ່"</string>
-    <string name="effect_goofy_face_small_mouth" msgid="3848209817806932565">"ປາກນ້ອຍ"</string>
-    <string name="effect_goofy_face_big_nose" msgid="5180533098740577137">"ດັງໃຫຍ່"</string>
-    <string name="effect_goofy_face_small_eyes" msgid="1070355596290331271">"ຕານ້ອຍ"</string>
-    <string name="effect_backdropper_space" msgid="7935661090723068402">"ໃນອະວະກາດ"</string>
-    <string name="effect_backdropper_sunset" msgid="45198943771777870">"ຕາເວັນຕົກ"</string>
+    <string name="pano_capture_indication" msgid="8248825828264374507">"�?ຳລັງຖ່າ�?ພາໂນຣາມາ"</string>
+    <string name="pano_dialog_waiting_previous" msgid="7800325815031423516">"�?ຳລັງລ�?ຖ້າພາໂນຣາມາອັນ�?່ອນ"</string>
+    <string name="pano_review_saving_indication_str" msgid="2054886016665130188">"�?ຳລັງບັນທຶ�?..."</string>
+    <string name="pano_review_rendering" msgid="2887552964129301902">"�?ຳລັງປະມວນຜົນຮູບພາໂນຣາມາ"</string>
+    <string name="tap_to_focus" msgid="8863427645591903760">"ສຳພັດເພື່ອໂຟ�?ັສ."</string>
+    <string name="pref_video_effect_title" msgid="8243182968457289488">"ເອັບເຟັ�?"</string>
+    <string name="effect_none" msgid="3601545724573307541">"ບ�?່ໃຊ້"</string>
+    <string name="effect_goofy_face_squeeze" msgid="1207235692524289171">"ໜ້າ�?ີ່"</string>
+    <string name="effect_goofy_face_big_eyes" msgid="3945182409691408412">"ຕາໃຫ�?່"</string>
+    <string name="effect_goofy_face_big_mouth" msgid="7528748779754643144">"ປາ�?ໃຫ�?່"</string>
+    <string name="effect_goofy_face_small_mouth" msgid="3848209817806932565">"ປາ�?ນ້ອ�?"</string>
+    <string name="effect_goofy_face_big_nose" msgid="5180533098740577137">"ດັງໃຫ�?່"</string>
+    <string name="effect_goofy_face_small_eyes" msgid="1070355596290331271">"ຕານ້ອ�?"</string>
+    <string name="effect_backdropper_space" msgid="7935661090723068402">"ໃນອະວະ�?າດ"</string>
+    <string name="effect_backdropper_sunset" msgid="45198943771777870">"ຕາເວັນຕົ�?"</string>
     <string name="effect_backdropper_gallery" msgid="959158844620991906">"ວິດີໂອຂອງທ່ານ"</string>
-    <string name="bg_replacement_message" msgid="9184270738916564608">"ວາງອຸປະກອນຈອງທ່ານລົງ.\nແລ້ວຍາງອອກຈາກມຸມມອງບຶດນຶ່ງ."</string>
-    <string name="video_snapshot_hint" msgid="18833576851372483">"ແຕະເພື່ອຖ່າຍຮູບໃນລະຫວ່າງບັນທຶກວິດີໂອ."</string>
-    <string name="video_recording_started" msgid="4132915454417193503">"ການບັນທຶກວິດີໂອໄດ້ເລີ່ມຕົ້ນແລ້ວ."</string>
-    <string name="video_recording_stopped" msgid="5086919511555808580">"ການບັນທຶກວິດີໂອໄດ້ຢຸດແລ້ວ."</string>
-    <string name="disable_video_snapshot_hint" msgid="4957723267826476079">"ການຈັບພາບວິດີໂອຈະຖືກປິດນຳໃຊ້ ເມື່ອໃຊ້ເອັບເຟັກພິເສດ."</string>
-    <string name="clear_effects" msgid="5485339175014139481">"ລຶບລ້າງເອັບເຟັກ"</string>
-    <string name="effect_silly_faces" msgid="8107732405347155777">"ໜ້າຕະຫລົກ"</string>
+    <string name="bg_replacement_message" msgid="9184270738916564608">"ວາງອຸປະ�?ອນຈອງທ່ານລົງ.\n�?ລ້ວ�?າງອອ�?ຈາ�?ມຸມມອງບຶດນຶ່ງ."</string>
+    <string name="video_snapshot_hint" msgid="18833576851372483">"�?ຕະເພື່ອຖ່າ�?ຮູບໃນລະຫວ່າງບັນທຶ�?ວິດີໂອ."</string>
+    <string name="video_recording_started" msgid="4132915454417193503">"�?ານບັນທຶ�?ວິດີໂອໄດ້ເລີ່ມຕົ້ນ�?ລ້ວ."</string>
+    <string name="video_recording_stopped" msgid="5086919511555808580">"�?ານບັນທຶ�?ວິດີໂອໄດ້ຢຸດ�?ລ້ວ."</string>
+    <string name="disable_video_snapshot_hint" msgid="4957723267826476079">"�?ານຈັບພາບວິດີໂອຈະຖື�?ປິດນຳໃຊ້ ເມື່ອໃຊ້ເອັບເຟັ�?ພິເສດ."</string>
+    <string name="clear_effects" msgid="5485339175014139481">"ລຶບລ້າງເອັບເຟັ�?"</string>
+    <string name="effect_silly_faces" msgid="8107732405347155777">"ໜ້າຕະຫລົ�?"</string>
     <string name="effect_background" msgid="6579360207378171022">"ພາບພື້ນຫຼັງ"</string>
     <string name="accessibility_shutter_button" msgid="2664037763232556307">"ປຸ່ມຊັດເຕີ"</string>
     <string name="accessibility_menu_button" msgid="7140794046259897328">"ປຸ່ມເມນູ"</string>
     <string name="accessibility_review_thumbnail" msgid="8961275263537513017">"ຮູບພາບຫຼ້າສຸດ"</string>
-    <string name="accessibility_camera_picker" msgid="8807945470215734566">"ສະລັບກ້ອງໜ້າ ແລະ ຫຼັງ"</string>
-    <string name="accessibility_mode_picker" msgid="3278002189966833100">"ໂຕເລືອກກ້ອງຖ່າຍຮູບ, ກ້ອງວິດີໂອ ຫຼືພາໂນຣາມາ"</string>
-    <string name="accessibility_second_level_indicators" msgid="3855951632917627620">"ໂຕຄວບຄຸມການຕັ້ງຄ່າເພີ່ມເຕີມ"</string>
-    <string name="accessibility_back_to_first_level" msgid="5234411571109877131">"ປິດໂຕຄວບຄຸມການຕັ້ງຄ່າ"</string>
-    <string name="accessibility_zoom_control" msgid="1339909363226825709">"ໂຕຄວບຄຸມການຊູມ"</string>
+    <string name="accessibility_camera_picker" msgid="8807945470215734566">"ສະລັບ�?້ອງໜ້າ �?ລະ ຫຼັງ"</string>
+    <string name="accessibility_mode_picker" msgid="3278002189966833100">"ໂຕເລືອ�?�?້ອງຖ່າ�?ຮູບ, �?້ອງວິດີໂອ ຫຼືພາໂນຣາມາ"</string>
+    <string name="accessibility_second_level_indicators" msgid="3855951632917627620">"ໂຕຄວບຄຸມ�?ານຕັ້ງຄ່າເພີ່ມເຕີມ"</string>
+    <string name="accessibility_back_to_first_level" msgid="5234411571109877131">"ປິດໂຕຄວບຄຸມ�?ານຕັ້ງຄ່າ"</string>
+    <string name="accessibility_zoom_control" msgid="1339909363226825709">"ໂຕຄວບຄຸມ�?ານຊູມ"</string>
     <string name="accessibility_decrement" msgid="1411194318538035666">"ຫຼຸດລົງ %1$s"</string>
     <string name="accessibility_increment" msgid="8447850530444401135">"ເພີ່ມ %1$s"</string>
-    <string name="accessibility_check_box" msgid="7317447218256584181">"ກ່ອງເຄື່ອງໝາຍ %1$s"</string>
-    <string name="accessibility_switch_to_camera" msgid="5951340774212969461">"ປ່ຽນໄປໂໝດຮູບ"</string>
-    <string name="accessibility_switch_to_video" msgid="4991396355234561505">"ປ່ຽນໄປໂໝດວິດີໂອ"</string>
-    <string name="accessibility_switch_to_panorama" msgid="604756878371875836">"ປ່ຽນໄປໂໝດພາໂນຣາມາ"</string>
-    <string name="accessibility_switch_to_new_panorama" msgid="8116783308051524188">"ປ່ຽນໄປໂໝດພາໂນຣາມາແບບໃໝ່"</string>
+    <string name="accessibility_check_box" msgid="7317447218256584181">"�?່ອງເຄື່ອງ�?າ�? %1$s"</string>
+    <string name="accessibility_switch_to_camera" msgid="5951340774212969461">"ປ່ຽນໄປໂ�?ດຮູບ"</string>
+    <string name="accessibility_switch_to_video" msgid="4991396355234561505">"ປ່ຽນໄປໂ�?ດວິດີໂອ"</string>
+    <string name="accessibility_switch_to_panorama" msgid="604756878371875836">"ປ່ຽນໄປໂ�?ດພາໂນຣາມາ"</string>
+    <string name="accessibility_switch_to_new_panorama" msgid="8116783308051524188">"ປ່ຽນໄປໂ�?ດພາໂນຣາມາ�?ບບໃ�?່"</string>
     <string name="accessibility_switch_to_refocus" msgid="4539294619557299903">"ສັບ​ປ່ຽນ​ເປັນ Refocus"</string>
-    <string name="accessibility_review_cancel" msgid="9070531914908644686">"ການກວດສອບໃຫ້ຍົກເລີກ"</string>
-    <string name="accessibility_review_ok" msgid="7793302834271343168">"ການກວດກາສຳເລັດ"</string>
-    <string name="accessibility_review_retake" msgid="659300290054705484">"ການກວດສອບໃຫ້ຖ່າຍຄືນ"</string>
+    <string name="accessibility_review_cancel" msgid="9070531914908644686">"�?ານ�?ວດສອບໃຫ້�?ົ�?ເລີ�?"</string>
+    <string name="accessibility_review_ok" msgid="7793302834271343168">"�?ານ�?ວດ�?າສຳເລັດ"</string>
+    <string name="accessibility_review_retake" msgid="659300290054705484">"�?ານ�?ວດສອບໃຫ້ຖ່າ�?ຄືນ"</string>
     <string name="accessibility_play_video" msgid="7596298365794810207">"ຫຼິ້ນວິດີໂອ"</string>
     <string name="accessibility_pause_video" msgid="6526344477133046653">"ຢຸດວິດີໂອຊົ່ວຄາວ"</string>
-    <string name="accessibility_reload_video" msgid="3250335917598607232">"ໂຫຼດວິດີໂອໃໝ່"</string>
-    <string name="accessibility_time_bar" msgid="1414029843602604531">"ແຖບເວລາຂອງໂປຣແກຣມຫຼິ້ນວິດີໂອ"</string>
+    <string name="accessibility_reload_video" msgid="3250335917598607232">"ໂຫຼດວິດີໂອໃ�?່"</string>
+    <string name="accessibility_time_bar" msgid="1414029843602604531">"�?ຖບເວລາຂອງໂປຣ�?�?ຣມຫຼິ້ນວິດີໂອ"</string>
     <string name="capital_on" msgid="5491353494964003567">"ເປີດ"</string>
     <string name="capital_off" msgid="7231052688467970897">"ປິດ"</string>
     <string name="pref_video_time_lapse_frame_interval_off" msgid="3490489191038309496">"ປິດ"</string>
@@ -416,22 +416,22 @@
     <string name="time_lapse_seconds" msgid="2105521458391118041">"ວິນາທີ"</string>
     <string name="time_lapse_minutes" msgid="7738520349259013762">"ນາທີ"</string>
     <string name="time_lapse_hours" msgid="1776453661704997476">"ຊົ່ວໂມງ"</string>
-    <string name="time_lapse_interval_set" msgid="2486386210951700943">"ແລ້ວໆ"</string>
-    <string name="set_time_interval" msgid="2970567717633813771">"ກໍານົດໄລຍະເວລາ"</string>
-    <string name="set_time_interval_help" msgid="6665849510484821483">"ຄວາມສາມາດ ທາມແລບ ຖືກປິດໄວ້ຢູ່. ໃຫ້ເປີດມັນຂຶ້ນເພື່ອຕັ້ງຄ່າໄລຍະຫ່າງການຖ່າຍແຕ່ລະຄັ້ງ."</string>
-    <string name="set_timer_help" msgid="5007708849404589472">"ໂຕນັບເວລາຖອຍຫຼັງຖືກປິດໄວ້. ໃຫ້ເປີດມັນຂຶ້ນເພື່ອໃຫ້ນັບຖອຍຫຼັງກ່ອນຖ່າຍຮູບ."</string>
-    <string name="set_duration" msgid="5578035312407161304">"ຕັ້ງໄລຍະເວລາເປັນວິນາທີ"</string>
-    <string name="count_down_title_text" msgid="4976386810910453266">"ກຳລັງນັບຖອຍຫຼັງເພື່ອຖ່າຍຮູບ"</string>
-    <string name="remember_location_title" msgid="9060472929006917810">"ຈື່ຂໍ້ມູນສະຖານທີ່ຂອງຮູບບໍ່?"</string>
-    <string name="remember_location_prompt" msgid="724592331305808098">"ແທັກສະຖານທີ່ທີ່ຖ່າຍໃຫ້ຮູບ ແລະວິດີໂອຂອງທ່ານ.\n\nແອັບຯອື່ນໆສາມາດເຂົ້າເຖິງຂໍ້ມູນນີ້ໄດ້ ພ້ອມກັບຮູບທີ່ທ່ານບັນທຶກ."</string>
-    <string name="remember_location_no" msgid="7541394381714894896">"ບໍ່, ຂອບໃຈ"</string>
-    <string name="remember_location_yes" msgid="862884269285964180">"ຕົກລົງ"</string>
-    <string name="menu_camera" msgid="3476709832879398998">"ກ້ອງ"</string>
-    <string name="menu_search" msgid="7580008232297437190">"ຊອກຫາ"</string>
+    <string name="time_lapse_interval_set" msgid="2486386210951700943">"�?ລ້ວໆ"</string>
+    <string name="set_time_interval" msgid="2970567717633813771">"�?�?ານົດໄລ�?ະເວລາ"</string>
+    <string name="set_time_interval_help" msgid="6665849510484821483">"ຄວາມສາມາດ ທາມ�?ລບ ຖື�?ປິດໄວ້ຢູ່. ໃຫ້ເປີດມັນຂຶ້ນເພື່ອຕັ້ງຄ່າໄລ�?ະຫ່າງ�?ານຖ່າ�?�?ຕ່ລະຄັ້ງ."</string>
+    <string name="set_timer_help" msgid="5007708849404589472">"ໂຕນັບເວລາຖອ�?ຫຼັງຖື�?ປິດໄວ້. ໃຫ້ເປີດມັນຂຶ້ນເພື່ອໃຫ້ນັບຖອ�?ຫຼັງ�?່ອນຖ່າ�?ຮູບ."</string>
+    <string name="set_duration" msgid="5578035312407161304">"ຕັ້ງໄລ�?ະເວລາເປັນວິນາທີ"</string>
+    <string name="count_down_title_text" msgid="4976386810910453266">"�?ຳລັງນັບຖອ�?ຫຼັງເພື່ອຖ່າ�?ຮູບ"</string>
+    <string name="remember_location_title" msgid="9060472929006917810">"ຈື່ຂ�?້ມູນສະຖານທີ່ຂອງຮູບບ�?່?"</string>
+    <string name="remember_location_prompt" msgid="724592331305808098">"�?ທັ�?ສະຖານທີ່ທີ່ຖ່າ�?ໃຫ້ຮູບ �?ລະວິດີໂອຂອງທ່ານ.\n\n�?ອັບຯອື່ນໆສາມາດເຂົ້າເຖິງຂ�?້ມູນນີ້ໄດ້ ພ້ອມ�?ັບຮູບທີ່ທ່ານບັນທຶ�?."</string>
+    <string name="remember_location_no" msgid="7541394381714894896">"ບ�?່, ຂອບໃຈ"</string>
+    <string name="remember_location_yes" msgid="862884269285964180">"ຕົ�?ລົງ"</string>
+    <string name="menu_camera" msgid="3476709832879398998">"�?້ອງ"</string>
+    <string name="menu_search" msgid="7580008232297437190">"ຊອ�?ຫາ"</string>
     <string name="tab_photos" msgid="9110813680630313419">"ຮູບພາບ"</string>
     <string name="tab_albums" msgid="8079449907770685691">"ອະລະບ້ຳ"</string>
-    <string name="camera_menu_more_label" msgid="6868642182125198710">"ຕົວເລືອກເພີ່ມເຕີມ"</string>
-    <string name="camera_menu_settings_label" msgid="875454962069404723">"ການຕັ້ງຄ່າ"</string>
+    <string name="camera_menu_more_label" msgid="6868642182125198710">"ຕົວເລືອ�?ເພີ່ມເຕີມ"</string>
+    <string name="camera_menu_settings_label" msgid="875454962069404723">"�?ານຕັ້ງຄ່າ"</string>
   <plurals name="number_of_photos">
     <item quantity="one" msgid="6949174783125614798">"%1$d ຮູບ"</item>
     <item quantity="other" msgid="3813306834113858135">"%1$d ຮູບ"</item>

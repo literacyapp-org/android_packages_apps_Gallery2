@@ -1,11 +1,19 @@
 # Project files and paths.
-.classpath
-.project
+local.properties
+
+.gradle
+/*/build
+/build
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
 *.iml
 **/*.iml
-.settings/
-bin/
-libs/
-gen/
-.idea/
-project.properties
+.idea
+
+*.mk
+.DS_Store

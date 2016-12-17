@@ -24,7 +24,7 @@ import android.support.v8.renderscript.RenderScript;
 import android.support.v8.renderscript.Script;
 import android.support.v8.renderscript.Type;
 
-import com.android.gallery3d.R;
+import org.literacyapp.gallery3d.R;
 import com.android.gallery3d.filtershow.pipeline.FilterEnvironment;
 
 public class ImageFilterChanSat extends ImageFilterRS {

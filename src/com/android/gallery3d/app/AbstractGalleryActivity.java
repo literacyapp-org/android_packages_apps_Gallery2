@@ -33,6 +33,7 @@ import android.content.res.Configuration;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
+import android.os.Handler;
 import android.os.IBinder;
 import android.os.storage.StorageManager;
 import android.preference.PreferenceManager;
@@ -41,9 +42,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.Window;
 import android.view.WindowManager;
-import android.os.Handler;
 
-import com.android.gallery3d.R;
 import com.android.gallery3d.common.ApiHelper;
 import com.android.gallery3d.data.DataManager;
 import com.android.gallery3d.data.MediaItem;
@@ -54,6 +53,8 @@ import com.android.gallery3d.util.MediaSetUtils;
 import com.android.gallery3d.util.PanoramaViewHelper;
 import com.android.gallery3d.util.ThreadPool;
 import com.android.photos.data.GalleryBitmapPool;
+
+import org.literacyapp.gallery3d.R;
 
 import java.io.FileNotFoundException;
 

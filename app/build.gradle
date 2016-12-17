@@ -7,7 +7,7 @@ android {
     useLibrary 'org.apache.http.legacy'
 
     defaultConfig {
-        applicationId "com.android.gallery3d"
+        applicationId "org.literacyapp.gallery3d"
         renderscriptTargetApi 18
         minSdkVersion 21
         targetSdkVersion 23

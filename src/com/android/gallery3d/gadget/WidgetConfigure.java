@@ -31,7 +31,6 @@ import android.support.v4.content.FileProvider;
 import android.util.Log;
 import android.widget.RemoteViews;
 
-import com.android.gallery3d.R;
 import com.android.gallery3d.app.AlbumPicker;
 import com.android.gallery3d.app.DialogPicker;
 import com.android.gallery3d.app.GalleryApp;
@@ -43,8 +42,9 @@ import com.android.gallery3d.data.Path;
 import com.android.gallery3d.filtershow.crop.CropActivity;
 import com.android.gallery3d.filtershow.crop.CropExtras;
 
+import org.literacyapp.gallery3d.R;
+
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -204,10 +204,10 @@ public class WidgetConfigure extends Activity {
                 }
 
                 mCropSrc = FileProvider.getUriForFile(WidgetConfigure.this,
-                        "com.android.gallery3d.fileprovider",
+                        "org.literacyapp.gallery3d.fileprovider",
                         new File(cropSrc.getAbsolutePath()));
                 mCropDst = FileProvider.getUriForFile(WidgetConfigure.this,
-                        "com.android.gallery3d.fileprovider",
+                        "org.literacyapp.gallery3d.fileprovider",
                         new File(cropDst.getAbsolutePath()));
 
                 Intent request = new Intent(CropActivity.CROP_ACTION)

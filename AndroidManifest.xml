@@ -20,9 +20,9 @@
 <manifest android:versionCode="40030"
         android:versionName="1.1.40030"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        package="com.android.gallery3d">
+        package="org.literacyapp.gallery3d">
 
-    <original-package android:name="com.android.gallery3d" />
+    <original-package android:name="org.literacyapp.gallery3d" />
 
     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="21" />
 
@@ -284,7 +284,7 @@
 
         <provider
             android:name="com.android.gallery3d.filtershow.provider.SharedImageProvider"
-            android:authorities="com.android.gallery3d.filtershow.provider.SharedImageProvider"
+            android:authorities="org.literacyapp.gallery3d.filtershow.provider.SharedImageProvider"
             android:grantUriPermissions="true"
             android:readPermission="com.android.gallery3d.filtershow.permission.READ"
             android:writePermission="com.android.gallery3d.filtershow.permission.WRITE" />
@@ -350,10 +350,10 @@
                 android:grantUriPermissions="true"
                 android:exported="true"
                 android:permission="com.android.gallery3d.permission.GALLERY_PROVIDER"
-                android:authorities="com.android.gallery3d.provider" />
+                android:authorities="org.literacyapp.gallery3d.provider" />
         <provider
                 android:name="com.android.photos.data.PhotoProvider"
-                android:authorities="com.android.gallery3d.photoprovider"
+                android:authorities="org.literacyapp.gallery3d.photoprovider"
                 android:syncable="false"
                 android:exported="false"/>
         <activity android:name="com.android.gallery3d.gadget.WidgetClickHandler" />
@@ -443,7 +443,7 @@
         </activity>
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.android.gallery3d.fileprovider"
+            android:authorities="org.literacyapp.gallery3d.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data

@@ -25,7 +25,7 @@ import android.view.ViewGroup;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.util.Log;
-import com.android.gallery3d.R;
+import org.literacyapp.gallery3d.R;
 import com.android.gallery3d.filtershow.FilterShowActivity;
 import com.android.gallery3d.filtershow.filters.SimpleMakeupImageFilter;
 import com.android.gallery3d.filtershow.imageshow.MasterImage;

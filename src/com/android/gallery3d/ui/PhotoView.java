@@ -27,7 +27,7 @@ import android.view.MotionEvent;
 import android.view.View.MeasureSpec;
 import android.view.animation.AccelerateInterpolator;
 
-import com.android.gallery3d.R;
+import org.literacyapp.gallery3d.R;
 import com.android.gallery3d.app.AbstractGalleryActivity;
 import com.android.gallery3d.common.ApiHelper;
 import com.android.gallery3d.common.Utils;

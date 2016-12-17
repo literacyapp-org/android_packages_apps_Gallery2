@@ -42,10 +42,11 @@ import android.view.View.OnClickListener;
 import android.view.WindowManager;
 import android.widget.Toast;
 
-import com.android.gallery3d.R;
 import com.android.gallery3d.common.Utils;
 import com.android.gallery3d.filtershow.cache.ImageLoader;
 import com.android.gallery3d.filtershow.tools.SaveImage;
+
+import org.literacyapp.gallery3d.R;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

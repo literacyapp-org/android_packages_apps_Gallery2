@@ -22,10 +22,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.EditText;
-import android.widget.ImageView;
-import android.widget.ListView;
-import com.android.gallery3d.R;
+
 import com.android.gallery3d.filtershow.FilterShowActivity;
+
+import org.literacyapp.gallery3d.R;
 
 public class PresetManagementDialog extends DialogFragment implements View.OnClickListener {
     private UserPresetsAdapter mAdapter;

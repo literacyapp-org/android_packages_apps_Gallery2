@@ -17,24 +17,13 @@
 package com.android.gallery3d.filtershow.filters;
 
 import android.graphics.Bitmap;
-import android.graphics.Color;
 import android.graphics.Matrix;
-
-import com.android.gallery3d.R;
-import com.android.gallery3d.filtershow.pipeline.FilterEnvironment;
-
-import android.graphics.Bitmap;
-import android.graphics.Color;
-import android.graphics.Matrix;
-
 import android.support.v8.renderscript.Allocation;
 import android.support.v8.renderscript.Element;
 import android.support.v8.renderscript.RenderScript;
 import android.support.v8.renderscript.Script;
 import android.support.v8.renderscript.Type;
-import android.util.Log;
 
-import com.android.gallery3d.R;
 import com.android.gallery3d.filtershow.pipeline.FilterEnvironment;
 
 public class ImageFilterGrad extends ImageFilterRS {

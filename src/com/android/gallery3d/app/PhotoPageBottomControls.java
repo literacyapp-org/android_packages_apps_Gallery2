@@ -25,7 +25,7 @@ import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
 import android.widget.RelativeLayout;
 
-import com.android.gallery3d.R;
+import org.literacyapp.gallery3d.R;
 
 import java.util.HashMap;
 import java.util.Map;

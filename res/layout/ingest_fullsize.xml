@@ -26,7 +26,7 @@
         android:indeterminate="true"
         android:indeterminateOnly="true" />
 
-    <org.literacyapp.gallery3d.ingest.ui.MtpImageView
+    <com.android.gallery3d.ingest.ui.MtpImageView
         android:id="@+id/ingest_fullsize_image"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"

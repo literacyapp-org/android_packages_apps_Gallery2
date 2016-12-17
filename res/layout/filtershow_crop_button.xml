@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 
-<org.literacyapp.gallery3d.filtershow.ui.FramedTextButton
+<com.android.gallery3d.filtershow.ui.FramedTextButton
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/cropUtilityButton"
     android:layout_width="84dip"

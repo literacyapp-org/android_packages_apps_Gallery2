@@ -33,7 +33,7 @@
             android:layout_height="1dip"
             android:layout_width="match_parent"/>
 
-    <org.literacyapp.gallery3d.filtershow.CenteredLinearLayout
+    <com.android.gallery3d.filtershow.CenteredLinearLayout
             xmlns:custom="http://schemas.android.com/apk/res/org.literacyapp.gallery3d"
             android:layout_width="match_parent"
             android:layout_height="48dip"
@@ -96,7 +96,7 @@
 
         </LinearLayout>
 
-    </org.literacyapp.gallery3d.filtershow.CenteredLinearLayout>
+    </com.android.gallery3d.filtershow.CenteredLinearLayout>
 
     <View
             android:background="@color/toolbar_separation_line"

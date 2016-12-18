@@ -26,10 +26,10 @@
 
     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="21" />
 
-    <permission android:name="com.android.gallery3d.permission.GALLERY_PROVIDER"
+    <permission android:name="org.literacyapp.permission.GALLERY_PROVIDER"
             android:protectionLevel="signatureOrSystem" />
 
-    <permission android:name="com.android.gallery3d.permission.STORAGE_CHANGE"
+    <permission android:name="org.literacyapp.permission.STORAGE_CHANGE"
             android:protectionLevel="signatureOrSystem" />
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
@@ -53,7 +53,7 @@
     <uses-permission android:name="android.permission.WRITE_APN_SETTINGS"/>
     <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
     <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE"/>
-    <uses-permission android:name="com.android.gallery3d.permission.GALLERY_PROVIDER" />
+    <uses-permission android:name="org.literacyapp.permission.GALLERY_PROVIDER" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS" />
 
@@ -276,18 +276,18 @@
             </intent-filter>
         </activity>
 
-        <permission android:name="com.android.gallery3d.filtershow.permission.READ"
+        <permission android:name="org.literacyapp.filtershow.permission.READ"
                     android:protectionLevel="signature" />
 
-        <permission android:name="com.android.gallery3d.filtershow.permission.WRITE"
+        <permission android:name="org.literacyapp.filtershow.permission.WRITE"
                     android:protectionLevel="signature" />
 
         <provider
             android:name="com.android.gallery3d.filtershow.provider.SharedImageProvider"
-            android:authorities="org.literacyapp.gallery3d.filtershow.provider.SharedImageProvider"
+            android:authorities="org.literacyapp.filtershow.provider.SharedImageProvider"
             android:grantUriPermissions="true"
-            android:readPermission="com.android.gallery3d.filtershow.permission.READ"
-            android:writePermission="com.android.gallery3d.filtershow.permission.WRITE" />
+            android:readPermission="org.literacyapp.filtershow.permission.READ"
+            android:writePermission="org.literacyapp.filtershow.permission.WRITE" />
 
         <service
                 android:name=".filtershow.pipeline.ProcessingService"
@@ -349,11 +349,11 @@
                 android:syncable="false"
                 android:grantUriPermissions="true"
                 android:exported="true"
-                android:permission="com.android.gallery3d.permission.GALLERY_PROVIDER"
-                android:authorities="org.literacyapp.gallery3d.provider" />
+                android:permission="org.literacyapp.permission.GALLERY_PROVIDER"
+                android:authorities="org.literacyapp.provider" />
         <provider
                 android:name="com.android.photos.data.PhotoProvider"
-                android:authorities="org.literacyapp.gallery3d.photoprovider"
+                android:authorities="org.literacyapp.photoprovider"
                 android:syncable="false"
                 android:exported="false"/>
         <activity android:name="com.android.gallery3d.gadget.WidgetClickHandler" />
@@ -403,9 +403,9 @@
 
         <!-- Receiver to keep the storage path for the camera in sync -->
         <receiver android:name="com.android.gallery3d.app.StorageChangeReceiver"
-            android:permission="com.android.gallery3d.permission.STORAGE_CHANGE" >
+            android:permission="org.literacyapp.permission.STORAGE_CHANGE" >
             <intent-filter>
-                <action android:name="com.android.gallery3d.STORAGE_CHANGE" />
+                <action android:name="org.literacyapp.STORAGE_CHANGE" />
             </intent-filter>
         </receiver>
 
@@ -443,7 +443,7 @@
         </activity>
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="org.literacyapp.gallery3d.fileprovider"
+            android:authorities="org.literacyapp.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data

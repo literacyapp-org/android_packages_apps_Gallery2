@@ -1,5 +1,7 @@
 apply plugin: 'com.android.application'
 
+def final galleryApplicationId = 'org.literacyapp.gallery3d'
+
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.3"
@@ -7,13 +9,22 @@ android {
     useLibrary 'org.apache.http.legacy'
 
     defaultConfig {
-        applicationId "com.android.gallery3d"
+        applicationId = galleryApplicationId
         renderscriptTargetApi 18
         minSdkVersion 21
         targetSdkVersion 23
         versionCode 1000000
         versionName "1.0.0"
         renderscriptSupportModeEnabled true
+
+        //Values for the authorities and account types.
+        // Reference them in the java files with BuildConfig.ACCOUNT_TYPE.
+        buildConfigField "String", "ACCOUNT_TYPE", "\"${applicationId}.account\""
+        buildConfigField "String", "AUTHORITY", "\"${applicationId}.provider\""
+
+        //Reference them in .xml files.
+        resValue "string", "account_type", "${applicationId}.account"
+        resValue "string", "authority", "${applicationId}.provider"
     }
 
     lintOptions {

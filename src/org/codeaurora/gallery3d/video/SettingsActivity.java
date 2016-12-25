@@ -1,35 +1,28 @@
 package org.codeaurora.gallery3d.video;
 
 import android.app.ActionBar;
-import android.app.Activity;
-import android.content.ContentResolver;
-import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.SystemProperties;
-import android.preference.CheckBoxPreference;
 import android.preference.EditTextPreference;
-import android.preference.ListPreference;
 import android.preference.Preference;
 import android.preference.PreferenceActivity;
-import android.preference.PreferenceCategory;
-import android.preference.RingtonePreference;
 import android.preference.PreferenceScreen;
-import android.provider.ContactsContract;
 import android.provider.Settings;
 import android.provider.Settings.System;
 import android.provider.Telephony;
 import android.telephony.TelephonyManager;
 import android.text.method.DigitsKeyListener;
 import android.util.Log;
-import android.view.KeyEvent;
 import android.view.MenuItem;
-import com.android.gallery3d.R;
+
+import org.literacyapp.gallery3d.R;
 
 import java.util.ArrayList;
+
 
 public class SettingsActivity extends PreferenceActivity {
 

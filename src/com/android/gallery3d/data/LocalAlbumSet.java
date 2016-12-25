@@ -21,7 +21,6 @@ import android.os.Handler;
 import android.provider.MediaStore.Images;
 import android.provider.MediaStore.Video;
 
-import com.android.gallery3d.R;
 import com.android.gallery3d.app.GalleryApp;
 import com.android.gallery3d.data.BucketHelper.BucketEntry;
 import com.android.gallery3d.util.Future;
@@ -29,6 +28,8 @@ import com.android.gallery3d.util.FutureListener;
 import com.android.gallery3d.util.MediaSetUtils;
 import com.android.gallery3d.util.ThreadPool;
 import com.android.gallery3d.util.ThreadPool.JobContext;
+
+import org.literacyapp.gallery3d.R;
 
 import java.util.ArrayList;
 import java.util.Comparator;

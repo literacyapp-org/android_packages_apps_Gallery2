@@ -46,7 +46,7 @@ public class MtpClient {
   private static final String TAG = "MtpClient";
 
   private static final String ACTION_USB_PERMISSION =
-      "com.android.gallery3d.ingest.action.USB_PERMISSION";
+      "org.literacyapp.gallery3d.ingest.action.USB_PERMISSION";
 
   private final Context mContext;
   private final UsbManager mUsbManager;

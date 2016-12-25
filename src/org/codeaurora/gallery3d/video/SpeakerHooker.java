@@ -42,7 +42,7 @@ import android.media.AudioManager;
 import android.media.AudioSystem;
 import android.os.Bundle;
 
-import com.android.gallery3d.R;
+import org.literacyapp.gallery3d.R;
 
 public class SpeakerHooker extends MovieHooker {
 

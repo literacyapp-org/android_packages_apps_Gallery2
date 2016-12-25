@@ -32,7 +32,6 @@ import android.widget.Button;
 import android.widget.ShareActionProvider;
 import android.widget.ShareActionProvider.OnShareTargetSelectedListener;
 
-import com.android.gallery3d.R;
 import com.android.gallery3d.app.AbstractGalleryActivity;
 import com.android.gallery3d.common.ApiHelper;
 import com.android.gallery3d.common.Utils;
@@ -45,6 +44,8 @@ import com.android.gallery3d.util.Future;
 import com.android.gallery3d.util.GalleryUtils;
 import com.android.gallery3d.util.ThreadPool.Job;
 import com.android.gallery3d.util.ThreadPool.JobContext;
+
+import org.literacyapp.gallery3d.R;
 
 import java.util.ArrayList;
 

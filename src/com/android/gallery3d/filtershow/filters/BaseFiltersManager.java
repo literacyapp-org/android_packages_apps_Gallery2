@@ -20,7 +20,7 @@ import android.content.res.Resources;
 import android.graphics.Color;
 import android.util.Log;
 
-import com.android.gallery3d.R;
+import org.literacyapp.gallery3d.R;
 import com.android.gallery3d.filtershow.pipeline.ImagePreset;
 
 import java.util.ArrayList;

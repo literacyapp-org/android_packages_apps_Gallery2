@@ -1,17 +1,15 @@
 package com.android.gallery3d.util;
 
-import com.android.gallery3d.R;
-
 import android.app.Activity;
 import android.content.res.Configuration;
 import android.net.Uri;
 import android.os.Bundle;
-import android.os.Handler;
-import android.os.Message;
 import android.util.DisplayMetrics;
 import android.view.ViewGroup.LayoutParams;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+
+import org.literacyapp.gallery3d.R;
 
 public class ViewGifImage extends Activity {
     private static final String TAG       = "ViewGifImage";

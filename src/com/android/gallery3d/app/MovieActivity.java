@@ -62,7 +62,7 @@ import android.widget.ShareActionProvider;
 import android.widget.ToggleButton;
 import android.widget.Toast;
 
-import com.android.gallery3d.R;
+import org.literacyapp.gallery3d.R;
 import com.android.gallery3d.common.ApiHelper;
 import com.android.gallery3d.common.Utils;
 import com.android.gallery3d.ui.Knob;

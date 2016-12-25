@@ -27,7 +27,6 @@ import android.view.MotionEvent;
 import android.view.View.MeasureSpec;
 import android.view.animation.AccelerateInterpolator;
 
-import com.android.gallery3d.R;
 import com.android.gallery3d.app.AbstractGalleryActivity;
 import com.android.gallery3d.common.ApiHelper;
 import com.android.gallery3d.common.Utils;
@@ -42,6 +41,8 @@ import com.android.gallery3d.glrenderer.Texture;
 import com.android.gallery3d.util.GalleryUtils;
 import com.android.gallery3d.util.RangeArray;
 import com.android.gallery3d.util.UsageStatistics;
+
+import org.literacyapp.gallery3d.R;
 
 public class PhotoView extends GLView {
     @SuppressWarnings("unused")
@@ -1048,14 +1049,6 @@ public class PhotoView extends GLView {
             if (mFilmMode) {
                 if (mFirstScrollX) {
                     mPositionController.scrollFilmX(dxi);
-                } else {
-                    if (mTouchBoxIndex == Integer.MAX_VALUE) return true;
-                    int newDeltaY = calculateDeltaY(totalY);
-                    int d = newDeltaY - mDeltaY;
-                    if (d != 0) {
-                        mPositionController.scrollFilmY(mTouchBoxIndex, d);
-                        mDeltaY = newDeltaY;
-                    }
                 }
             } else {
                 mPositionController.scrollPage(dxi, dyi);

@@ -30,7 +30,6 @@ import android.support.v4.print.PrintHelper;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.android.gallery3d.R;
 import com.android.gallery3d.app.AbstractGalleryActivity;
 import com.android.gallery3d.common.Utils;
 import com.android.gallery3d.data.DataManager;
@@ -42,6 +41,8 @@ import com.android.gallery3d.util.Future;
 import com.android.gallery3d.util.GalleryUtils;
 import com.android.gallery3d.util.ThreadPool.Job;
 import com.android.gallery3d.util.ThreadPool.JobContext;
+
+import org.literacyapp.gallery3d.R;
 
 import java.util.ArrayList;
 
@@ -166,7 +167,6 @@ public class MenuExecutor {
     }
 
     public static void updateMenuOperation(Menu menu, int supported) {
-        boolean supportDelete = (supported & MediaObject.SUPPORT_DELETE) != 0;
         boolean supportRotate = (supported & MediaObject.SUPPORT_ROTATE) != 0;
         boolean supportCrop = (supported & MediaObject.SUPPORT_CROP) != 0;
         boolean supportTrim = (supported & MediaObject.SUPPORT_TRIM) != 0;
@@ -180,7 +180,6 @@ public class MenuExecutor {
         boolean supportPrint = (supported & MediaObject.SUPPORT_PRINT) != 0;
         supportPrint &= PrintHelper.systemSupportsPrint();
 
-        setMenuItemVisible(menu, R.id.action_delete, supportDelete);
         setMenuItemVisible(menu, R.id.action_rotate_ccw, supportRotate);
         setMenuItemVisible(menu, R.id.action_rotate_cw, supportRotate);
         setMenuItemVisible(menu, R.id.action_crop, supportCrop);

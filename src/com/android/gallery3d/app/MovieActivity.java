@@ -22,8 +22,10 @@ import android.app.ActionBar.OnMenuVisibilityListener;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.KeyguardManager;
+import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothClass;
 import android.bluetooth.BluetoothDevice;
+import android.bluetooth.BluetoothProfile;
 import android.content.AsyncQueryHandler;
 import android.content.BroadcastReceiver;
 import android.content.ContentResolver;
@@ -31,18 +33,18 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.IntentFilter;
-import android.content.res.Configuration;
 import android.content.SharedPreferences;
 import android.content.pm.ActivityInfo;
+import android.content.res.Configuration;
 import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
 import android.media.AudioManager;
+import android.media.MediaPlayer;
 import android.media.audiofx.AudioEffect;
 import android.media.audiofx.AudioEffect.Descriptor;
 import android.media.audiofx.BassBoost;
 import android.media.audiofx.Virtualizer;
-import android.media.MediaPlayer;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Build;
@@ -59,21 +61,20 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.CompoundButton;
 import android.widget.ShareActionProvider;
-import android.widget.ToggleButton;
 import android.widget.Toast;
+import android.widget.ToggleButton;
 
-import org.literacyapp.gallery3d.R;
 import com.android.gallery3d.common.ApiHelper;
 import com.android.gallery3d.common.Utils;
 import com.android.gallery3d.ui.Knob;
+
 import org.codeaurora.gallery3d.ext.IActivityHooker;
 import org.codeaurora.gallery3d.ext.IMovieItem;
 import org.codeaurora.gallery3d.ext.MovieItem;
 import org.codeaurora.gallery3d.ext.MovieUtils;
 import org.codeaurora.gallery3d.video.ExtensionHelper;
 import org.codeaurora.gallery3d.video.MovieTitleHelper;
-import android.bluetooth.BluetoothAdapter;
-import android.bluetooth.BluetoothProfile;
+import org.literacyapp.gallery3d.R;
 
 /**
  * This activity plays a video from a specified URI.
@@ -306,15 +307,6 @@ public class MovieActivity extends Activity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         super.onCreateOptionsMenu(menu);
-        getMenuInflater().inflate(R.menu.movie, menu);
-        MenuItem shareMenu = menu.findItem(R.id.action_share);
-        ShareActionProvider provider = (ShareActionProvider) shareMenu.getActionProvider();
-        mShareProvider = provider;
-        if (mShareProvider != null) {
-            // share provider is singleton, we should refresh our history file.
-            mShareProvider.setShareHistoryFileName(SHARE_HISTORY_FILE);
-        }
-        refreshShareProvider(mMovieItem);
 
         final MenuItem mi = menu.add(R.string.audio_effects);
         mi.setOnMenuItemClickListener(new MenuItem.OnMenuItemClickListener() {
